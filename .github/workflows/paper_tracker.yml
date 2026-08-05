@@ -1,6 +1,6 @@
 name: PubMed Tracker Pipeline
 
-# Trigger the workflow automatically every 3 hours and allow manual clicks
+# Trigger the workflow automatically every 2 hours and allow manual clicks
 on:
   schedule:
     - cron: '0 */2 * * *'
