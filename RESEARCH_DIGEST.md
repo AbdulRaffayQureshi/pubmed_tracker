@@ -280,3 +280,12 @@
 **Abstract:** Burn injuries constitute a significant global health challenge, with deep partial-thickness burns (deep second-degree) posing particular clinical concerns due to prolonged healing and high scarring risks stemming from reticular dermis damage. Current therapeutic strategies remain largely empirical, reflecting limited understanding of stage-specific regulatory mechanisms. This study systematically investigated the molecular basis of deep partial-thickness burn repair by establishing murine models and performing RNA-seq analysis across healing phases (0, 3, 7, 14 days post-burn, dpb). Integrated bioinformatics revealed pivotal ceRNA and PPI networks, identifying hif1a (hypoxia-responsive immunomodulator) and col1a1 (ECM remodeling hub) as nodal regulators. Mechanistically, mmu-miR-101a-3p and mmu-miR-181a-5p were validated as post-transcriptional repressors of col1a1 and hif1a, respectively. Our work pioneers the discovery of the mmu-miR-181a-5p/hif1a and mmu-miR-101a-3p/col1a1 axes as master regulators of burn repair, offering novel therapeutic targets. The multi-omics dataset and molecular networks established herein provide a foundational resource for wound healing research.
 
 ---
+
+## PubMed Update: 2026-08-08 08:42:13
+
+### An oxidative stress - and immunotherapy-related six-gene signature defines immune subtypes and predicts prognosis and immunotherapy response in hepatocellular carcinoma.
+**PMID:** [42551718](https://pubmed.ncbi.nlm.nih.gov/42551718/)
+
+**Abstract:** Oxidative stress and the tumor immune microenvironment jointly shape hepatocellular carcinoma (HCC) progression and response to immunotherapy, yet integrated biomarkers linking these processes are lacking.
+
+---
