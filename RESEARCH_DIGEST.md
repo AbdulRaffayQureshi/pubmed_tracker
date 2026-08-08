@@ -289,3 +289,18 @@
 **Abstract:** Oxidative stress and the tumor immune microenvironment jointly shape hepatocellular carcinoma (HCC) progression and response to immunotherapy, yet integrated biomarkers linking these processes are lacking.
 
 ---
+
+## PubMed Update: 2026-08-08 14:32:42
+
+### Study on the potential role of KIF23 in doxorubicin-induced cardiomyopathy through multi-omics integration and AI-based screening.
+**PMID:** [42567083](https://pubmed.ncbi.nlm.nih.gov/42567083/)
+
+**Abstract:** Doxorubicin-induced cardiomyopathy (DIC) is a common and severe cardiotoxic effect of doxorubicin (DOX)-based chemotherapy. This study aimed to identify core genes associated with DIC and investigate their immunoregulatory mechanisms.
+
+---
+### Effects of Normal butanol fraction of flavonoids from Polygonum hydropiper L. on PRV-Induced Oxidative Stress and Prediction of lncRNA Regulatory Targets in 3D4/2 Cells.
+**PMID:** [42567234](https://pubmed.ncbi.nlm.nih.gov/42567234/)
+
+**Abstract:** Infection with Pseudorabies virus (PRV) triggers a state of oxidative distress in host cells, which consequently results in cellular damage. Although the normal butanol fraction of flavonoids derived from Polygonum hydropiper L. (FNB) is recognized for its strong antioxidant properties, it remains unclear whether FNB can mitigate PRV-induced oxidative damage and whether this protective effect involves long non-coding RNA (lncRNA)-mediated regulation during PRV infection. This study aimed to investigate the protective effect of FNB against oxidative stress in PRV-infected porcine alveolar macrophage cell line (3D4/2) and to elucidate the associated lncRNA regulatory network. The safe concentration of FNB was determined using the CCK-8 assay, and oxidative stress-related parameters were measured using commercial kits. The expression levels of key factors in oxidative stress signaling pathways were analyzed by qRT-PCR and Western blotting. Furthermore, transcriptome sequencing was performed to identify differentially expressed mRNAs and lncRNAs, followed by Gene Ontology (GO) and Kyoto Encyclopedia of Genes and Genomes (KEGG) enrichment analyses to construct a lncRNA-mRNA interaction network. The results showed that treatment with 50 μg/mL FNB for 12 h significantly restored the PRV-suppressed activity of catalase (CAT) (p<0.05), whereas treatment with 12.5 μg/mL FNB for 12 h markedly increased the activities of glutathione peroxidase (GSH-Px) and heme oxygenase-1 (HO-1) in PRV-infected cells (p<0.01). At the molecular level, treatment with 50 μg/mL FNB for 12 h significantly increased the mRNA and protein expression levels of HO-1 and NAD(P)H:quinone oxidoreductase 1 (NQO1) (p<0.01). Transcriptomic analysis identified 6,948 differentially expressed messenger RNAs (mRNAs) after PRV infection and 4,400 differentially expressed mRNAs after FNB intervention compared with the PRV group, with these genes being mainly enriched in oxidative stress-related processes. By screening for key antioxidant-related mRNAs and their potentially interacting lncRNAs, a lncRNA-mRNA network was constructed. In conclusion, FNB may alleviate PRV infection-induced oxidative damage by activating the Nrf2/HO-1 signaling pathway and modulating specific lncRNA-mRNA networks. This study provides novel insights into the antioxidant effect of FNB against PRV infection-induced oxidative damage and the regulatory role of lncRNAs.
+
+---
