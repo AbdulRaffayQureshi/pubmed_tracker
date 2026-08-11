@@ -574,3 +574,30 @@
 **Abstract:** Gouteng is a traditional Chinese medicine widely used for the clinical treatment of epilepsy, yet the specific mechanism underlying its antiepileptic has not been elucidated. Network pharmacology, bioinformatics, machine learning, molecular docking, MD simulation, and ADMET druggability analysis were performed to systematically elucidate the molecular regulatory mechanism of Gouteng against epilepsy. The results showed that 29 active components of Gouteng collectively regulated 661 potential antiepileptic targets. Through screening with machine learning-based disease diagnostic model, MDM2 and PPARG as the core target genes mediating the antiepileptic effect of Gouteng were finally identified. Immune infiltration analysis confirmed that MDM2 and PPARG synergistically reshape the immune microenvironment of epileptic lesions, restrain excessive inflammatory responses, and maintain immune homeostasis and tolerance. Molecular docking and MD simulation revealed that the four core active components, namely Angustidine, Rhynchophylline A, vincoside lactam_qt, and coryincine, target the hydrophobic pocket of MDM2, with non-polar interactions serving as the primary driving factor for their interactions. ADMET analysis indicated that vincoside lactam_qt and coryincine exhibit favorable oral bioavailability, excellent blood-brain barrier permeability, and low hepatotoxicity, which make them potential antiepileptic candidate drugs with clinical translational potential. Most importantly, Gouteng exerts antiepileptic effects by targeting and regulating the dual MDM2-MDM4/TP53 and PPARG-NCOA1/RXRA regulatory axes, thereby mediating neuroinflammation inhibition and neuronal protection. Furthermore, TFAP2C as a common upstream transcription factor of both MDM2 and PPARG was identify. This study provides theoretical basis for the development of novel MDM2/PPARG-targeted antiepileptic drugs and for the clinical application of Gouteng.
 
 ---
+
+## PubMed Update: 2026-08-11 10:50:57
+
+### 1-Deazapurine-Based Alpha-Glucosidase Inhibitors: A Computational Approach for the Treatment of Type 2 Diabetes Mellitus.
+**PMID:** [42576575](https://pubmed.ncbi.nlm.nih.gov/42576575/)
+
+**Abstract:** Optimal therapeutic control of Type 2 Diabetes (T2D) depends on designing Alpha-Glucosidase Inhibitors (AGIs) with high potency. This study employs a rigorous computational approach to evaluate 1-deazapurine-derived ligands, examining their interaction modes and pharmacochemical attributes.
+
+---
+### [Preliminary investigation into the mechanisms of thalidomide in inhibiting the malignant transformation of oral leukoplakia].
+**PMID:** [42576759](https://pubmed.ncbi.nlm.nih.gov/42576759/)
+
+**Abstract:** This study aims to integrate network pharmacology, machine learning, and survival analysis to preliminarily explore the molecular mechanisms underlying the inhibitory effects of thalidomide on the malignant transformation of oral leukoplakia (OLK).
+
+---
+### Targeting carbonic anhydrase IX-mediated ferroptosis by atractylenolide I alleviates DSS-induced colitis in mice.
+**PMID:** [42577206](https://pubmed.ncbi.nlm.nih.gov/42577206/)
+
+**Abstract:** While the involvement of ferroptosis in the pathological progression of chronic inflammatory bowel disease (IBD) is recognized, the specific regulatory capacity of the natural derivative Atractylenolide I (ATT-I) within this metabolic framework is not yet fully elucidated.
+
+---
+### Transcriptome signatures for the identification of bevacizumab responders in ovarian cancer.
+**PMID:** [42576234](https://pubmed.ncbi.nlm.nih.gov/42576234/)
+
+**Abstract:** Bevacizumab is widely used as an anti-angiogenic maintenance therapy in ovarian cancer; however, there are currently no validated clinical criteria to guide patient selection for its use.
+
+---
