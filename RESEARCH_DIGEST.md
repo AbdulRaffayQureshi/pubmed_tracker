@@ -955,3 +955,42 @@
 **Abstract:** Primary aldosteronism (PA) is a major cause of endocrine hypertension and contributes substantially to blood pressure (BP)-related morbidity. Although aldosterone excess directly raises BP, the extent to which genetic susceptibility to PA overlaps with the broader polygenic architecture of BP remains unclear. We aimed to characterise the shared genetic architecture between PA and BP traits and to place shared genetic signals within adrenal tissue context.
 
 ---
+
+## PubMed Update: 2026-08-14 16:54:20
+
+### Rational design and biological validation of EZH2/PD-L1 bifunctional inhibitors for colorectal cancer immunotherapy.
+**PMID:** [42597831](https://pubmed.ncbi.nlm.nih.gov/42597831/)
+
+**Abstract:** This study aims to identify novel small-molecule inhibitors that target both PD-L1 and EZH2 to enhance colorectal cancer immunotherapy.
+
+---
+### Advancing cancer drug discovery through the integration of machine learning and high-throughput screening.
+**PMID:** [42596875](https://pubmed.ncbi.nlm.nih.gov/42596875/)
+
+**Abstract:** Cancer drug discovery is a complex process that requires identifying compounds that selectively target malignant cells. While high-throughput screening (HTS) is essential for testing large libraries, it generates vast datasets that are difficult to interpret. Recently, the integration of artificial intelligence (AI), particularly deep learning (DL), has significantly accelerated drug candidate selection. This review highlights the synergy between AI and HTS, emphasizing DL techniques such as convolutional neural networks for bioactivity prediction, recurrent neural networks for de novo design, and reinforcement learning for property optimization. These methods streamline preclinical research by enabling rapid multi-omics analysis and prediction of drug-target interactions. However, challenges regarding data quality, model interpretability, and ethics persist. Emerging paradigms like Explainable AI and federated learning aim to enhance transparency and collaboration while safeguarding privacy. Ultimately, overcoming these barriers through AI-HTS integration holds transformative potential to reduce development costs and improve clinical outcomes for cancer patients.
+
+---
+### Advancing cancer drug discovery through the integration of machine learning and high-throughput screening.
+**PMID:** [42596875](https://pubmed.ncbi.nlm.nih.gov/42596875/)
+
+**Abstract:** Cancer drug discovery is a complex process that requires identifying compounds that selectively target malignant cells. While high-throughput screening (HTS) is essential for testing large libraries, it generates vast datasets that are difficult to interpret. Recently, the integration of artificial intelligence (AI), particularly deep learning (DL), has significantly accelerated drug candidate selection. This review highlights the synergy between AI and HTS, emphasizing DL techniques such as convolutional neural networks for bioactivity prediction, recurrent neural networks for de novo design, and reinforcement learning for property optimization. These methods streamline preclinical research by enabling rapid multi-omics analysis and prediction of drug-target interactions. However, challenges regarding data quality, model interpretability, and ethics persist. Emerging paradigms like Explainable AI and federated learning aim to enhance transparency and collaboration while safeguarding privacy. Ultimately, overcoming these barriers through AI-HTS integration holds transformative potential to reduce development costs and improve clinical outcomes for cancer patients.
+
+---
+### Therapeutic Osteoinductive Potential of Saposhnikovia divaricata Schischkin in a Mouse Drill-Hole Bone Defect Model.
+**PMID:** [42598782](https://pubmed.ncbi.nlm.nih.gov/42598782/)
+
+**Abstract:** Bone fracture healing requires coordinated osteoclast-mediated resorption and osteoblast-driven formation. Saposhnikovia divaricata Schischkin (SDS) is a traditional East Asian medicine with anti-inflammatory and immunomodulatory activities, but its role in bone regeneration remains unclear. This study evaluated the osteogenic potential of SDS using integrated in vitro, in vivo, and in silico approaches. Mouse-derived osteoblasts were treated with SDS, and cell viability, alkaline phosphatase (ALP) activity, and mineralization were assessed by CCK-8, ALP assay, and Alizarin Red O staining. A femoral drill-hole injury model was established in C57BL/6 mice, followed by oral administration of SDS (100, 200, or 400 mg/kg). Bone healing was evaluated by micro-computed tomography and histological analyses. SDS enhanced osteoblast viability, ALP activity, mineral deposition, and osteogenic marker expression in vitro. In vivo, SDS increased bone volume fraction and bone mineral density at 1 week after injury, accompanied by reduced TRAP-positive osteoclasts and increased osteocalcin staining. Molecular docking predicted favorable interactions between major chromone-derived constituents of SDS and the bone-related proteins RUNX2 and RANK. Collectively, these findings suggest that SDS may promote cellular processes associated with early bone repair and warrant further investigation into its mechanisms and long-term therapeutic potential.
+
+---
+### LM-QASAS: reference-free identification of antigen-specific sequences from the BCR repertoire using antibody language models.
+**PMID:** [42597581](https://pubmed.ncbi.nlm.nih.gov/42597581/)
+
+**Abstract:** The B-cell receptor (BCR) repertoire serves as a historical record of immunological events. However, deciphering antigen-specific sequences from this vast dataset remains a challenge, particularly for novel pathogens where prior knowledge is absent. While time-course analysis methods such as QASAS have proven effective for tracking immune responses, they rely on existing antibody databases, limiting their applicability to emerging diseases. To overcome this limitation, we introduce LM-QASAS, a reference-free computational framework that integrates antibody language models (AbLMs) with longitudinal repertoire dynamics. By mapping sequences into a high-dimensional semantic embedding space, LM-QASAS identifies clusters of functionally convergent sequences that are semantically similar and exhibit transient expansion upon immune stimulation. In a SARS-CoV-2 cohort, candidate sequences extracted by LM-QASAS were enriched for overlap with the CoV-AbDab neutralizing-antibody database relative to a random baseline. Leave-one-out cross-validation showed that these reference-free databases could reconstruct longitudinal immune-response dynamics in unseen individuals without external references. Conversely, the method showed limited sensitivity in an influenza vaccine cohort, indicating that the approach is most effective under conditions of robust, synchronized clonal expansion, such as those induced by mRNA vaccination. LM-QASAS provides a rapid, reference-free approach for monitoring humoral immunity against emerging threats.
+
+---
+### Clinical, genomic, and spatial transcriptomic features of pancreatic adenosquamous carcinoma support subtype-specific therapeutic strategies.
+**PMID:** [42599153](https://pubmed.ncbi.nlm.nih.gov/42599153/)
+
+**Abstract:** Pancreatic adenosquamous carcinoma (ASQ) is a rare variant with poorly defined clinical and molecular features compared to conventional pancreatic ductal adenocarcinoma (PDAC). This study aimed to characterize the clinical outcomes, genomic landscape, and spatial transcriptomic architecture of ASQ.
+
+---
