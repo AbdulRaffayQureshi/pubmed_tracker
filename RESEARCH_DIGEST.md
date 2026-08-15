@@ -1123,3 +1123,18 @@
 **Abstract:** Aluminum (Al) toxicity in acidic soils is a major constraint to rice production worldwide. However, the epigenetic mechanisms underlying genotypic differences in Al tolerance remain largely unexplored.
 
 ---
+
+## PubMed Update: 2026-08-15 22:22:02
+
+### Ruanjian Sanjie Formula Affects Metastasis of Lung Cancer by Regulating miR-182-5p/EPAS1/EMT Axis.
+**PMID:** [42603248](https://pubmed.ncbi.nlm.nih.gov/42603248/)
+
+**Abstract:** To investigate the specific mechanism by which Ruanjian Sanjie Formula (RJSJ) inhibits the occurrence and metastasis of lung cancer.
+
+---
+### Associations of host gene expression in the brain, liver, muscle with fecal and cecal microbiota composition in pigs.
+**PMID:** [42603203](https://pubmed.ncbi.nlm.nih.gov/42603203/)
+
+**Abstract:** Understanding the genetic regulation underlying host-microbiota interactions is key to elucidating how microbial communities influence host metabolism, immunity, and physiology. In this context, the main objective of this study was to integrate genomic, transcriptomic, and microbial data to identify shared regulatory variants, highlight key microbial taxa, and prioritize biological pathways related to lipid metabolism, immune function, and host metabolic adaptation across multiple tissues in 72 immunocastrated male Large White pigs (Sus scrofa). Expression quantitative trait loci (eQTL)-informed association analyses were performed to link the gut microbiota with host genetics. The analyses included microbial amplicon sequence variants (ASVs, ≥ 10% prevalence) from 16S rRNA sequencing, along with host cis- and trans-eQTL identified in brain, liver, and muscle tissues. Cross-tissue associations were detected between host gene expression and several bacterial genera, particularly Oscillospira, Candidatus Methanoplasma, Roseburia, Anaerostipes, and Monoglobus. A subset of eQTL, cis- and/or trans, showed multiple significant associations and regulated the expression of genes including ZDHHC2, TMEM69, and CCDC167, which have been implicated in lipid metabolism, immune regulation, and energy balance. The brain's gene expression showed the most significant number of regulatory variants and enriched pathways related to fatty acid metabolism and immune processes, highlighting potential interactions along the gut-brain axis. These findings provide insights into the underlying host-microbiota relationships in pigs. Integrating eQTL and microbiota data across tissues revealed genetically mediated, cross-tissue regulatory networks linking microbial composition to host metabolic and immune functions. This offers a framework for functional validation and multi-omics studies in pigs.
+
+---
