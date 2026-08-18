@@ -1303,3 +1303,30 @@
 **Abstract:** Heart failure is a significant global health burden. This study aims to identify heart failure-associated genes through transcriptome-wide association studies combined with genome-wide association studies.
 
 ---
+
+## PubMed Update: 2026-08-18 12:47:52
+
+### Author Correction: Structural basis for prostaglandin and drug transport via SLCO2A1.
+**PMID:** [42608403](https://pubmed.ncbi.nlm.nih.gov/42608403/)
+
+**Abstract:** No abstract available.
+
+---
+### Closing the Translational Gap: Closed-Loop AI Discovery Frameworks for Experimental Validation and Clinical Implementation in Cancer Therapeutics.
+**PMID:** [42608811](https://pubmed.ncbi.nlm.nih.gov/42608811/)
+
+**Abstract:** The development of novel cancer therapeutics is a protracted, costly endeavor with high attrition rates, largely attributed to tumor heterogeneity and acquired resistance. Artificial intelligence (AI) is emerging as a powerful technology to enhance the drug discovery pipeline, employing multimodal datasets to identify therapeutic targets, design de novo candidates, and discover biomarkers. However, a significant validation gap persists. AI models frequently hallucinate chemically implausible molecules, overfit to biased training datasets (particularly immortalized cell lines that poorly represent patient tumors), and generate predictions that perform poorly outside their training distribution. This gap exists because AI development has prioritized algorithmic sophistication over experimental rigor, creating an accumulation of in silico predictions without systematic biological testing. Analysis of landmark studies reveals that AI-driven target discovery is most successful when constrained by synthetic accessibility filters and functional genomic screening, while dose optimization and combination therapy predictions require validation in patient-derived xenografts (PDXs) that recapitulate tumor microenvironment complexity. The most clinically impactful AI applications in oncology, from immunotherapy biomarker discovery to resistance mechanism prediction, tend to employ closed-loop discovery frameworks in which experimental outcomes iteratively retrain computational models. We propose that the translational potential of AI in oncology is not solely defined by algorithmic complexity, but substantially shaped by the rigor of the experimental feedback loops that constrain and refine it, thereby accelerating the delivery of more effective, personalized therapies validated through the complete hierarchy of in vitro assays, in vivo PDX models, and prospective clinical trials to patients.
+
+---
+### 1,2-propanediol reformulation improves tribromoethanol safety and reveals pontine GABRA1 enrichment as a candidate mechanistic correlate of anesthesia.
+**PMID:** [42609016](https://pubmed.ncbi.nlm.nih.gov/42609016/)
+
+**Abstract:** Conventional tribromoethanol anesthesia is compromised by solvent-related toxicity, limiting its utility in prolonged experimental protocols. We hypothesized that reformulation with 1,2-propanediol could improve its biosafety while revealing its potential mechanism of action in the central nervous system.
+
+---
+### SPCC: Inferring Spatial Cell-Cell Interaction by Integrating Single-cell and Spatial Transcriptomics.
+**PMID:** [42608830](https://pubmed.ncbi.nlm.nih.gov/42608830/)
+
+**Abstract:** Study of single-cell spatial biology reveals the importance of integrating single-cell and spatial data for capturing spatial structure at individual cell resolution in various fields. With the lack of cellular-level information in most spatial data, it is necessary to integrate single-cell and spatial data. Here, we developed a deep learning computational framework for alignment and mapping of unpaired single-cell and the spatial data by using adversarial joint-variational autoencoder and Random Forest model (SPCC). SPCC will generate a mapping matrix for single-cell and spatial positions that can transfer spatial location to individual cells. SPCC can be used to perform downstream analysis, such as cell-cell communication and spatial variable gene identification with pseudo-space information. Then, we validated the performance with current popular integration methods on three datasets with different spatial sequencing techniques, including the mouse somatosensory cortex data, breast cancer data and melanoma brain metastasis data. Our findings suggest that SPCC exhibits greater robustness against sequencing noise compared to previous methods. SPCC has successfully captured the precise spatial structure in multiple datasets. For example, our results indicated that PECAM1 can interact with SOX4 between cancer cells and endothelial cells, which was rarely identified by using previous tools. The PECAM1-SOX4 interaction can regulate the vascular adhesion in melanoma and further contribute to tumor cell metastasis. These results show that SPCC is highly sensitive and accurate to identify unique spatial cell interactions. SPCC is freely accessible at https://github.com/ploughhh/SPCC.
+
+---
