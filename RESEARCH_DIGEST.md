@@ -1831,3 +1831,18 @@
 **Abstract:** PBRM1 is an important subunit of the SWI/SNF complex, which broadly regulates gene transcription by chromatin remodeling. Genomic alterations of PBRM1 have been found in patients with pancreatic ductal adenocarcinoma (PDAC), but its molecular functions remain unclear.
 
 ---
+
+## PubMed Update: 2026-08-23 10:25:14
+
+### Design, synthesis and antitubercular evaluation of novel 5,6-diphenyl-1,2,4-triazine-piperazine derivatives targeting mycobacterial dihydrofolate reductase.
+**PMID:** [42633376](https://pubmed.ncbi.nlm.nih.gov/42633376/)
+
+**Abstract:** Tuberculosis (TB), a serious global health concern, continues to contribute to the global health burden, underscoring the urgent need to discover potent antitubercular agents. In the present study, a series of novel 5,6-diphenyl-1,2,4-triazine-piperazine derivatives were synthesized, and their potential for anti-tubercular activity was assessed.
+
+---
+### A high-throughput co-culture CRISPR array for rapid fitness hypothesis testing and growth engineering in CHO cells.
+**PMID:** [42633254](https://pubmed.ncbi.nlm.nih.gov/42633254/)
+
+**Abstract:** Cell growth and fitness shape mammalian biomanufacturing performance, but subtle genetic effects are difficult to resolve with conventional growth assays. We developed a high-throughput competitive co-culture CRISPR array in Chinese hamster ovary (CHO) suspension cells that pairs a CRISPR-competent population with a CRISPR-inactive green fluorescent protein (GFP) reference pool and tracks GFP-ratio dynamics by flow cytometry. Guided by a prior genome-wide CRISPR screen, we tested 235 single-gene knockouts and 155 multiplex gene sets across seven batches and >100 days of cultivation. The assay detected expected lethal and growth-inhibitory perturbations and identified 28 growth-enhancing knockouts or gene sets that are poorly resolved by viable-cell-concentration measurements. Slope-based modeling converted GFP dynamics into inferred growth rate changes, and combinatorial exclusion with bulk transcriptomics linked multiplex phenotypes to candidate driver genes. The approach enables scalable fitness hypothesis testing and prioritization of CHO growth-engineering targets for downstream host-cell development.
+
+---
