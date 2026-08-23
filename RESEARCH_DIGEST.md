@@ -1846,3 +1846,24 @@
 **Abstract:** Cell growth and fitness shape mammalian biomanufacturing performance, but subtle genetic effects are difficult to resolve with conventional growth assays. We developed a high-throughput competitive co-culture CRISPR array in Chinese hamster ovary (CHO) suspension cells that pairs a CRISPR-competent population with a CRISPR-inactive green fluorescent protein (GFP) reference pool and tracks GFP-ratio dynamics by flow cytometry. Guided by a prior genome-wide CRISPR screen, we tested 235 single-gene knockouts and 155 multiplex gene sets across seven batches and >100 days of cultivation. The assay detected expected lethal and growth-inhibitory perturbations and identified 28 growth-enhancing knockouts or gene sets that are poorly resolved by viable-cell-concentration measurements. Slope-based modeling converted GFP dynamics into inferred growth rate changes, and combinatorial exclusion with bulk transcriptomics linked multiplex phenotypes to candidate driver genes. The approach enables scalable fitness hypothesis testing and prioritization of CHO growth-engineering targets for downstream host-cell development.
 
 ---
+
+## PubMed Update: 2026-08-23 16:26:50
+
+### GRASSP: RNA Language Model-Enhanced Graph Attention with Adaptive Gating for RNA-Small Molecule Binding Site Prediction.
+**PMID:** [42633564](https://pubmed.ncbi.nlm.nih.gov/42633564/)
+
+**Abstract:** RNA-small molecule binding site prediction is crucial for targeted drug discovery. Sequence-based methods are efficient but often fail to capture structural dependencies between nucleotides, whereas structure-aware graph models can better represent spatial interactions but typically rely on complex structural annotations and multi-stage preprocessing pipelines. We therefore developed GRASSP, a streamlined hybrid deep learning framework that integrates pretrained RNA language model (LM) representations with adaptive graph refinement.
+
+---
+### GRASSP: RNA Language Model-Enhanced Graph Attention with Adaptive Gating for RNA-Small Molecule Binding Site Prediction.
+**PMID:** [42633564](https://pubmed.ncbi.nlm.nih.gov/42633564/)
+
+**Abstract:** RNA-small molecule binding site prediction is crucial for targeted drug discovery. Sequence-based methods are efficient but often fail to capture structural dependencies between nucleotides, whereas structure-aware graph models can better represent spatial interactions but typically rely on complex structural annotations and multi-stage preprocessing pipelines. We therefore developed GRASSP, a streamlined hybrid deep learning framework that integrates pretrained RNA language model (LM) representations with adaptive graph refinement.
+
+---
+### <b>Jolkinolide B induces apoptosis and G1 arrest in A549 cells via JAK2/STAT3 inhibition</b>.
+**PMID:** [42633541](https://pubmed.ncbi.nlm.nih.gov/42633541/)
+
+**Abstract:** Lung cancer is the most common pulmonary malignancy. WHO data show that its incidence and mortality are rising globally, severely threatening public health.
+
+---
