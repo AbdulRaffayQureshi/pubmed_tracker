@@ -1936,3 +1936,42 @@
 **Abstract:** Studies using mouse models of viral infection have shown that viral antigen-reactive regulatory T cells play multiple context-dependent roles, including attenuating the immune response against the pathogen and limiting inflammatory damage. By contrast, evidence for the presence and function of viral antigen-specific Tregs in humans remains very limited. Here, we investigated whether BNT162b2 mRNA COVID-19 vaccination activates spike (S)-reactive Tregs in healthy adults. We performed an integrated analysis combining scRNA-seq, TCR repertoire profiling, and flow cytometry of activation-induced marker (AIM) expressing S-reactive CD4+ T cells isolated from PBMCs cultured with trimeric S protein. We found that CD39+ cells co-expressing CTLA4 and TIGIT within the S-reactive AIM+ CD4+ T cell population were preferentially enriched for Tregs relative to their CD39- counterparts. In subjects vaccinated with BNT162b2 mRNA vaccine, the frequencies of CD39+CTLA4+ and CD39+TIGIT+ S-reactive Treg-like cells were significantly increased following vaccination. Using scRNA-seq, we identified two FoxP3+ Treg clusters among S-reactive CD4+ T cells: one characterized by IFN-activated gene signatures and another by high HLA class II, CD39 and CTLA4 expression. Both subsets were transcriptionally activated following vaccination, with upregulation of genes associated with T cell activation and inflammatory cytokines including TNF and IFNG. Consistent with these findings, flow cytometry detected increased proportions of CD39+ and FoxP3+ S-reactive Tregs expressing IFN-γ and/or TNF-α following vaccination. Collectively, these findings support a model in which BNT162b2 mRNA vaccination activates both an S-reactive effector T cell response and a Treg response, suggesting Treg co-induction may be critical for balancing antiviral immunity with immunoregulation.
 
 ---
+
+## PubMed Update: 2026-08-24 16:38:33
+
+### A linear interpretable model for drug target prediction.
+**PMID:** [42635211](https://pubmed.ncbi.nlm.nih.gov/42635211/)
+
+**Abstract:** Identifying drug targets is fundamental in drug development, both for discovering new therapies and for ensuring effective and safe treatments. Drug-target interactions (DTIs) have been predicted using machine learning approaches that integrate heterogeneous data; however, often these models are complex and lack interpretability.
+
+---
+### A linear interpretable model for drug target prediction.
+**PMID:** [42635211](https://pubmed.ncbi.nlm.nih.gov/42635211/)
+
+**Abstract:** Identifying drug targets is fundamental in drug development, both for discovering new therapies and for ensuring effective and safe treatments. Drug-target interactions (DTIs) have been predicted using machine learning approaches that integrate heterogeneous data; however, often these models are complex and lack interpretability.
+
+---
+### Multimodal contrastive learning for integrating molecular representations and cellular phenotypes in drug-target interaction prediction.
+**PMID:** [42635222](https://pubmed.ncbi.nlm.nih.gov/42635222/)
+
+**Abstract:** Accurate prediction of drug-target interactions (DTIs) is fundamental to drug discovery and mechanistic understanding. While deep learning has advanced computational DTI prediction, most existing methods rely primarily on molecular structural representations, including drug structures and protein sequences, while overlooking cellular phenotypes that reflect downstream biological effects. Cell Painting enables high-content morphological profiling that captures systems-level responses to chemical and genetic perturbations but remains underutilized in DTI modeling. Integrating molecular information with cellular phenotypes offers an opportunity to improve both predictive performance and biological interpretability.
+
+---
+### Attracting Cavities 3.0: faster and more versatile molecular docking for the SwissDock webserver.
+**PMID:** [42635243](https://pubmed.ncbi.nlm.nih.gov/42635243/)
+
+**Abstract:** Molecular docking is a pillar of structure-based drug design and shows advantages over co-folding by providing physical insights into small-molecule ligand-target interactions, independent of ligand and pocket novelty. Here, we describe substantial improvements of our docking algorithm Attracting Cavities, which is widely used through the SwissDock webserver.
+
+---
+### Agent-based modeling identifies multiple paths for inflammation resolution.
+**PMID:** [42635235](https://pubmed.ncbi.nlm.nih.gov/42635235/)
+
+**Abstract:** Sterile inflammation emerges from spatially coordinated interactions between immune recruitment, polarization, signal diffusion, and tissue turnover. Capturing this complexity requires modeling frameworks that integrate stochasticity, spatial heterogeneity, and functional redundancy across immune cell types. We present a spatially explicit agent-based model of sterile inflammation based on a functional mono-agent abstraction, in which immune cells share core capabilities, e.g. polarization, chemotaxis, signal production, and phagocytosis, while differing through parameterization rather than rigid rule sets. Using large-scale global parameter exploration via Latin Hypercube Sampling, we generated 300 000 simulations to characterize the model's dynamical landscape. Dimensionality reduction suggested a continuous manifold of inflammatory trajectories. Applying biologically informed temporal criteria identified a highly constrained subspace consistent with canonical sterile inflammation. Within this region, multiple distinct yet self-consistent, kinetic regimes achieved successful resolution. These results indicate that sterile inflammation is not a single dynamical attractor but an emergent coordination constraint in a high-dimensional functional space, providing a systems-level framework for exploring immune regulation and dysregulation.
+
+---
+### ExoShorkie: predicting RNA-seq coverage of exogenous genomes in yeast by transfer learning.
+**PMID:** [42635208](https://pubmed.ncbi.nlm.nih.gov/42635208/)
+
+**Abstract:** Predicting the RNA-seq coverage of native and exogenous sequences is central to many molecular- and synthetic-biology applications. Substantial progress has been made in developing methods to predict the RNA-seq coverage of native genomic sequences, with the recently developed Shorkie achieving state-of-the-art performance in yeast. However, prediction performance of these methods over exogenous DNA is still unknown. Recent studies measured RNA-seq coverage of large exogenous genomes in yeast, providing a unique opportunity to train machine-learning models on a large exogenous sequence space and to improve both prediction performance and our understanding of regulatory mechanisms.
+
+---
