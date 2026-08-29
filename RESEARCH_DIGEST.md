@@ -2458,3 +2458,36 @@
 **Abstract:** Immune surveillance mechanisms contribute to the elimination of precancerous lesions in hereditary cancer predisposition syndromes (HCPSs).
 
 ---
+
+## PubMed Update: 2026-08-29 16:20:12
+
+### An integrative computational strategy for antidiabetic drug discovery: From QSAR modeling to retrosynthesis.
+**PMID:** [42666974](https://pubmed.ncbi.nlm.nih.gov/42666974/)
+
+**Abstract:** The α-amylase enzyme plays a critical role in the digestion of complex carbohydrates. Inhibiting this enzyme offers a promising strategy for improving glucose regulation in diabetic patients.
+
+---
+### Predicting Single-Cell Perturbation Responses Across Biological Contexts With a Deep Generative Model Integrating Optimal Transport.
+**PMID:** [42667121](https://pubmed.ncbi.nlm.nih.gov/42667121/)
+
+**Abstract:** Predicting how single cells respond to perturbations is a central problem in computational biology, with potential relevance to emerging artificial intelligence virtual cell (AIVC) research and drug-discovery efforts. However, substantial variation in perturbation responses across biological contexts and the limited generalizability of current models make prediction across cell types, patients, species, and other contexts particularly challenging. To address this challenge, we present single-cell perturbation inference via latent optimal transport (scPILOT), a query-conditioned framework for transferring responses to previously observed perturbations across biological contexts. scPILOT learns a generative latent representation through discriminator-assisted training and separates perturbation inference into cell-level response estimation from observed contexts and query-specific response transfer using latent optimal transport. Across held-out cell-type, patient, and species benchmarks, scPILOT achieved context-averaged R<sup>2</sup> <sub>mean</sub>/MMD<sup>2</sup> values of 0.945/0.137, 0.598/0.025, and 0.853/0.287, respectively. It also maintained strong population-average accuracy in a held-out cell-line benchmark, while complementary analyses indicated that performance was associated with dataset learnability and query-context match. With the continued expansion of single-cell perturbation datasets, scPILOT may provide a practical framework for transferring responses to previously observed perturbations across increasingly diverse biological contexts.
+
+---
+### Predicting Single-Cell Perturbation Responses Across Biological Contexts With a Deep Generative Model Integrating Optimal Transport.
+**PMID:** [42667121](https://pubmed.ncbi.nlm.nih.gov/42667121/)
+
+**Abstract:** Predicting how single cells respond to perturbations is a central problem in computational biology, with potential relevance to emerging artificial intelligence virtual cell (AIVC) research and drug-discovery efforts. However, substantial variation in perturbation responses across biological contexts and the limited generalizability of current models make prediction across cell types, patients, species, and other contexts particularly challenging. To address this challenge, we present single-cell perturbation inference via latent optimal transport (scPILOT), a query-conditioned framework for transferring responses to previously observed perturbations across biological contexts. scPILOT learns a generative latent representation through discriminator-assisted training and separates perturbation inference into cell-level response estimation from observed contexts and query-specific response transfer using latent optimal transport. Across held-out cell-type, patient, and species benchmarks, scPILOT achieved context-averaged R<sup>2</sup> <sub>mean</sub>/MMD<sup>2</sup> values of 0.945/0.137, 0.598/0.025, and 0.853/0.287, respectively. It also maintained strong population-average accuracy in a held-out cell-line benchmark, while complementary analyses indicated that performance was associated with dataset learnability and query-context match. With the continued expansion of single-cell perturbation datasets, scPILOT may provide a practical framework for transferring responses to previously observed perturbations across increasingly diverse biological contexts.
+
+---
+### Designing a multi-epitope vaccine against dengue virus-2 using <i>in silico</i> tools for expression in plant systems.
+**PMID:** [42666984](https://pubmed.ncbi.nlm.nih.gov/42666984/)
+
+**Abstract:** Dengue virus (DENV), transmitted by Aedes mosquitoes, remains a serious global health threat with an increasing incidence, largely due to its complex epidemiology and the impact of climate change. DENV belongs to the <i>Flaviviridae</i> family, comprising four serotypes (DENV-1 to DENV-4). The high mutation rate of DENV and the risk of antibody-dependent enhancement (ADE) complicate the development of a vaccine. This study aims to design a multi-epitope vaccine against DENV, with a focus on DENV-2, the strain associated with severe symptoms.
+
+---
+### Genetic determinants that permit growth without the core septin Cdc12 in Cryptococcus neoformans.
+**PMID:** [42667112](https://pubmed.ncbi.nlm.nih.gov/42667112/)
+
+**Abstract:** Septins are conserved cytoskeletal GTPases that regulate morphogenesis, cytokinesis, and cell-surface organization in fungi. In most model and pathogenic yeasts, including Saccharomyces cerevisiae and Candida albicans, core septin subunits such as Cdc3 and Cdc12 are essential and their loss results in lethal cytokinetic defects. In Cryptococcus neoformans, by contrast, deletion of CDC12 or CDC3 yields viable cells that grow normally under permissive conditions, raising the question of how this pathogen maintains cell integrity without a functional septin complex. To address this, we compared the transcriptomes of wild-type cells and a cdc12Δ mutant. The cdc12Δ strain showed a focused set of transcriptional changes, with induction of genes involved in cell wall remodeling, stress-dependent morphogenetic programs, and pathways that promote fitness under compromised cytoskeletal conditions. Genetic analysis of the most highly induced genes uncovered factors that contribute to proliferation in the absence of Cdc12, including a previously uncharacterized aspartic-type endopeptidase that exhibits a genetic interaction with the loss of septin function. These findings outline the compensatory circuitry that permits septin-independent growth in C. neoformans and help explain why this pathogen can tolerate the absence of the septin complex. This intrinsic plasticity highlights C. neoformans as a powerful comparative model for studying the evolution and function of septins.
+
+---
