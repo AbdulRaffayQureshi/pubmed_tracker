@@ -2566,3 +2566,12 @@
 **Abstract:** Animals frequently display aggressive behavior, for example, when competing for food. Aggression is influenced by various extrinsic and intrinsic factors such as the microbiome and genetics. However, we currently lack understanding what factors cause animals to start aggression. Here, we use an ant species to test if chemical, microbiome, genomic, and/or transcriptomic traits correlate with the start of aggression and the reactions to it, namely reacting aggressively or peacefully. We found nine bacterial operational taxonomic units, mutations in two genes, and eight differentially expressed genes, which were positively or negatively associated with the start of aggression or reactions to it. The microbiome and genetic factors are mainly linked to hormone signaling and neurological and synaptic functions, respectively. The results indicate that multiple traits, possibly acting in concert, may affect the start of aggression and reactions to it. We speculate that such traits could promote aggression and play important evolutionary roles.
 
 ---
+
+## PubMed Update: 2026-08-30 16:12:56
+
+### Shao Di Pa Ning Decoction Attenuates Neuroinflammation in Parkinson's Disease via PI3K/AKT Signaling Pathway.
+**PMID:** [42669032](https://pubmed.ncbi.nlm.nih.gov/42669032/)
+
+**Abstract:** Parkinson's disease (PD) is a neurodegenerative disorder with limited therapeutic options. Shao Di Pa Ning Decoction (SDPND), a traditional Chinese medicine (TCM) compound formula for PD, has demonstrated therapeutic efficacy, but its underlying mechanisms remain unclear.
+
+---
