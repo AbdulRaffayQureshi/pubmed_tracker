@@ -3226,3 +3226,12 @@
 **Abstract:** Although endurance exercise benefits liver health, sex-specific adaptive trajectories remain unclear. This study mapped dynamic liver adaptation in males and females during prolonged training and identified underlying molecular programs.
 
 ---
+
+## PubMed Update: 2026-09-06 16:44:26
+
+### Revealing the Shared Genetic Architecture of Metabolic Dysfunction-Associated Steatotic Liver Disease-Related Traits Through Genomic Structural Equation Modeling.
+**PMID:** [42701886](https://pubmed.ncbi.nlm.nih.gov/42701886/)
+
+**Abstract:** Although individual traits related to metabolic dysfunction-associated steatotic liver disease (MASLD) have been investigated through large-scale genome-wide association studies (GWASs), the shared genetic susceptibility across these traits remains unclear. We therefore conducted a multivariate GWAS of key MASLD-related traits to elucidate their common genetic architecture. We applied genomic structural equation modeling to model a latent genetic factor (MASLD-F) underlying genetically correlated MASLD-related traits, leveraging their GWAS-derived genetic correlations. We then performed functional annotations, including fine-mapping, transcriptome-wide association study, and cell- and tissue-type-specific enrichment analyses, and conducted Mendelian randomization analyses to identify modifiable risk factors. Our multivariate MASLD-F GWAS identified 50 independent variants across 48 genomic loci. Transcriptomic imputation identified several MASLD-F-associated genes, including ARNTL, NPC1, BTBD10, VDAC2, TSKU, SFMBT1, and ABHD17C. We observed significant enrichment of MASLD-F-related genetic signals predominantly in brain tissues, pancreatic islets, and the adrenal gland. Additionally, six modifiable risk factors and four modifiable protective factors for MASLD-F were identified. These findings reveal a complex shared genetic architecture underlying MASLD components, thereby expanding our understanding of disease pathogenesis and providing novel insights for precision medicine and public health interventions.
+
+---
