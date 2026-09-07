@@ -3325,3 +3325,30 @@
 **Abstract:** VEXAS syndrome is a severe X-linked autoinflammatory disorder caused by somatic mutations in ubiquitin-like modifier activating enzyme 1 (UBA1), with clinical outcomes that vary by UBA1 genotype. We aimed to elucidate genotype-specific inflammatory programs and identify potential therapeutic targets.
 
 ---
+
+## PubMed Update: 2026-09-07 22:34:52
+
+### Integrated Experimental and Computational Investigation of Azobenzenoid Derivatives Against Trypanosomatid: RNA Editing Ligase 1 as a Potential Molecular Target.
+**PMID:** [42704507](https://pubmed.ncbi.nlm.nih.gov/42704507/)
+
+**Abstract:** Neglected tropical diseases caused by pathogenic protozoa, including Chagas Disease (etiological agent Trypanosoma cruzi) and leishmaniasis (etiological agent Leishmania spp.), are public health problems in many developing countries.
+
+---
+### uPAR Amplifies Macrophage Inflammation <i>via</i> NF-κB Pathway to Promote Fibrotic Transition Following Acute Kidney Injury.
+**PMID:** [42704671](https://pubmed.ncbi.nlm.nih.gov/42704671/)
+
+**Abstract:** Persistent inflammation is recognized as a major driver of the acute kidney injury (AKI) to chronic kidney disease (CKD) transition, yet upstream macrophage-activation signals remain incompletely understood. Here, we investigated whether the urokinase receptor (uPAR), traditionally linked to matrix remodeling, functions instead as an inflammatory signaling hub that links kidney injury to chronic fibrotic remodeling.
+
+---
+### Immunoinformatics Approach for the Designing of a Novel mRNA Vaccine Candidate Against Trypanosoma brucei.
+**PMID:** [42704553](https://pubmed.ncbi.nlm.nih.gov/42704553/)
+
+**Abstract:** Trypanosoma brucei causes Human African Trypanosomiasis (HAT), which has a devastating impact on an individual's health. Currently, there is no FDA-approved vaccine for HAT prevention. Therefore, reverse vaccinology approaches were utilized to design an mRNA vaccine candidate.
+
+---
+### Impact of BCL-2 rs2279115 and rs3943258 variants on protein expression and clinical outcome of urothelial bladder carcinoma.
+**PMID:** [42704540](https://pubmed.ncbi.nlm.nih.gov/42704540/)
+
+**Abstract:** Urothelial bladder carcinoma (UBC) is the ninth most common malignancy worldwide and ranks thirteenth in cancer-related mortality. A significant challenge in managing non-muscle-invasive UBC (NMIBC) is the high recurrence rate, compounded by a paucity of robust prognostic biomarkers. Given that evasion of apoptosis is a hallmark of carcinogenesis, the apoptosis regulator BCL-2 oncogene plays a critical role by negatively regulating the intrinsic apoptotic pathway, often leading to protein overexpression and malignant cell immortalization.
+
+---
