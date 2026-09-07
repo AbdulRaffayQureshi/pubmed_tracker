@@ -3304,3 +3304,24 @@
 **Abstract:** Research indicates that alterations in propionate metabolic pathways play a critical role in cancer development and invasion. Postoperative metastatic recurrence remains a major cause of mortality in patients with rectal cancer. However, propionate metabolism-related genes (PMRGs) in rectal cancer remain insufficiently characterized. Therefore, this study aimed to identify prognostic biomarkers associated with lymph node metastasis and propionate metabolism and construct a risk‑prediction model for rectal cancer via bioinformatic analyses.
 
 ---
+
+## PubMed Update: 2026-09-07 19:39:03
+
+### Molecular Glue Degraders in Early Development for Cancer Therapy.
+**PMID:** [42703937](https://pubmed.ncbi.nlm.nih.gov/42703937/)
+
+**Abstract:** Molecular glue degraders are an emerging class of small molecule allosteric modulators that induce or stabilize protein-protein interactions, enabling targeted degradation of previously intractable proteins. By redirecting E3 ligases to recognize neosubstrates, proteins that are not typically recognized by a specific E3 ubiquitin ligase, they expand the scope of drug discovery beyond traditional paradigms. We review mechanistic principles underlying molecular glue activity, including cooperativity, weak affinity interactions, structural degrons, and higher-order complex formation. We discuss discovery strategies, from serendipitous identification to emerging rational and chemoproteomic approaches, and key E3 ligase systems with relevance to oncology. We highlight clinical and preclinical applications, alongside challenges such as resistance mechanisms, context-dependent activity, and limitations in predicting neosubstrates. Molecular glues are transitioning from serendipitous discoveries to a mechanism-driven therapeutic platform. Progress depends on integrating structural biology, proteomics, and computational modeling to enable rational design and improve predictability. Expanding the repertoire of E3 ligases and understanding context-specific degradation will be critical to fully realize their potential in oncology and beyond.
+
+---
+### Human Serum Albumin Binding with Cotarnine Derivatives and Its Hemostatic, Wound-Healing, and Antibacterial Activities: Experimental and Molecular Docking Studies.
+**PMID:** [42704132](https://pubmed.ncbi.nlm.nih.gov/42704132/)
+
+**Abstract:** Human serum albumin (HSA) plays a key role in regulating the transport and bioavailability of therapeutic molecules, making protein-ligand interaction studies essential for assessing biomedical compatibility. In this work, the interaction of cotarnine and its derivatives with HSA was systematically investigated using spectroscopic, thermodynamic, and molecular docking approaches, along with evaluation of antibacterial, wound healing, and hemostatic activities. Spectroscopic analyses confirmed efficient binding of the derivatives to HSA without disrupting its native secondary structure, while thermodynamic studies revealed spontaneous, enthalpy-driven interactions dominated by noncovalent forces. Docking studies identified favorable binding orientations within HSA binding pockets, complementing the experimental results. All derivatives of cotarnine show greater binding and biological activity, such as wound healing and hemostatic, than cotarnine. Among the derivatives, L2 exhibited the strongest binding affinity and superior biological performance, which can be attributed to enhanced hydrophobic interactions arising from its chloro-substituted aromatic moiety. Overall, the combined biophysical, computational, and biological findings highlight cotarnine derivatives, particularly L2, as promising multifunctional candidates for wound-healing and related biomedical applications.
+
+---
+### Human Monocytic Models Reveal Genotype-Dependent Inflammatory Programs in VEXAS Syndrome.
+**PMID:** [42703964](https://pubmed.ncbi.nlm.nih.gov/42703964/)
+
+**Abstract:** VEXAS syndrome is a severe X-linked autoinflammatory disorder caused by somatic mutations in ubiquitin-like modifier activating enzyme 1 (UBA1), with clinical outcomes that vary by UBA1 genotype. We aimed to elucidate genotype-specific inflammatory programs and identify potential therapeutic targets.
+
+---
