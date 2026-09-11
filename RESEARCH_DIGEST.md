@@ -3754,3 +3754,30 @@
 **Abstract:** Colorectal cancer (CRC) exhibits marked cellular heterogeneity, and the cellular context of malignancy-associated epithelial programs remains incompletely defined.
 
 ---
+
+## PubMed Update: 2026-09-11 19:01:04
+
+### Abstract Sifter version 8: Focus on the chemical literature.
+**PMID:** [42723675](https://pubmed.ncbi.nlm.nih.gov/42723675/)
+
+**Abstract:** Effective research depends on building on the knowledge found in the scientific literature. Designed to streamline literature tasks, the EPA's Abstract Sifter literature tool, now at version 8, has been continually extended and enhanced since its introduction in 2017[1]. Early enhancements to the tool have primarily focused on core tasks common to all researchers. For example, citation retrieval from PubMed has been made faster and the returned citation threshold increased to 10,000. Features that allow deeper examination of the literature have been introduced as well. A functionality called Term-mapping allows for fast, dynamic relevancy ranking of returned citations. MeSH substances, such as proteins, genes, and chemicals, can now be extracted from a retrieved corpus of citations, ranked by frequency and explored through the MeSHMine functionality. Features that facilitate user engagement with publications have also been improved: formatting and colorization ease reviewing of the abstract text and the tagging and noting citations functionality has been streamlined. Version 8 introduced multiple features that break new ground in working with chemical literature. For example, chemical entity extraction from scientific publications has been streamlined through download of PDFs and automated table extraction. Following entity extraction, the chemical names can be used as inputs to retrieve EPA's chemical identifiers, the DSSTox (Distributed Structure-Searchable Toxicity) chemical IDs (DTXSIDs). Once these identifiers have been retrieved, a wealth of chemical information is available through built-in functions accessing EPA's Computational Toxicology and Exposure application programming interface (CTX-APIs) [2]. This new functionality allows researchers to build on the EPA's efforts in chemical data assembly and curation. The Abstract Sifter version 8 is a valuable tool for researchers endeavoring to understand chemicals and their effects on the environment and biological systems.
+
+---
+### A machine learning-derived intratumoral heterogeneity-related signature predicts the prognosis for and therapeutic response in patients with skin cutaneous melanoma.
+**PMID:** [42724746](https://pubmed.ncbi.nlm.nih.gov/42724746/)
+
+**Abstract:** Reliable biomarkers for predicting prognosis and therapeutic response in skin cutaneous melanoma (SKCM) remain limited. This study aimed to develop an intratumoral heterogeneity (ITH)-related prognostic signature for SKCM using integrative machine learning.
+
+---
+### Formononetin ameliorates bleomycin-induced pulmonary fibrosis in mice via targeting USP5.
+**PMID:** [42724742](https://pubmed.ncbi.nlm.nih.gov/42724742/)
+
+**Abstract:** Idiopathic pulmonary fibrosis (IPF) is a chronic and progressive interstitial lung disease with limited therapeutic options. Transforming growth factor beta 1 (TGF-β1) is a major profibrotic mediator that promotes fibroblast activation and extracellular matrix (ECM) deposition. This study aimed to evaluate the therapeutic effects of formononetin on bleomycin-induced pulmonary fibrosis (PF) and investigate its underlying mechanism and potential molecular target.
+
+---
+### The prognostic value and molecular mechanisms of <i>Porphyromonas gingivalis</i> infection-associated differentially expressed genes in oral squamous cell carcinoma.
+**PMID:** [42724882](https://pubmed.ncbi.nlm.nih.gov/42724882/)
+
+**Abstract:** Increasing evidence suggests that Porphyromonas gingivalis (Pg) is associated with oral squamous cell carcinoma (OSCC) development and progression. This study aimed to identify Pg-associated genes with prognostic relevance in OSCC through integrated bioinformatics analysis.
+
+---
