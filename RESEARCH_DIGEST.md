@@ -3892,3 +3892,18 @@
 **Abstract:** Lupus nephritis (LN) is a severe complication of systemic lupus erythematosus. Mitochondrial dysfunction and inflammation are key contributors to its pathogenesis, yet the underlying mechanisms remain incompletely understood and reliable biomarkers are limited. This study investigates mitochondrial-related genes (MRGs) in LN and evaluates their potential as biomarkers.
 
 ---
+
+## PubMed Update: 2026-09-13 18:35:05
+
+### Lipase ITB 2.1: a structure- and function-validated model for anti-obesity drug screening.
+**PMID:** [42732036](https://pubmed.ncbi.nlm.nih.gov/42732036/)
+
+**Abstract:** Lipases are key enzymes in lipid metabolism and represent important therapeutic targets for obesity and metabolic disorders. This study integrates sequence analysis, structural modelling, molecular docking, molecular dynamics simulations, and enzymatic assays to elucidate evolutionary conservation and the inhibitory mechanism of orlistat against lipase ITB 2.1. Multiple sequence alignment revealed strong conservation of catalytic serine residue at the nucleophilic elbow across bacterial, fungal, and mammalian lipases, with rare AXSXG motif substitutions in Bacillus and Geobacillus species, indicating adaptive structural variation. Phylogenetic and distance analyses demonstrated clear evolutionary clustering while revealing unexpected relationships among mammalian, fungal, and bacterial lipases, suggesting functional convergence. Superimposition of 3-dimensional structure confirmed preservation of the α/β-hydrolase fold and highlighted lid-dependent conformational changes that regulate active-site accessibility. Molecular docking showed substantially stronger binding of orlistat to the open-lid conformation than to the closed state, with lipase ITB 2.1 exhibiting the most favourable binding affinity among the analysed enzymes. Molecular dynamics simulations (100 ns) confirmed stable ligand-enzyme complexes, with monoacylglycerol lipase and pancreatic lipase displaying the highest structural stability, while lipase ITB 2.1 maintained consistent compactness and ligand retention. Enzymatic inhibition assays experimentally validated the computational predictions, demonstrating kinetic value with Vmax 1428 µM/min; Km 81 µM and complete inhibition at 56.25 µM orlistat. Collectively, these findings establish lipase ITB 2.1 as a robust model for lipase inhibition and drug screening studies.
+
+---
+### The Landmark Series: Mutation-Based Therapy of Pancreatic Cancer.
+**PMID:** [42732021](https://pubmed.ncbi.nlm.nih.gov/42732021/)
+
+**Abstract:** Pancreatic ductal adenocarcinoma (PDAC) remains a highly lethal malignancy with limited long-term survival despite advances in surgery and systemic therapy.
+
+---
