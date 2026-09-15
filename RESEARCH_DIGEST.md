@@ -4009,3 +4009,36 @@
 **Abstract:** Neurodegenerative disorders are clinically and genetically heterogeneous, characterized by progressive neuronal loss and multidomain functional decline. Despite a presumed genetic etiology, a substantial proportion of cases remain molecularly undiagnosed.
 
 ---
+
+## PubMed Update: 2026-09-15 00:21:33
+
+### Microwell platform for single-cell applications and future integration with artificial intelligence (AI).
+**PMID:** [42734845](https://pubmed.ncbi.nlm.nih.gov/42734845/)
+
+**Abstract:** Single-cell analysis has become an essential approach for understanding cellular heterogeneity and its implications in biological function, disease progression and therapeutic response. Microwell platforms provide a versatile approach for single-cell analysis by spatially confining individual cells while maintaining access for imaging, perturbation and downstream molecular measurements. This review examines how microwell engineering determines the information that can be obtained from individual cells. We first discuss how cell-loading strategies, well geometry, platform architecture and material selection influence cell capture, spatial organisation and experimental accessibility. Then, review major applications of microwell platforms in cellular behaviour and cell-cell interactions, secretome analysis, genomic and transcriptomic profiling, and drug screening and precision medicine. Across these applications, microwells provide a distinct advantage by preserving cell identity and enabling spatial, temporal, functional and molecular measurements to be linked within the same workflow. However, these capabilities also generate increasingly complex datasets that are difficult to analyse using conventional approaches. We therefore examine the emerging integration of artificial intelligence (AI) for automated image analysis, cell tracking, phenotype classification, behavioural analysis and prediction of cellular and drug responses. Above all, this review distinguishes AI approaches that have been directly demonstrated in microwell-based studies from those developed in the broader single-cell field that remain prospective for microwell applications. Finally, future opportunities for multimodal AI, foundation models, large language model agents and autonomous laboratory systems will be discussed. By linking microwell engineering with AI-driven analysis, this review highlights how experimental design can determine the information available for computational analysis and identifies opportunities to move microwell-based single-cell research from measurement towards prediction and autonomous discovery.
+
+---
+### Discovery and validation of novel plasma protein biomarkers for severe tuberculosis patients.
+**PMID:** [42734641](https://pubmed.ncbi.nlm.nih.gov/42734641/)
+
+**Abstract:** Severe tuberculosis (STB) imposes a substantial disease burden, yet reliable biomarkers for distinguishing STB from mild/moderate tuberculosis (MTB) remain scarce. This study aimed to identify and independently validate plasma protein biomarkers associated with tuberculosis severity.
+
+---
+### Deep Learning Protocols for Predicting Drug Mechanism of Action and Drug-Target Interactions.
+**PMID:** [42734743](https://pubmed.ncbi.nlm.nih.gov/42734743/)
+
+**Abstract:** Understanding drug mechanisms of action (MOA) and predicting drug-target interactions (DTIs) are fundamental challenges in modern drug discovery and development, hindered by high costs, long development timelines, and limited knowledge of compound activity and molecular targets. Here, we present two deep learning-based computational protocols designed to address these challenges. The first framework employs directed message passing neural networks (D-MPNN) to predict drug MOA from chemical-genetic interaction profiles (CGIPs), by learning how molecular structures perturb biological pathways through systematic profiling across genetically sensitized strains. The second framework, iNGNN-DTI, utilizes interpretable nested graph neural networks combined with pretrained molecule models to predict DTIs, leveraging cross-attention mechanisms to provide insights into binding determinants. We highlight the application of these methods to key therapeutic areas, including antibacterial drug discovery and drug repurposing for COVID-19 therapeutics. Each protocol provides comprehensive guidance on data preparation, model implementation, validation strategies, and result analysis. These computational approaches offer scalable, cost-effective tools for accelerating therapeutic development by bridging chemical structure, molecular interactions, and systems-level biological responses.
+
+---
+### Odorant-Binding Protein 56 h Contributes to the Behavioral Response of Frankliniella occidentalis to Neryl (S)-2-Methylbutanoate.
+**PMID:** [42735042](https://pubmed.ncbi.nlm.nih.gov/42735042/)
+
+**Abstract:** The western flower thrips, Frankliniella occidentalis, poses a serious threat to global agriculture because of its feeding damage and virus transmission. Its major aggregation pheromone component neryl (S)-2-methylbutanoate (NMB) is a strong attractant for adult females. However, the molecular mechanisms underlying NMB detection, particularly the role of odorant-binding proteins, remain poorly defined. This study identified and functionally characterized FoccOBP56h as a key mediator of the behavioral response to NMB. qRT-PCR showed that FoccOBP56h is predominantly expressed in the antennae and is significantly upregulated following NMB exposure. Fluorescence binding assays revealed that recombinant FoccOBP56h exhibited high affinity for NMB. Molecular docking and site-directed mutagenesis indicated that Asn90, Met104, and Val105 are important for NMB binding. RNAi-mediated knockdown of FoccOBP56h significantly reduced female attraction to NMB. These findings identify FoccOBP56h as a promising molecular target involved in NMB detection, providing a foundation for developing semiochemical-based strategies for insect behavior manipulation in pest management.
+
+---
+### Cell Type-Resolved Causal Inference and Spatial Transcriptomic Integration Reveal Immune-Specific Genetic Drivers of Autoimmune and Malignant Thyroid Disease.
+**PMID:** [42734902](https://pubmed.ncbi.nlm.nih.gov/42734902/)
+
+**Abstract:** Thyroid diseases, including autoimmune thyroid disease (AITD) and thyroid cancer, are characterized by immune dysregulation, yet the cell type-specific genetic mechanisms underlying these conditions remain poorly understood. Most genome-wide association studies (GWAS) have relied on bulk tissue expression quantitative trait loci (eQTL), which cannot resolve the heterogeneity of immune cell populations.
+
+---
