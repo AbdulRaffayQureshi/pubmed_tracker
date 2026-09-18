@@ -4387,3 +4387,42 @@
 **Abstract:** Single-cell RNA-sequencing-based characterization of cells that belong to the neoplastic clone is a major challenge in hematologic neoplasms, where malignant and normal cells coexist. Confident molecular profiling requires simultaneous analysis of gene expression and genetic mutations in individual cells, an ability that is not supported by the standard 10X Genomics workflow. Here, we systematically evaluated the potential and limitations of repurposing amplified cDNA generated during the 10X Genomics 3' workflow for post hoc genotyping of individual cells. We first established a mixed leukemic cell line system comprising one cell line with KIT point mutations and another with the BCR::ABL1 fusion gene. Targeted long-read PacBio sequencing enabled post hoc assignment of mutation data to transcriptionally profiled cells, but recovery differed between targets. Consistent with ambient RNA in microfluidics-based single-cell workflows, mutation-associated transcripts were detected in cells not expected to carry the corresponding mutations, illustrating how transcript recovery complicates cell-level genotype assignment. Target-specific thresholds mitigated this source of misclassification. In primary chronic myeloid leukemia samples, the post hoc approach detected BCR::ABL1-positive cells at diagnosis, but not during imatinib treatment. Together, we present a framework for adding mutation status to cells already profiled using the 10X Genomics workflow and highlight broader considerations for transcript-based single-cell genotyping.
 
 ---
+
+## PubMed Update: 2026-09-18 04:03:00
+
+### New approach methodologies in neurotherapeutics development.
+**PMID:** [42753291](https://pubmed.ncbi.nlm.nih.gov/42753291/)
+
+**Abstract:** New Approach Methodologies (NAMs) offer substantial opportunities to transform neurotherapeutics discovery, optimization, and development, reducing the timeline to translate central nervous system (CNS) innovations to patients. Strategically deployed, NAMs enhance the predictive value of preclinical studies for human outcomes while reducing reliance on animal models. Current scientific community interest focuses particularly on human-based and -derived systems, in silico and AI-driven models, and advanced microphysiological platforms, reflecting a shift toward human-centric drug development paradigms. Despite this momentum, significant challenges remain, including NAM reproducibility and validation, the establishment of standardized performance criteria, data sharing, and the evolution of regulatory frameworks needed to enable consistent adoption across the neurotherapeutics continuum. Nevertheless, there is a rich history of developing and adopting methodologies, particularly for improving the prediction of neurotherapeutic safety profiles while reducing animal use, and for advancing understanding of drug delivery across the blood-brain barrier, and the assessment of adverse neurological effects. These advances have begun to influence regulatory decision-making and are increasingly reflected in guidance and review practices. Furthermore, NAMs are showing concrete impact in neurological disorders, including Epilepsy, Amyotrophic lateral sclerosis (ALS), Alzheimer's disease, and Parkinson's disease, where human-relevant models and computational approaches support more precise characterization of disease mechanisms and therapeutic responses. In this paper, we examine the current and emerging roles of NAMs in neurotherapeutics development from government, academia, and industry perspectives, highlight key opportunities and limitations, and discuss the scientific, technical, and regulatory steps required to fully realize their potential in accelerating safe and effective CNS therapies.
+
+---
+### An open benchmark and language models for AI in aging biology.
+**PMID:** [42753698](https://pubmed.ncbi.nlm.nih.gov/42753698/)
+
+**Abstract:** Over the past two decades, human aging has been characterized across DNA methylation, transcriptomic, proteomic, and clinical modalities, yet no benchmark evaluates whether AI systems can interpret these heterogeneous data types in the context of aging biology. We introduce LongevityBench, an open suite of 17 tasks spanning five biodata domains, and use it to assess 18 frontier AI systems from six developer teams. Despite recent advances in AI, no single model dominates all tasks, with omics-based age prediction being the hardest task regardless of scale. To test whether these gaps can be closed without frontier-scale resources, we fine-tuned a family of five multitask Longevity-LLMs on domain-specific aging data. The compact (0.6B-9B parameters) Longevity-LLMs matched or exceeded far larger frontier systems on LongevityBench, showing that general-purpose language models can be adapted to structured-omics tasks. We publicly release the benchmark, models, and Longevity Claw, an agentic research interface for aging researchers.
+
+---
+### An open benchmark and language models for AI in aging biology.
+**PMID:** [42753698](https://pubmed.ncbi.nlm.nih.gov/42753698/)
+
+**Abstract:** Over the past two decades, human aging has been characterized across DNA methylation, transcriptomic, proteomic, and clinical modalities, yet no benchmark evaluates whether AI systems can interpret these heterogeneous data types in the context of aging biology. We introduce LongevityBench, an open suite of 17 tasks spanning five biodata domains, and use it to assess 18 frontier AI systems from six developer teams. Despite recent advances in AI, no single model dominates all tasks, with omics-based age prediction being the hardest task regardless of scale. To test whether these gaps can be closed without frontier-scale resources, we fine-tuned a family of five multitask Longevity-LLMs on domain-specific aging data. The compact (0.6B-9B parameters) Longevity-LLMs matched or exceeded far larger frontier systems on LongevityBench, showing that general-purpose language models can be adapted to structured-omics tasks. We publicly release the benchmark, models, and Longevity Claw, an agentic research interface for aging researchers.
+
+---
+### QZLX gel alleviates psoriasiform inflammation through immunomodulatory effects involving PD-1/PD-L1/SHP2 signaling axis.
+**PMID:** [42754125](https://pubmed.ncbi.nlm.nih.gov/42754125/)
+
+**Abstract:** A gel preparation derived from the traditional Chinese medicine formula QinZhuLiangXue (QZLX), a herbal formula for clinical psoriasis treatment, was developed as a potential alternative to existing topical treatments for psoriasis and to meet clinical expectations. Nonetheless, the exact mechanisms of its action against this condition remain to be clarified.
+
+---
+### Leakage-safe machine learning evaluation of viral T-cell IFN-gamma response prediction using IEDB data.
+**PMID:** [42753519](https://pubmed.ncbi.nlm.nih.gov/42753519/)
+
+**Abstract:** To benchmark leakage-aware machine-learning methods for ranking viral T-cell peptides by qualitative interferon-gamma (IFN-gamma) assay outcome in public Immune Epitope Database (IEDB) records.
+
+---
+### Genomic and transcriptomic quality control for an autologous iPSC-derived cell therapy for Parkinson's disease.
+**PMID:** [42753738](https://pubmed.ncbi.nlm.nih.gov/42753738/)
+
+**Abstract:** Toward development of an autologous, induced pluripotent stem cell (iPSC)-based cell therapy for Parkinson's disease (PD), we demonstrate successful, reproducible genomic and transcriptomic qualification of patient-derived dopaminergic neuron precursor cells (DANPCs) across multiple donors. Our analysis includes whole-genome sequencing data from fibroblasts, iPSCs, and DANPCs and the development of NeuriTest, an RNAseq-based bioinformatic analysis of DANPCs designed to predict cell quality based on empirical animal data. Autologous cell therapies are immune matched to the patient, potentially augmenting durability of benefit compared to allogeneic cells while negating the need for immunosuppression and accompanying side effects. Patient-specific iPSCs are an autologous cell source that can be differentiated to dopaminergic neurons, the cell type lost in PD. We report here our preclinical manufacturing strategy and results demonstrating efficacy in a PD rodent model and safety in a 9-month GLP toxicology study.
+
+---
