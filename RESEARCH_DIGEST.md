@@ -4426,3 +4426,30 @@
 **Abstract:** Toward development of an autologous, induced pluripotent stem cell (iPSC)-based cell therapy for Parkinson's disease (PD), we demonstrate successful, reproducible genomic and transcriptomic qualification of patient-derived dopaminergic neuron precursor cells (DANPCs) across multiple donors. Our analysis includes whole-genome sequencing data from fibroblasts, iPSCs, and DANPCs and the development of NeuriTest, an RNAseq-based bioinformatic analysis of DANPCs designed to predict cell quality based on empirical animal data. Autologous cell therapies are immune matched to the patient, potentially augmenting durability of benefit compared to allogeneic cells while negating the need for immunosuppression and accompanying side effects. Patient-specific iPSCs are an autologous cell source that can be differentiated to dopaminergic neurons, the cell type lost in PD. We report here our preclinical manufacturing strategy and results demonstrating efficacy in a PD rodent model and safety in a 9-month GLP toxicology study.
 
 ---
+
+## PubMed Update: 2026-09-18 10:43:09
+
+### Cell type-selective targeting by heterobifunctional protein binders via in-cell enrichment.
+**PMID:** [42754590](https://pubmed.ncbi.nlm.nih.gov/42754590/)
+
+**Abstract:** Non-catalytic heterobifunctional protein binders promise to expand the range of therapeutic options by establishing complexes between key target proteins and accessory presenter proteins equipped with additional properties. Here, we systematically investigate the rational design of such molecules, explore the biochemical basis of complex formation and determine how they achieve cellular efficacy using the endogenously expressed immunophilin FKBP12 as presenter protein and the transcriptional regulator BRD4 as target protein. We present classes of bifunctional molecules that enable selective, FKBP12-dependent killing of specific cell types at subnanomolar concentrations and allow to differentiate between closely related bromodomains of the BET family. We propose that the strongly potentiated efficacy of these bifunctional compounds is based on cellular enrichment through binding to the highly abundant presenter protein FKBP12, a mechanism we term "CellTrap". Our findings substantiate the concept that highly expressed, non-essential proteins can be repurposed as selective recruiters to expand therapeutic windows of existing small-molecule inhibitors, opening new avenues for designing targeted drugs with improved cell-type specificity.
+
+---
+### E7389-LF as a first-line chemotherapy for patients with metastatic/advanced HER2-negative breast cancer: results from the phase 1 dose-expansion part of study 114.
+**PMID:** [42754887](https://pubmed.ncbi.nlm.nih.gov/42754887/)
+
+**Abstract:** There is an ongoing need for first-line (1L) chemotherapies for metastatic HER2-negative breast cancer. This study evaluated the efficacy and safety profile of the dose-expansion part 6 of Study 114 in patients receiving E7389-LF as a 1L chemotherapy for metastatic/advanced HER2-negative breast cancer.
+
+---
+### Design, synthesis, and computational assessment of <i>bis</i>‑oxadiazole ligands targeting α-amylase and α-glucosidase: DFT, docking, and ADME studies.
+**PMID:** [42755370](https://pubmed.ncbi.nlm.nih.gov/42755370/)
+
+**Abstract:** Type 2 diabetes mellitus (T2DM) is a chronic metabolic disorder characterized by persistent hyperglycemia, mainly due to postprandial glucose elevation. Inhibition of carbohydrate-hydrolyzing enzymes such as α-glucosidase and α-amylase is an effective strategy for its management. This study aimed to design, synthesize, characterize, and evaluate a series of bis-oxadiazole derivatives as potential anti-diabetic agents.
+
+---
+### STCGCar: Graph Contrastive Learning with Reliable Augmentation for Spatial Transcriptomics Clustering.
+**PMID:** [42755032](https://pubmed.ncbi.nlm.nih.gov/42755032/)
+
+**Abstract:** Accurately identifying spatial domains based on spatial transcriptomics (ST) data can greatly promote our understanding of cellular composition and tissue organization. While graph neural networks (GNNs) have shown significant advancements in spatial clustering, they tend to be insensitive to noisy edges, leading to intersections among identified spatial domains. Here, we introduce a GNN-based ST Clustering framework, called STCGCar, utilizing a Graph Contrastive learning model with reliable augmentation and redundancy reduction strategies. The framework begins by creating an enhanced view through a reversible network after data preprocessing. Subsequently, low-dimensional embeddings of spots are learned using a multi-head attention mechanism. Moreover, a redundancy reduction strategy is employed to reduce information redundancy in potential feature space. Finally, spatial domains are delineated through K-means clustering, followed by downstream analysis. STCGCar was benchmarked against six state-of-the-art clustering methods (i.e., Seurat, conST, CCST, STAGATE, DeepST, and GraphST) using five 10x Visium datasets, a STARmap dataset, and two Stereo-seq mouse embryo datasets. Through evaluation with adjusted rand index (ARI), normalized mutual information (NMI), and four internal indicators, it demonstrated outstanding clustering performance compared to other methods on four labeled and four unlabeled datasets. Additionally, STCGCar accurately identified spatial domains and discovered three potential differentially expressed genes (AZGP1, CD24, and CCND1) in human breast cancer tissues. Furthermore, it effectively delineated layer structures in human DLPFC and adult mouse brain tissues. STCGCar is a powerful tool for spatial domain identification, showcasing its effectiveness and scalability on diverse datasets. It is freely available at https://github.com/plhhnu/STCGCar.
+
+---
