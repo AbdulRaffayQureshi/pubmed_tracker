@@ -4642,3 +4642,24 @@
 **Abstract:** Proteomics, the large-scale study of proteins, enables the identification, quantification, and functional characterization of proteins, revealing post-translational modifications and protein interactions that are not apparent from transcriptomic data. Human organoids, which recapitulate the structural and functional complexity of native epithelial tissues, provide powerful tools to study disease mechanisms and personalize therapies. However, their culture poses challenges for efficient protein extraction and reproducible analysis. Here, we present a proteomics workflow optimized to maximize protein recovery from Matrigel-encased organoids. Samples were processed using S-Trap microcolumns to minimize losses, followed by liquid chromatography-mass spectrometry (LC-MS) in data-independent acquisition (DIA/SWATH-MS) mode for comprehensive, untargeted quantification. Library-free computational analysis using DIA-NN, combined with differential expression analysis, enabled sensitive detection of key proteins in intestinal organoids.
 
 ---
+
+## PubMed Update: 2026-09-21 03:47:31
+
+### Repair effect and underlying mechanisms of volatile components/essential oil from Perilla frutescens leaves on the skin barrier.
+**PMID:** [42764123](https://pubmed.ncbi.nlm.nih.gov/42764123/)
+
+**Abstract:** The leaves of Perilla frutescens (L.) Britt. have long been topically used in Asian folk medicine to alleviate inflammatory and allergic skin disorders. Modern pharmacology confirms its anti-inflammatory, antioxidant, anti-allergic and skin-repairing activities. Nevertheless, the volatile active ingredients and molecular mechanisms of perilla leaves for skin-protective effects remain unclear. This work represents the first systematic stratified investigation comparing epidermal barrier repair between perilla leaf essential oil (PLEO) and its major constituent perillaldehyde, integrating in-silico prediction and in-vitro validation to dissect the multi-terpenoid synergistic mechanism of PLEO.
+
+---
+### Immunoinformatics-driven design and in silico characterization of a multiepitope vaccine targeting the hepatitis C virus core protein.
+**PMID:** [42763984](https://pubmed.ncbi.nlm.nih.gov/42763984/)
+
+**Abstract:** Hepatitis C virus (HCV) remains a major global health burden, and its core protein is central to both viral replication and immune evasion. Here, we used an immunoinformatics approach to design a multiepitope vaccine directed against the HCV core protein. Several prediction platforms were applied to identify immunogenic regions that were antigenic, non-toxic, and non-allergenic; the twenty epitopes that met all of these criteria were joined by linkers and fused to 50S ribosomal protein L7/L12 and Pam2Cys adjuvants. The resulting construct was modeled, refined, and docked with Toll-like receptors (TLR2, TLR3, TLR4, TLR7, and TLR9), after which normal mode analysis (NMA) and molecular dynamics (MD) simulations were performed to assess its stability. The refined fusion protein showed favorable predicted binding to all of the receptors tested, and both NMA and MD indicated that the vaccine-TLR2 complex was conformationally stable. Immune simulation further predicted the production of anti-HCV antibodies and the activation of cellular immunity. Taken together, these findings identify the construct as a promising HCV vaccine candidate that now warrants experimental validation.
+
+---
+### Metabolomics and network pharmacology identify three key bioactive organic acid metabolites in Amomum tsao-ko.
+**PMID:** [42764030](https://pubmed.ncbi.nlm.nih.gov/42764030/)
+
+**Abstract:** Amomum tsao-ko is a medicinal spice whose organic acids determine flavor and bioactivity, yet systematic profiling is lacking. We performed metabolomics across three accessions and two processing states, network pharmacology on differential metabolites, and transcriptomics on fresh fruits of three accessions. Metabolomics resolved accession-specific and drying-responsive profiles. Network pharmacology identified core targets converging on steroid hormone biosynthesis and inflammatory pathways, and molecular docking prioritized three organic acids, including jasmonic acid, abscisic acid, and 1-(2-amino-3-methylpentanoyl)pyrrolidine-2-carboxylic acid, with strong binding to PTGS2, AKR1C3, and CYP19A1. Transcriptomics revealed that key biosynthetic genes for jasmonic acid and abscisic acid, including LOX2S, AOS, NCED, and ABA2, were differentially expressed across accessions in patterns consistent with the corresponding metabolite accumulation levels. These cross-validated findings link organic acid composition to genotype and processing, highlight candidate bioactives for inflammation and endocrine modulation, and provide a foundation for germplasm evaluation and medicinal development of A. tsao-ko.
+
+---
