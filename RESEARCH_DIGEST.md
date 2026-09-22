@@ -4786,3 +4786,42 @@
 **Abstract:** Eubacterium limosum is an acetogen capable of metabolizing one-carbon (C1) substrates, such as carbon monoxide (CO), carbon dioxide (CO<sub>2</sub>), and methanol, via the Wood-Ljungdahl pathway. However, most acetogens require complex media containing undefined components, such as yeast extract, to support their autotrophic growth, which hinders a precise understanding of their fundamental autotrophic metabolism and impedes cost-effective bioprocess development. In this study, E. limosum was subjected to adaptive laboratory evolution through the stepwise reduction of yeast extract over 653 generations under 66 % CO syngas conditions. The resulting evolved strain, designated ECO_X, exhibited robust growth in a chemically defined medium devoid of yeast extract, achieving a specific CO consumption rate of 0.081 ± 0.014 mmol h<sup>-1</sup> and a specific growth rate of 0.103 ± 0.009 h<sup>-1</sup>. ECO_X also exhibited a 1.9-fold reduction in cell size, markedly reduced biofilm formation, and a greater than 2-fold improvement in electroporation efficiency relative to the parental strain, establishing it as a tractable platform for metabolic engineering. Whole-genome resequencing identified a key mutation (Gly395Ser) within a type VII ABC transporter (B2M23_RS08970) as the genetic basis of this phenotype. Furthermore, transcriptomic analysis revealed a significant upregulation of the tryptophan biosynthesis pathway in ECO_X within the yeast extract-free defined medium, indicating that limited tryptophan availability is a key constraint underlying the yeast extract dependence of the parental strain under autotrophic conditions. Collectively, this study establishes a practical approach for the chemically defined cultivation of E. limosum and provides insight into the metabolic basis of its yeast extract dependence under autotrophic conditions.
 
 ---
+
+## PubMed Update: 2026-09-22 13:10:26
+
+### The evolving landscape of drug targets.
+**PMID:** [42768085](https://pubmed.ncbi.nlm.nih.gov/42768085/)
+
+**Abstract:** Since the turn of the century, drug discovery has been transformed by advances in genetics, genomics and proteomics, as well as automation, data science and the diversification of therapeutic modalities beyond synthetic small molecules and natural product derivatives. This transformation has led to the expansion of the drug target landscape, enabling advances in the treatment of many diseases, including some that previously lacked pharmacotherapies. In this Review, we map and quantify key elements of these changes over the past 25 years, such as trends in the number and type of targets through which drugs mediate their therapeutic effects, which now include 686 biomolecules modulated by 1,702 drugs. We also discuss trends we believe will continue or change, as target druggability continues to evolve with the emergence of new therapeutic modalities.
+
+---
+### AI co-scientists are revolutionizing how research is done.
+**PMID:** [42768190](https://pubmed.ncbi.nlm.nih.gov/42768190/)
+
+**Abstract:** No abstract available.
+
+---
+### AIDrugDesigner: a web server for drug-like molecules generation and optimization.
+**PMID:** [42767993](https://pubmed.ncbi.nlm.nih.gov/42767993/)
+
+**Abstract:** Designing molecules with predefined properties remains a critical yet challenging task in drug discovery. Recent advances in deep learning have demonstrated strong potential in accelerating the identification of novel compounds with desired properties and activities. However, the implementation and running of these models often present difficulties due to varying environments and the requisite for additional coding competencies.
+
+---
+### Integrative computational approach to elucidate the efficacy of cordyceps in managing lupus nephritis: from molecular targets to clinical applications.
+**PMID:** [42769061](https://pubmed.ncbi.nlm.nih.gov/42769061/)
+
+**Abstract:** Despite advances in immunosuppressive therapies, lupus nephritis (LN) continues to be a major contributor to morbidity and mortality. The scarcity of reliable biomarkers for predicting renal outcomes further complicates clinical management. While Cordyceps is recognized for its immunomodulatory properties as a medicinal fungus, its therapeutic potential in LN remains underexplored. Moreover, it is unclear whether its molecular targets identified through screening constitute viable therapeutic interventions for this disease.
+
+---
+### DUET: a graph-based workflow for TCR-epitope prioritization and tumor-reactive T-cell identification.
+**PMID:** [42768776](https://pubmed.ncbi.nlm.nih.gov/42768776/)
+
+**Abstract:** Accurate prioritization of T-cell receptor (TCR)-epitope interactions and identification of tumor-reactive T cells are important but difficult steps in immunotherapy-oriented bioinformatics workflows. Existing methods typically address these tasks separately and either model TCR-epitope pairs as independent observations or rely primarily on transcriptomic signatures. In this study, we present DUET (Dual Unified Evaluation of TCR-Epitopes and Tumor-reactive T cells), a graph-based computational workflow that unifies both applications within a single heterogeneous graph framework. The protocol represents TCRs, epitopes, and T cells as typed nodes connected by similarity and association edges, and combines pretrained sequence embeddings with edge-aware graph attention, Laplacian positional encoding, and bidirectional cross-domain attention. Applied to the IEDB and VDJdb benchmarks, DUET achieved AUROC/AUPR values of 0.937/0.922 and 0.992/0.990, respectively, outperforming five state-of-the-art algorithms under standard evaluation. On a single-cell RNA-seq tumor-reactivity benchmark, the workflow achieved an area under the receiver operating characteristic curve of 0.985 and an area under the precision-recall curve of 0.975, substantially exceeding transcriptomic signature-based baselines. Additional generalization analyses showed that DUET's clearest graph-specific benefit occurred under epitope-disjoint TCR-epitope prediction. Ablation analysis showed that Laplacian positional encoding provided the largest performance gain, particularly in sparse graph settings. These results suggest that heterogeneous graph modeling can serve as a practical protocol for integrating receptor sequence, antigen context, and cellular phenotype in computational immunology.
+
+---
+### Deletion of a distal IRF4 element prevents inflammation-induced reprogramming of human regulatory T cell fate.
+**PMID:** [42768223](https://pubmed.ncbi.nlm.nih.gov/42768223/)
+
+**Abstract:** Regulatory T (T<sub>reg</sub>) cells in mice can lose lineage identity and acquire proinflammatory functions, but whether human T<sub>reg</sub> cells are similarly susceptible to cytokine-driven destabilization remains unclear. Here we established an in vitro model of human T<sub>reg</sub> cell destabilization defined by silencing of the lineage-specifying transcription factor FOXP3, loss of suppressive function and acquisition of proinflammatory activity. Single-cell chromatin accessibility and transcriptomic profiling revealed a genome-wide increase in accessibility at AP-1-binding sites, including a putative regulatory element distal to IRF4. Increased accessibility at this element correlated with increased IRF4 expression during T<sub>reg</sub> cell destabilization, and its excision conferred resistance to inflammatory cytokine-induced reprogramming. Conversely, forced expression of IRF4 together with BATF promoted T<sub>reg</sub> cell destabilization. These data identify a distal IRF4 regulatory element as a critical node enabling heightened AP-1-IRF4 cooperative activity to drive T<sub>reg</sub> cell destabilization, with implications for the design of more stable and effective T<sub>reg</sub> cell-based therapies.
+
+---
