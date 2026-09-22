@@ -4825,3 +4825,42 @@
 **Abstract:** Regulatory T (T<sub>reg</sub>) cells in mice can lose lineage identity and acquire proinflammatory functions, but whether human T<sub>reg</sub> cells are similarly susceptible to cytokine-driven destabilization remains unclear. Here we established an in vitro model of human T<sub>reg</sub> cell destabilization defined by silencing of the lineage-specifying transcription factor FOXP3, loss of suppressive function and acquisition of proinflammatory activity. Single-cell chromatin accessibility and transcriptomic profiling revealed a genome-wide increase in accessibility at AP-1-binding sites, including a putative regulatory element distal to IRF4. Increased accessibility at this element correlated with increased IRF4 expression during T<sub>reg</sub> cell destabilization, and its excision conferred resistance to inflammatory cytokine-induced reprogramming. Conversely, forced expression of IRF4 together with BATF promoted T<sub>reg</sub> cell destabilization. These data identify a distal IRF4 regulatory element as a critical node enabling heightened AP-1-IRF4 cooperative activity to drive T<sub>reg</sub> cell destabilization, with implications for the design of more stable and effective T<sub>reg</sub> cell-based therapies.
 
 ---
+
+## PubMed Update: 2026-09-22 17:58:40
+
+### Structural Prerequisites for Pim-1 Kinase Inhibition and the Identification of a Pyrazolyl-Methylene-Indolinone Hit.
+**PMID:** [42769123](https://pubmed.ncbi.nlm.nih.gov/42769123/)
+
+**Abstract:** Pim-1 is a serine/threonine kinase of the pan-Pim family (Pim-1, -2, and -3), whose overexpression is associated with various cancers. Its distinctive hinge-region architecture provides opportunities for selective inhibitor development, with several inhibitors reported as clinical candidates. Understanding structure-activity relationships is essential for distinguishing biologically active compounds from high-scoring docking hits, a major challenge in structure-based drug discovery.
+
+---
+### Artificial Intelligence in the Design and Development of Nanoparticle Drug Delivery Systems: A Systematic Review.
+**PMID:** [42769491](https://pubmed.ncbi.nlm.nih.gov/42769491/)
+
+**Abstract:** Artificial intelligence (AI) has rapidly emerged as a powerful tool for accelerating the design and optimization of nanoparticle-based drug delivery systems (NDDSs). By analyzing complex multidimensional datasets, AI models can predict nanoparticle physicochemical properties, biodistribution, and safety profiles more efficiently than traditional experimental approaches.
+
+---
+### Artificial Intelligence in the Design and Development of Nanoparticle Drug Delivery Systems: A Systematic Review.
+**PMID:** [42769491](https://pubmed.ncbi.nlm.nih.gov/42769491/)
+
+**Abstract:** Artificial intelligence (AI) has rapidly emerged as a powerful tool for accelerating the design and optimization of nanoparticle-based drug delivery systems (NDDSs). By analyzing complex multidimensional datasets, AI models can predict nanoparticle physicochemical properties, biodistribution, and safety profiles more efficiently than traditional experimental approaches.
+
+---
+### The 1,3,4-Thiadiazole Scaffold in Medicinal Chemistry: Structural Insights, Mechanistic Pathways, and Therapeutic Outlook.
+**PMID:** [42770356](https://pubmed.ncbi.nlm.nih.gov/42770356/)
+
+**Abstract:** Heteroatoms are common structural fragments in many APIs and excipients. Several heterocyclic scaffolds are considered privileged structures. The term Thiadiazole comes from the "Hantzsch-Widman" nomenclature and falls within the category of azole chemicals. These are heterocyclic compounds with 5-membered rings that contain 2 nitrogen atoms and 1 sulfur atom. It exists in 4 isomeric forms, namely 1,2,4-thiadiazole, 1,2,3-thiadiazole, 1,3,4-thiadiazole, and 1,2,5- thiadiazole. The thiadiazole nucleus shows a broad spectrum of biological activities, including antimicrobial, anticonvulsant, anticancer, antiviral, antituberculosis, anti-inflammatory and analgesic, diuretic, antidiabetic, anti-ulcer, antimalarial, and anti-leishmanicidal properties, as well as effects against influenza, hypolipidemia, hyperlipidemia, and hypertension. The most studied of these scaffolds is the 1,3,4-thiadiazole scaffold, and the synthesis of 1,3,4-thiadiazole proceeds through wellestablished reaction pathways, including the intramolecular cyclization of thioacylated intermediates, including acylhydrazide or thiosemicarbazide derivatives, which are either acid- or basecatalyzed and often facilitated by harsh dehydrating agents. The review also addresses the chemical reactivity, substitution behaviour, and stability of the scaffold under various conditions, thereby making it more adaptable for molecular design. Aromatic stability, unique electron distribution, and bioisosteric physicochemical and electronic characteristics of the 1,3,4-thiadiazole core result in improved pharmacodynamic and pharmacokinetic performance, and the use of the 1,3,4-thiadiazole ring is currently and, in the future, a major structural motif in drug discovery. This review summarizes emerging information on the chemistry of 1,3,4-thiadiazole and promotes the exploration of this versatile scaffold for developing new therapeutic agents.
+
+---
+### Advances in linear epitope-based subunit vaccines powered by artificial intelligence: current status and challenges.
+**PMID:** [42769934](https://pubmed.ncbi.nlm.nih.gov/42769934/)
+
+**Abstract:** In this review, linear epitope-based subunit vaccines are systematically profiled to outline their current developmental status, integrating recent advances in computational immunogenic epitope screening, site-specific chemical modification for stability enhancement, next-generation delivery platform matching, and ongoing clinical translation efforts. Deep learning-based MHC-binding prediction tools including NetMHCpan, MHCflurry 2.0, and MARIA, supported by robust empirical evidence, are rigorously evaluated, with notable improvements observed in the efficiency of identifying B/T cell linear epitopes with high immunogenicity, while it is also noted that the field still faces core bottlenecks such as weak <i>in vivo</i> immunogenicity, rapid enzymatic degradation, and insufficient cross-protection against viral variants. According to this integrative evidence-based assessment, feasible optimization pathways are further outlined, including the synergy between AI-driven epitope structural design and virus-like particle-based delivery systems, to provide practical references for the rational development of next-generation broad-spectrum linear epitope-based vaccines.
+
+---
+### Integrative Multi-Omics and Humanized Mouse Modelling to Predict Immunotherapy Response in Triple-Negative Breast Cancer.
+**PMID:** [42770448](https://pubmed.ncbi.nlm.nih.gov/42770448/)
+
+**Abstract:** Triple-Negative Breast Cancer (TNBC) is an aggressive variant of breast cancer, which has a high degree of molecular heterogeneity, essentially immunologically cold tumor phenotypes, and heterogeneous responses to immunotherapy. Although immune checkpoint inhibitors and combination immunotherapeutic approaches have broadened treatment opportunities, the activity of these treatments in patients is a key translational concern that is difficult to predict.
+
+---
