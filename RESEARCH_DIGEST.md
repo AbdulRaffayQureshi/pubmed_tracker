@@ -4864,3 +4864,30 @@
 **Abstract:** Triple-Negative Breast Cancer (TNBC) is an aggressive variant of breast cancer, which has a high degree of molecular heterogeneity, essentially immunologically cold tumor phenotypes, and heterogeneous responses to immunotherapy. Although immune checkpoint inhibitors and combination immunotherapeutic approaches have broadened treatment opportunities, the activity of these treatments in patients is a key translational concern that is difficult to predict.
 
 ---
+
+## PubMed Update: 2026-09-23 07:28:19
+
+### Spectrum and immunovirological determinants of tumours among people living with HIV in Uganda: A retrospective cross sectional study from a specialised HIV centre, 2017-2026.
+**PMID:** [42771607](https://pubmed.ncbi.nlm.nih.gov/42771607/)
+
+**Abstract:** Sub-Saharan Africa carries a disproportionate burden of HIV-associated malignancies. The contemporary tumour spectrum in the dolutegravir (DTG) era remains incompletely characterised in East African routine HIV-care settings. The immunovirological context at the time of cancer or benign tumor diagnosis is similarly under-described. We sought to describe the spectrum, malignant fraction, and immunovirological correlates of neoplasms diagnosed at a specialised HIV centre in Kampala, Uganda.
+
+---
+### RA-PLA: Retrieval-augmented graph convolutional networks for protein-ligand binding affinity prediction.
+**PMID:** [42771596](https://pubmed.ncbi.nlm.nih.gov/42771596/)
+
+**Abstract:** Protein-ligand binding affinity (PLA) prediction is essential for computational drug discovery, yet existing deep learning methods typically employ a single globally trained model that fails to adapt to individual query samples. In this paper, we propose a novel end-to-end framework that retrieves hard protein-ligand pairs-samples whose nearest neighbors have conflicting labels under manifold smoothness constraints-and integrates them via a semi-supervised graph convolutional network (GCN). For each query, we automatically construct a graph where nodes represent protein-ligand pairs and edges encode pairwise similarities. Our model jointly learns joint descriptors, graph topology, and the GCN predictor. During inference, we fine-tune the model per query using its retrieved hard neighbors.We evaluate on four benchmarks: PDBbind, Davis, KIBA, and BindingDB. Our method consistently outperforms state-of-the-art approaches. On Davis, we achieve a Concordance Index (CI) of 0.952 ± 0.005 (1.6% improvement over NerLTR-DTA) and AUPR of 0.815 ± 0.005 (7.6% improvement). On KIBA, we achieve CI of 0.916 ± 0.002 and AUPR of 0.871 ± 0.005, outperforming DeepCDA by 2.7% and 5.9%, respectively. On PDBbind, our CI of 0.894 ± 0.002 represents an 11.4% improvement over PLA-MoRe. On BindingDB, we achieve AUPR of 0.518 ± 0.009 (5.9% improvement over DeepCDA). In cold-target generalization across four unseen protein families, we achieve average AUPR improvements of 15.5%. Paired t-tests confirm statistical significance (p < 0.05), and ablation studies validate that both hard sample retrieval and end-to-end learning are essential for performance gains. Our framework demonstrates that query-specific adaptation significantly enhances both accuracy and generalization in PLA prediction.
+
+---
+### Loquat leaves alleviate OVA-induced allergic airway inflammation by suppressing TNF-α-associated M1 macrophage polarization and MMP12 expression.
+**PMID:** [42772612](https://pubmed.ncbi.nlm.nih.gov/42772612/)
+
+**Abstract:** Loquat leaves (PPY) have long been used in traditional medicine for cough, phlegm, and wheezing-related respiratory disorders. However, the anti-asthmatic mechanisms of PPY, particularly those associated with airway inflammation and macrophage-derived inflammatory injury, remain incompletely understood.
+
+---
+### Zebrafish in the era of single-cell and spatial transcriptomics: a new paradigm for central nervous system drug discovery from natural products.
+**PMID:** [42772798](https://pubmed.ncbi.nlm.nih.gov/42772798/)
+
+**Abstract:** Natural products (NPs) represent a an important chemical source for CNS therapeutics for central nervous system (CNS) therapeutics, yet elucidating their complex, multitarget mechanisms remains a major challenge. Zebrafish have emerged as a powerful vertebrate model bridging the translational gap between in vitro assays and rodent systems in CNS drug discovery. Their genetic tractability, optical transparency and rapid development make them ideal for high-throughput pharmacological screening. Recent advances in single-cell RNA sequencing (scRNA-seq) and spatial transcriptomics (ST), particularly Stereo-seq, are revolutionizing zebrafish-based drug discovery by enabling unprecedented resolution of cellular heterogeneity, tissue architecture and drug-induced transcriptomic changes. scRNA-seq allows for the dissection of individual cellular responses, uncovering dynamic and context-specific drug effects, while Stereo-seq maps gene expression within intact tissue landscapes, offering spatial precision. When integrated, these technologies empower researchers to conduct high-resolution compound screening, elucidate mechanisms of NPs, detect off-target effects and accelerate translational pipelines from zebrafish to human models. Coupled with CRISPR-based gene editing and phenotypic assays, this integrative approach positions zebrafish as a cornerstone of modern pharmacology and a transformative platform for CNS therapeutics.
+
+---
