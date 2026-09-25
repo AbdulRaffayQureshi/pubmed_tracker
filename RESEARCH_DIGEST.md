@@ -5131,3 +5131,42 @@
 **Abstract:** Saccharomyces cerevisiae is the most widely used microorganism for industrial ethanol fermentation, but its limited xylose assimilation capacity remains a major bottleneck for efficient cellulosic ethanol production. In this study, repeated ultracentrifugation was incorporated as a physical perturbation into an adaptive evolution protocol to obtain the evolved strain S. cerevisiae X100. Compared with the parental strain, the respective utilization rates increased from 0.35g/L/h to 0.80g/L/h for xylose and from 4.67g/L/h to 7.77g/L/h for glucose, corresponding to increases of 128.6% and 66.4%. After 48h of fermentation, the final ethanol titer increased from 48.14g/L in S. cerevisiae Z100 to 63.15g/L in S. cerevisiae X100, corresponding to a 31.2% increase. The fed-batch fermentation of S. cerevisiae X100 achieved 94.96g/L ethanol with a yield of 0.50g/g mixed sugars, while 95.66% of xylose was consumed. Transcriptomic and whole-genome resequencing analyses identified changes associated with stress adaptation, cellular recovery, and metabolic remodeling involving ethanol biosynthesis, NAD(H) metabolism, and mitochondrial function. In this study, repeated ultracentrifugation perturbation was incorporated into an adaptive evolution protocol to improve glucose and xylose utilization and ethanol fermentation performance in S. cerevisiae.
 
 ---
+
+## PubMed Update: 2026-09-25 15:02:05
+
+### Design and Computational Evaluation of Isatin Derivatives as Dual MAO-A/IDO1 Inhibitors: Molecular Docking and Molecular Dynamics Insights.
+**PMID:** [42786817](https://pubmed.ncbi.nlm.nih.gov/42786817/)
+
+**Abstract:** Monoamine oxidase-A (MAO-A) and indoleamine 2,3- dioxygenase-1 (IDO1) contribute to major depressive disorder via monoamine depletion and activation of the kynurenine pathway. Dual inhibition of these enzymes represents a rational multitarget therapeutic strategy.
+
+---
+### Artificial Intelligence-Driven Strategies for Predicting, Personalizing, and Optimizing Therapeutic Targets in Inflammatory Bowel Disease.
+**PMID:** [42786816](https://pubmed.ncbi.nlm.nih.gov/42786816/)
+
+**Abstract:** Inflammatory bowel diseases (IBD), including Crohn's disease and ulcerative colitis, represent chronic relapsing inflammatory disorders characterized by complex interactions among genetic, microbiome-related, immunological, and environmental factors. Although advances in biologics and small-molecule inhibitors have expanded therapeutic options, substantial variability in treatment response, drug resistance, and unpredictable disease progression remain major clinical challenges. Recent breakthroughs in artificial intelligence (AI), particularly machine learning and deep learning, have reshaped current approaches to understanding IBD pathogenesis, identifying druggable molecular targets, and optimizing patient-specific treatment strategies. AI-based models have demonstrated strong potential in predicting disease trajectories, stratifying patients, detecting therapeutic biomarkers, and accelerating target identification in drug discovery pipelines. Moreover, integrative AI frameworks combining multi-omics data, endoscopic imaging, and electronic health records enable real-time, personalized decision-making and improved evaluation of therapeutic response. This review summarizes emerging AI-driven methodologies for drug target discovery, personalized therapy optimization, and clinical outcome prediction in IBD. Additionally, we outline current limitations, translational challenges, and future directions for incorporating AI into precision medicine frameworks aimed at reducing chronic inflammation and improving long-term disease management.
+
+---
+### Artificial Intelligence-Driven Strategies for Predicting, Personalizing, and Optimizing Therapeutic Targets in Inflammatory Bowel Disease.
+**PMID:** [42786816](https://pubmed.ncbi.nlm.nih.gov/42786816/)
+
+**Abstract:** Inflammatory bowel diseases (IBD), including Crohn's disease and ulcerative colitis, represent chronic relapsing inflammatory disorders characterized by complex interactions among genetic, microbiome-related, immunological, and environmental factors. Although advances in biologics and small-molecule inhibitors have expanded therapeutic options, substantial variability in treatment response, drug resistance, and unpredictable disease progression remain major clinical challenges. Recent breakthroughs in artificial intelligence (AI), particularly machine learning and deep learning, have reshaped current approaches to understanding IBD pathogenesis, identifying druggable molecular targets, and optimizing patient-specific treatment strategies. AI-based models have demonstrated strong potential in predicting disease trajectories, stratifying patients, detecting therapeutic biomarkers, and accelerating target identification in drug discovery pipelines. Moreover, integrative AI frameworks combining multi-omics data, endoscopic imaging, and electronic health records enable real-time, personalized decision-making and improved evaluation of therapeutic response. This review summarizes emerging AI-driven methodologies for drug target discovery, personalized therapy optimization, and clinical outcome prediction in IBD. Additionally, we outline current limitations, translational challenges, and future directions for incorporating AI into precision medicine frameworks aimed at reducing chronic inflammation and improving long-term disease management.
+
+---
+### In-silico Analysis of 1,3,4-Thiadiazol-2-yl) benzenesulfonamide Targeting SARS-CoV-2 Spike Glycoprotein and Papain-like Protease.
+**PMID:** [42786828](https://pubmed.ncbi.nlm.nih.gov/42786828/)
+
+**Abstract:** The COVID-19 pandemic, caused by the SARS-CoV-2 virus, results in severe acute respiratory illness and has been declared a global public health emergency. Developing effective therapeutic strategies to control the infection remains an urgent priority. The viral spike glycoproteins and proteases play crucial roles in mediating host cell entry and facilitating viral replication.
+
+---
+### Computational Design of a Trivalent Multi-Epitope mRNA Vaccine Candidate Against Western, Eastern, and Venezuelan Equine Encephalitis Viruses.
+**PMID:** [42786366](https://pubmed.ncbi.nlm.nih.gov/42786366/)
+
+**Abstract:** Western equine encephalitis virus (WEEV), Eastern equine encephalitis virus (EEEV), and Venezuelan equine encephalitis virus (VEEV) are mosquito-borne neurotropic alphaviruses that can cause severe encephalitis in humans and equids, yet no licensed vaccines are currently available for routine human prevention. This study aimed to computationally design a trivalent multi-epitope mRNA vaccine targeting WEEV, EEEV, and VEEV.
+
+---
+### Assessing the toxicological effects of synthetic musk ketone using the Caenorhabditis elegans model.
+**PMID:** [42786522](https://pubmed.ncbi.nlm.nih.gov/42786522/)
+
+**Abstract:** Synthetic musk ketone (MK) is extensively used in perfumes, cosmetics, and detergents. Due to its high lipophilicity, persistence, and limited removal efficiency in wastewater treatment, MK has been detected in various environmental matrices and human tissues. However, the ecotoxicity of MK remains poorly characterized. This study aimed to systematically evaluate the toxicological effects of MK and elucidate its underlying mechanisms using Caenorhabditis elegans (C. elegans) as a model organism.
+
+---
