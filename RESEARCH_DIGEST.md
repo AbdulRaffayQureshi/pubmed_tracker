@@ -5458,3 +5458,18 @@
 **Abstract:** The dorsal horn is remarkably diverse, yet how this cellular complexity enables discrimination of sensory modalities remains a fundamental question. Neurons expressing the gastrin-releasing peptide receptor (Grpr<sup>+</sup>) have long been considered dedicated to itch, yet broad activation also evokes pain-related behavior. Whether Grpr<sup>+</sup> neurons are required for pain and how itch- and pain-related functions are organized within this population remain unresolved. Here, we show that Grpr<sup>+</sup> neurons comprise functionally distinct subpopulations defined by tachykinin-1 (Tac1) and correspond to species-conserved transcriptomic subtypes. Convergent loss- and gain-of-function approaches show that the Tac1- subpopulation is required for chemical itch, whereas a bombesin-insensitive, Tac1-enriched population is necessary for mechanical hypersensitivity across diverse injury states. Computationally identified enhancers provide subtype-enriched genetic access, confirming their roles in itch, mechanical hypersensitivity, and sustained pain. The findings resolve functional diversity within the Grpr<sup>+</sup> population, including identification of a convergent node for mechanical hypersensitivity, and provide subtype-enriched tools for further investigation.
 
 ---
+
+## PubMed Update: 2026-09-29 12:18:09
+
+### iORbase 2.0: Comprehensive analysis platform for insect odorant receptors from genome to structure and function.
+**PMID:** [42806706](https://pubmed.ncbi.nlm.nih.gov/42806706/)
+
+**Abstract:** iORbase 2.0 is an analysis platform for insect odorant receptors that covers sequence, structure, and function analyses. It provides functionalities such as gene annotation, structure prediction, molecular docking, and analysis of molecular dynamics simulation results, along with large-scale sequence, structure, and functional data, thereby assisting research on insect odorant receptors.
+
+---
+### Acute cellular rejection after heart transplantation: validation of HEARTBiT, a transcriptomic biomarker.
+**PMID:** [42806767](https://pubmed.ncbi.nlm.nih.gov/42806767/)
+
+**Abstract:** Acute cellular rejection (ACR) risk is highest within 60 days of heart transplantation (HTx), yet existing minimally invasive surveillance tools lack validation for this high-risk period. This study prospectively validated the diagnostic accuracy of HEARTBiT, a transcriptomic biomarker for detecting moderate-to-severe ACR, including during the early post-operative period.
+
+---
