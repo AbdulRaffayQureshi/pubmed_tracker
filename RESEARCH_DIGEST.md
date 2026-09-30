@@ -5554,3 +5554,24 @@
 **Abstract:** The 17q21.31 inversion locus is among the strongest genetic modifiers of tau-related neurodegenerative disease, yet its structure and function across ancestries remain incompletely understood. By integrating long-read sequencing, transcriptomics from postmortem human brain tissue, induced pluripotent stem cell (iPSC)-derived neurons, and astrocytes, we identified H1_A, a previously unrecognized non-inverted H1 sub-haplotype enriched in individuals of African ancestry (AA). H1_A carries rs8070723, a variant widely used to define the protective H2 haplotype, revealing the limitations of current MAPT haplotype assignment in non-European populations. Across brain tissue and neural cell types, ancestry and haplotype influenced MAPT expression, tau isoform composition, extracellular matrix pathways, immune signaling, and oxidative stress responses. Functional studies further demonstrated effects on astrocyte migration and glutathione regulation. These findings uncover ancestry-dependent regulatory programs at 17q21.31 and provide a framework for more accurate interpretation of MAPT-associated risk in neurodegenerative disease.
 
 ---
+
+## PubMed Update: 2026-09-30 12:03:52
+
+### From Undruggable to Actionable: Redefining Druggability Through Emerging Therapeutic Modalities.
+**PMID:** [42811638](https://pubmed.ncbi.nlm.nih.gov/42811638/)
+
+**Abstract:** The concept of "undruggable" targets has long represented a major limitation in medicinal chemistry, referring to proteins and biomolecules that lack well-defined binding pockets or exhibit highly dynamic conformational behavior. However, advances in structural biology, chemical biology, and computational methodologies are rapidly expanding the scope of tractable therapeutic space. Emerging modalities, including targeted protein degradation, molecular glues, macrocycles, RNA-targeting small molecules, covalent ligands, and artificial intelligence-assisted molecular design, enable pharmacological mechanisms beyond classical occupancy-based inhibition through strategies such as induced proximity, expanded molecular recognition, covalent engagement, and RNA-level regulation. These approaches challenge the traditional binary classification of druggability and support a more context-dependent view of therapeutic accessibility. Despite this progress, significant challenges remain in optimizing pharmacokinetic properties, ensuring selectivity, minimizing toxicity, and achieving robust clinical translation. This editorial provides a mechanistic perspective on how emerging modalities are extending the boundaries of modern drug discovery.
+
+---
+### [Multiple components in Astragalus Injection target CCL2/FOS/PPARG/CXCL8 to suppress cervical cancer progression].
+**PMID:** [42812065](https://pubmed.ncbi.nlm.nih.gov/42812065/)
+
+**Abstract:** To predict the functional targets and molecular mechanisms of Astragalus Injection for suppressing cervical cancer.
+
+---
+### Genome-Wide Characterization, Expression Profiling and Source-Sink Nitrogen Responses of Rice <i>Glutamine Synthetase</i> Gene Family.
+**PMID:** [42812000](https://pubmed.ncbi.nlm.nih.gov/42812000/)
+
+**Abstract:** Nitrogen is the most abundant mineral nutrient required by rice (<i>Oryza sativa</i>) and the primary limiting factor for grain yield. Glutamine synthetase (GS) is a key enzyme involved in nitrogen assimilation in rice, and is closely associated with nitrogen use efficiency (NUE) and source-sink nitrogen dynamics.
+
+---
