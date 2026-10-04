@@ -5941,3 +5941,24 @@
 **Abstract:** Citrus, a widely cultivated Rutaceae crop, comprises numerous varieties, among which Satsuma mandarin (Citrus unshiu Marc.) is the most widely cultivated in Japan. In this study, a high-quality, chromosome-scale, haplotype-phased genome assembly of Satsuma mandarin ("Miyagawa wase") was generated using PacBio HiFi sequencing, Omni-C scaffolding, and a trio binning strategy incorporating its parental genomes (Kishu mandarin (C. kinokuni) and Kunenbo mandarin (C. nobilis)). This approach enabled the complete separation of parental haplotypes. To obtain accurate gene models, we performed long-read transcriptome sequencing across eight tissues and developmental stages, producing comprehensive gene annotations for each haploid genome. Comparative genomic analyses of the two haplotypes revealed extensive structural divergence, multiple sequence polymorphisms, and large insertions/deletions enriched for long terminal repeat retrotransposons. Whole-genome graph-based analysis and synteny comparisons further identified chromosome-specific patterns of sequence diversity, providing new insights into the evolutionary origins of Satsuma mandarin haplotypes. Transcriptome analyses uncovered widespread allele-specific gene expression and tissue-dependent regulatory divergence between the two parental haplotypes; notably, mature fruit tissue exhibited pronounced haplotype-biased transcription, suggesting differential contributions from Kishu- and Kunenbo-derived alleles during fruit maturation. Additionally, comparative genomic analyses of bud sport and nucellar embryony mutant lineages revealed haplotype-specific patterns of variation, providing insights into mutation accumulation during vegetative propagation and nucellar embryony in clonal citrus cultivars. This fully haplotype-phased genomic and transcriptomic resource, which has been implemented in MiGD2 (https://mikan.dna.naro.go.jp), provides a powerful foundation for genome-assisted breeding, identification of functional and lineage-specific alleles, and elucidation of mutation-derived variation in Japanese citrus cultivars.
 
 ---
+
+## PubMed Update: 2026-10-04 11:53:54
+
+### Comparative Analysis of Antidepressant Mechanisms and Side Effects: Network Pharmacology and Molecular Docking Study of Amitriptyline, Mirtazapine, and Escitalopram for Treating Major Depressive Disorder.
+**PMID:** [42829528](https://pubmed.ncbi.nlm.nih.gov/42829528/)
+
+**Abstract:** Amitriptyline, mirtazapine, and escitalopram are effective antidepressants for treating major depressive disorder (MDD). Our study aimed to use computational biology to understand the mechanisms for the similarities and differences in efficacies and side effects of these drugs.
+
+---
+### Comparative Analysis of Antidepressant Mechanisms and Side Effects: Network Pharmacology and Molecular Docking Study of Amitriptyline, Mirtazapine, and Escitalopram for Treating Major Depressive Disorder.
+**PMID:** [42829528](https://pubmed.ncbi.nlm.nih.gov/42829528/)
+
+**Abstract:** Amitriptyline, mirtazapine, and escitalopram are effective antidepressants for treating major depressive disorder (MDD). Our study aimed to use computational biology to understand the mechanisms for the similarities and differences in efficacies and side effects of these drugs.
+
+---
+### Identification of a Novel Subtype-Derived Prognostic Signature Based on Nucleotide Metabolism-Related Molecular Classification for Predicting Lung Adenocarcinoma Prognosis.
+**PMID:** [42829577](https://pubmed.ncbi.nlm.nih.gov/42829577/)
+
+**Abstract:** Lung adenocarcinoma (LUAD) is a major subtype of nonsmall cell lung cancer with substantial clinical heterogeneity. Nucleotide metabolism-related genes may contribute to tumor progression and immune microenvironment remodeling, but their prognostic value in LUAD remains incompletely defined.
+
+---
