@@ -5962,3 +5962,18 @@
 **Abstract:** Lung adenocarcinoma (LUAD) is a major subtype of nonsmall cell lung cancer with substantial clinical heterogeneity. Nucleotide metabolism-related genes may contribute to tumor progression and immune microenvironment remodeling, but their prognostic value in LUAD remains incompletely defined.
 
 ---
+
+## PubMed Update: 2026-10-04 16:34:37
+
+### Synergistic lipase inhibition by Garcinia parvifolia metabolites: a <sup>1</sup>H NMR-based metabolomic deciphering of ligand interactions.
+**PMID:** [42829357](https://pubmed.ncbi.nlm.nih.gov/42829357/)
+
+**Abstract:** The rising prevalence of obesity and metabolic disorders has intensified the demand for sustainable, plant-based functional ingredients for weight management. Garcinia parvifolia, an underutilized tropical fruit native to Malaysian Borneo, represents a promising natural source of anti-obesity compounds.
+
+---
+### The ferroptosis-cuproptosis crosstalk in hematological malignancies: multi-omics insights into gene-regulated cell death and emerging therapeutic opportunities.
+**PMID:** [42829391](https://pubmed.ncbi.nlm.nih.gov/42829391/)
+
+**Abstract:** The broadening field of regulated cell death (RCD) has shown a complex, intertwined web of pathways that are not confined to apoptosis but also to ferroptosis, cuproptosis, necroptosis, and other non-canonical mechanisms, especially in haematological malignancies (HMs). Out of these, ferroptosis and cuproptosis stand out as metabolic-based forms of death that are regulated by iron-dependent and copper-dependent processes, respectively. This review presents the notion of a single ferroptosis-cuproptosis axis, a Metallo-redox network that encompasses lipid peroxidation, mitochondrial dysfunction, and proteotoxic stress to control cell fate decisions. We underscore the fact that haematological cancers use metal ion flux, redox homeostasis, and metabolic plasticity to bypass apoptosis, but are susceptible to other RCD pathways. This work, based on multi-omics methods, such as genomics, transcriptomics, proteomics, metabolomics, and metal omics, describes how integrative modelling can unravel RCD susceptibility landscapes and discover context-specific therapeutic targets. The single-cell and spatial analyses further demonstrate intra-tumoral heterogeneity and switching between death pathways in response to therapeutic pressure. New treatment options that are being developed to address this axis such as ferroptosis inducers, copper ionophores, and complex nanomedicine systems with the ability to deliver therapeutics and modify pathways. The review also covers such challenges of translation as the lack of standardization of biomarkers, clinical trial design, and dynamic stratification of patients. Lastly, suggest an outlook system combining artificial intelligence, synthetic biology, and organoid-based systems to permit precision cell death engineering. Together, this literature makes the ferroptosis-cuproptosis axis a novel change in the outlook of future therapies in haematological cancers.
+
+---
