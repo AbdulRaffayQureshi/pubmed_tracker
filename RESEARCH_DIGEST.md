@@ -6433,3 +6433,36 @@
 **Abstract:** The tumor immune microenvironment (TME) of diffuse large B-cell lymphoma (DLBCL) displays pronounced heterogeneity, and existing immunotherapeutic approaches achieve only suboptimal outcomes for a considerable proportion of affected individuals. CD161-a C-type lectin receptor whose coding gene is KLRB1-has lately emerged as a modulator of T-cell activity in several malignancies; nonetheless, a thorough characterization of its function in DLBCL has not yet been undertaken.
 
 ---
+
+## PubMed Update: 2026-10-09 19:18:27
+
+### Anisodine Activates SIK1 to Drive RIPK1-dependent Necroptosis in TNBC.
+**PMID:** [42852741](https://pubmed.ncbi.nlm.nih.gov/42852741/)
+
+**Abstract:** Triple-Negative Breast Cancer (TNBC) has limited targeted therapeutic options. SIK1 is a tumor-suppressive kinase in breast cancer, but pharmacological SIK1 activators remain poorly defined. Although recent anticancer patents have disclosed SIK modulators and RIPK1/necroptosis-targeting agents, most SIK-related inventions focus on kinase inhibition rather than therapeutic SIK1 activation.
+
+---
+### Using structure to evaluate the accuracy and transferability of machine learning potentials of biomolecules.
+**PMID:** [42852036](https://pubmed.ncbi.nlm.nih.gov/42852036/)
+
+**Abstract:** Molecular simulation is a powerful tool to describe chemical and physical processes across length scales. Fundamental tradeoffs between the accuracy of quantum mechanics and speed of classical models makes simulating biosystems very difficult. Machine learning potentials (MLPs) offer a potential solution which combines the accuracy of electronic structure theory with the computational scaling of classical approaches. Applying MLPs to biosystems could unlock new developments in drug discovery, biological mechanisms and interactions. Despite this promise, rigorous benchmarks are needed to determine whether MLPs reliably reproduce first-principles counterparts. It is commonplace to use energies and forces as the primary performance metrics for MLPs. While essential, we show that models with among the lowest energy errors can simultaneously produce the largest structural errors. Through simulations of two isomeric biomolecules, this work shows that structural information must be added as a metric to assess both the overall accuracy and transferability of an MLP. Here, we show that when structural quantities are included alongside traditional metrics, MLPs can achieve high fidelity to first-principles reference data and remain transferable across related chemical motifs examined. These findings underscore the importance of structure-based validation and support the continued use of MLPs for biomolecular simulations.
+
+---
+### Lightweight 2D-Convolutional Neural Network for Drug-Kinase Binding Affinity Prediction with Minimal Encoded Representations.
+**PMID:** [42851811](https://pubmed.ncbi.nlm.nih.gov/42851811/)
+
+**Abstract:** Drug-kinase binding affinity (DKBA) prediction plays a crucial role in prioritizing compounds and reducing the time and financial resources required for drug discovery. However, many existing deep learning models rely on complex molecular representations, such as molecular graphs or pretrained embeddings, which may increase computational complexity and limit scalability.
+
+---
+### <i>In silico</i> and <i>in vitro</i> evaluation of compatibility between papain and agricultural pesticides.
+**PMID:** [42852987](https://pubmed.ncbi.nlm.nih.gov/42852987/)
+
+**Abstract:** Brazil is a major consumer of pesticides, which raises concerns in the context of One Health. In this sense, new biotechnological alternatives for pest and disease control are fundamental. The use of relevant biomolecules, such as papain, a cysteine protease present in <i>Carica papaya</i> latex, has shown great potential. In this context, this study investigated <i>in silico</i>, through molecular <i>docking</i> with 130 pesticides authorized by MAPA and through experimental assays, the interactions between pesticides and papain, in addition to evaluating the combined action on <i>Tenebrio molitor</i> larvae. Metaflumizone and etiprole were selected for biochemical analysis, with proteolytic activity determined by the caseinolytic method and the effects on larvae evaluated <i>in vitro</i>. By <i>docking</i> analysis, metaflumizone presented the lowest binding energy (-8.6 kcal mol<sup>-1</sup>), indicating high affinity for the active site; however, in experimental tests, there was no significant change in papain activity (<i>p</i> > 0.05). On the other hand, etiprole reduced enzymatic activity by 64%, but only at a concentration four times higher than that used in the spray (<i>p</i> < 0.01).
+
+---
+### Clinical Implications of the Novel Genetic Polymorphism Associated With Retinal Vein Occlusion: The East Asian GWAS Survey in a Single-Center Taiwanese Cohort.
+**PMID:** [42852991](https://pubmed.ncbi.nlm.nih.gov/42852991/)
+
+**Abstract:** To explore the single-nucleotide polymorphic features in an East Asian cohort of retinal venous occlusion (RVO) patients, to map pathogenic genes, and to analyze potential pathophysiological associations.
+
+---
