@@ -6412,3 +6412,24 @@
 **Abstract:** Stem cells self-organize into models of early development, but even under carefully controlled conditions, the resulting organoids exhibit substantial "inter-individual" heterogeneity. To explore its origins, we generated monoclonal gastruloids, each derived from a single mouse embryonic stem cell (mESC). Molecular profiling revealed extensive heterogeneity: some gastruloids failed to develop, others were biased toward mesodermal or neural fates, and yet others contained cell types atypical of conventional polyclonal gastruloids. Applying DNA Typewriter, a cell lineage recorder, we identified heritable fate biases arising prior to gastruloid induction and found that more closely related founder mESCs give rise to more phenotypically similar gastruloids. Linking mESC subclones to their descendants' fates revealed cryptic, fate-predictive differences in gene expression and chromatin accessibility, including at imprinted, methylation-sensitive loci linked to developmental potency. Intrinsic, heritable fluctuations in mESC state are therefore an important source of organoid heterogeneity, and DNA Typewriter enables high-resolution lineage trees in stem cell models.
 
 ---
+
+## PubMed Update: 2026-10-09 12:43:54
+
+### Factors associated with family caregivers' attitudes toward deprescribing in long-term care facilities: a cross-sectional study in South Korea.
+**PMID:** [42850595](https://pubmed.ncbi.nlm.nih.gov/42850595/)
+
+**Abstract:** Deprescribing has emerged as an important strategy for addressing polypharmacy among older adults in long-term care facilities (LTCFs). Family caregivers often play a key role in medication-related decision-making, yet factors associated with caregivers' attitudes toward deprescribing remain insufficiently understood. This study aimed to identify the factors associated with caregivers' attitudes toward deprescribing among residents of LTCFs in South Korea.
+
+---
+### ZBP1 contributes to IFN-β-induced PANoptosis-related skeletal muscle cell injury in dermatomyositis.
+**PMID:** [42851289](https://pubmed.ncbi.nlm.nih.gov/42851289/)
+
+**Abstract:** Dermatomyositis (DM) is a systemic autoimmune disease characterized by cutaneous manifestations and inflammatory skeletal muscle injury. Dysregulated type I interferon signaling and regulated cell death pathways may converge to promote myofiber damage. PANoptosis integrates core components of pyroptosis, apoptosis, and necroptosis, but its contribution to DM remains unclear.
+
+---
+### Integrative multi-omics characterization of KLRB1/CD161 in diffuse large B-cell lymphoma: associations with immune context, subtype biology, and therapeutic response.
+**PMID:** [42851302](https://pubmed.ncbi.nlm.nih.gov/42851302/)
+
+**Abstract:** The tumor immune microenvironment (TME) of diffuse large B-cell lymphoma (DLBCL) displays pronounced heterogeneity, and existing immunotherapeutic approaches achieve only suboptimal outcomes for a considerable proportion of affected individuals. CD161-a C-type lectin receptor whose coding gene is KLRB1-has lately emerged as a modulator of T-cell activity in several malignancies; nonetheless, a thorough characterization of its function in DLBCL has not yet been undertaken.
+
+---
