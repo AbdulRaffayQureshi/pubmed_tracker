@@ -6604,3 +6604,24 @@
 **Abstract:** YTHDC1 is a nuclear N6-methyladenosine reader involved in RNA processing. Its abundance, cellular distribution, and relationship with the immune microenvironment in hepatocellular carcinoma (HCC) remain incompletely characterized.
 
 ---
+
+## PubMed Update: 2026-10-12 04:46:48
+
+### Machine Learning-Based Brightfield Detection of Anti-Fibrotic Effects in a 3D Retinal Fibrosis Model.
+**PMID:** [42860212](https://pubmed.ncbi.nlm.nih.gov/42860212/)
+
+**Abstract:** Three-dimensional (3D) spheroid and microtissue models are increasingly used in phenotypic drug discovery, yet their scalability for high-throughput screening often remains limited, constrained by the cost and complexity of conventional imaging-based readouts. Here, we present a morphology-based screening approach using low-resolution brightfield images of human retinal pigment epithelium microtissues (hRPE-MTs) to identify fibrotic and non-fibrotic phenotypes. The results of this study demonstrate that extracting geometric, intensity, and texture features from segmented spheroids enables quantitative characterization of fibrosis-associated morphological changes. Machine learning classifiers trained on these features effectively discriminated between fibrotic and non-fibrotic hRPE-MTs. Collectively, these findings indicate that label-free brightfield morphology encodes sufficient information to support scalable phenotypic screening in 3D fibrosis models. This approach provides a low-complexity and broadly accessible strategy for early-stage drug discovery.
+
+---
+### Integrative Multi-Omics Analysis Reveals FAAH and LIPE as Candidate Targets in OBS-Induced Spermatogenic and Fertility Impairment.
+**PMID:** [42860217](https://pubmed.ncbi.nlm.nih.gov/42860217/)
+
+**Abstract:** Sodium p-perfluorous nonenoxybenzene sulfonate (OBS) is an emerging polyfluoroalkyl ether sulfonate with environmental persistence and potential biological toxicity. However, its effects on male reproductive health and associated molecular alterations remain poorly understood.
+
+---
+### Dual Host-Pathogen Screening of the Lung During Severe Influenza Using Spatial Transcriptomics.
+**PMID:** [42860245](https://pubmed.ncbi.nlm.nih.gov/42860245/)
+
+**Abstract:** Here, we assessed whether spatially resolved capture of polyadenylated mRNA permitted simultaneous screening of host and viral responses in situ. Fresh-frozen lung samples from mice infected with H1N1 influenza A strain, PR8, were processed via genome-wide, spatial transcriptomics (ST) at 10-μm resolution. To determine if specific cell-types were detectable within the ST data, we first performed cellular deconvolution using publicly available, single-cell RNA-seq data of immune and non-immune cells from PR8-infected lungs. This revealed expected structures such as rings of epithelial cells lining airways, and at Day 10 post-infection (p.i.) unexpected structures dominated by B cells. We next screened ST data alone for groups of genes displaying similar spatial expression patterns. This again identified at Day 10 p.i. cellular aggregates enriched for genes associated with B cell biology. Mapping these gene signatures to a B cell transcriptomic atlas suggested plasmablasts had emerged early in the lung, which was confirmed by flow cytometry. Finally, by mapping ST data to the influenza A genome, we observed widespread expression of all 10 viral transcripts across samples at Day 4 but not Day 10 p.i., consistent with viral clearance. Cellular deconvolution analysis at Day 4 p.i. revealed proportions of every detected cell-type harbored viral transcripts, suggesting indiscriminate infection across the specific area of tissue examined. Subsequent whole-section immunohistochemical assessment further supported the phenomenon of localized indiscriminate infection, with these areas found adjacent to minimally infected zones. Thus, spatial screening of mRNA in tissues can simultaneously inform upon viral pathogenesis and host responses to infection.
+
+---
