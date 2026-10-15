@@ -6991,3 +6991,30 @@
 **Abstract:** Melanoma is a highly immunogenic malignancy, yet responses to systemic therapy remain variable. The tumour-draining lymph node (TDLN), including the sentinel lymph node (SLN) during early regional spread, is not only a site of metastatic dissemination but also an important setting for T-cell priming and immune regulation. Conventional classification of nodes as tumour-positive or tumour-negative provides essential staging information but reveals little about their immune state. Single-cell immune transcriptomics, T-cell receptor sequencing and single-cell epigenomics now allow T-cell states, clonal dynamics and regulatory programmes to be examined in greater detail. Spatial transcriptomics, multiplex imaging, spatial proteomics and emerging spatial metabolomics add the anatomical context needed to determine where these cells and molecular programmes occur within the intact tissue architecture. In this review, we examine how these approaches are being utilised to study T-cell heterogeneity, spatial organisation and immune interactions within melanoma TDLNs, together with the emerging contribution of artificial intelligence (AI)-assisted pathology. We also critically evaluate how these technologies are applied, with attention to tissue requirements, spatial resolution, molecular coverage, computational demands, scalability to archival haematoxylin and eosin (H&E) imaging cohorts and careful interpretation of predicted or inferred spatial features. By combining biological profiling with methodological appraisal, we highlight how multi-omics immune signatures may refine nodal disease assessment and guide future biomarker development, while noting that clinical translation will require standardised analytical pipelines and disease-specific validation across independent melanoma cohorts.
 
 ---
+
+## PubMed Update: 2026-10-15 19:44:03
+
+### TXN/TXNIP signatures point to plasma cells as a potential immune hub in periodontitis based on integrated transcriptomic analysis and preliminary experimental validation.
+**PMID:** [42876656](https://pubmed.ncbi.nlm.nih.gov/42876656/)
+
+**Abstract:** Periodontitis (PD) is a prevalent chronic inflammatory disease characterized by periodontal tissue destruction and alveolar bone loss. The contribution of cellular senescence- and circadian rhythm-related genes to PD progression remains incompletely defined, limiting biomarker discovery and precision therapeutic development.
+
+---
+### Hemin suppresses interferon responses in periodontal cell models through JAK2-STAT1 inhibition.
+**PMID:** [42876722](https://pubmed.ncbi.nlm.nih.gov/42876722/)
+
+**Abstract:** Hemin, an oxidized heme species released during erythrocyte breakdown, is detectable in gingival crevicular fluid during periodontal inflammation, but its effects on local immune signaling remain unclear. We investigated whether hemin modifies cytokine-induced interferon responses in HSC-2 oral squamous cell carcinoma cells and primary human gingival fibroblasts.
+
+---
+### Immunogenicity and protective efficacy of recombinant BCG expressing a multi-epitope vaccine against mycobacterium tuberculosis.
+**PMID:** [42876677](https://pubmed.ncbi.nlm.nih.gov/42876677/)
+
+**Abstract:** <i>Mycobacterium tuberculosis (Mtb)</i> infects approximately one-quarter of the global population, of whom 5%-10% develop active tuberculosis (TB). Although Bacillus Calmette-Guérin (BCG) remains the cornerstone vaccine against severe infant TB, its efficacy in adults is limited, underscoring the need for novel TB vaccines. This study aimed to design a multi-epitope vaccine, tMEV, and validate its protective potential through bioinformatic prediction and <i>in vivo</i> experiments.
+
+---
+### A lipid-related transcriptomic signature for distinguishing Kawasaki disease from febrile infections: a Mendelian randomization and machine-learning study.
+**PMID:** [42876671](https://pubmed.ncbi.nlm.nih.gov/42876671/)
+
+**Abstract:** Kawasaki disease (KD) diagnosis remains challenging because no pathognomonic test exists and the clinical presentation overlaps extensively with common childhood infections. Acute KD is accompanied by reproducible lipid perturbations, yet whether these changes are causally linked to the innate immune-driven vascular damage of KD vasculitis is unestablished. We aimed to derive a lipid-related transcriptomic signature for distinguishing KD from febrile infections and to characterize its relationship with innate immune remodeling.
+
+---
