@@ -7333,3 +7333,12 @@
 **Abstract:** Although exercise may counteract some changes caused by obesity-induced functional and molecular remodeling of brown adipose tissue (BAT), the extent to which long-term voluntary exercise reverses obesity-associated BAT transcriptional changes remains unclear.
 
 ---
+
+## PubMed Update: 2026-10-18 23:57:12
+
+### RNA N<sup>6</sup>-methyladenosine modifications in plants: molecular mechanisms and biological roles.
+**PMID:** [42893473](https://pubmed.ncbi.nlm.nih.gov/42893473/)
+
+**Abstract:** RNA N<sup>6</sup>-methyladenosine (m<sup>6</sup>A) modifications dynamically modulate RNA stability, splicing, and translation in plants, influencing developmental and stress response processes. In this review, we provide an overview of the key protein complexes involved in RNA m<sup>6</sup>A modification, including methyltransferases, demethylases, and m<sup>6</sup>A-binding proteins. We then demonstrate that m<sup>6</sup>A modulates vegetative growth, reproductive processes, responses to stresses, and hormone signaling. In agronomically important crops, RNA m<sup>6</sup>A modifications affect stress resilience, developmental timing, and quality traits, such as drought tolerance, salt resistance, male fertility, pollen viability, and fruit maturation. Furthermore, we elucidate the molecular mechanisms of RNA m<sup>6</sup>A. Finally, we explore advancements in m<sup>6</sup>A detection technologies, highlighting emerging trends and future directions. These strategies provide a conceptual framework for moving plant m<sup>6</sup>A research from descriptive epitranscriptomics toward trait-oriented crop and forest tree improvement.
+
+---
