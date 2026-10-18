@@ -7246,3 +7246,30 @@
 **Abstract:** Host genetic background plays a crucial role in Mycobacterium tuberculosis infection and the development of pulmonary tuberculosis. This study aims to investigate the association between the polymorphisms of the <i>CCL5</i>, <i>P2RX7</i>, and <i>SP110</i> genes and the pathogenesis of inactive pulmonary tuberculosis.
 
 ---
+
+## PubMed Update: 2026-10-18 08:38:09
+
+### Strategies and mechanisms of precision genome engineering: From gene editing to genome writing.
+**PMID:** [42891351](https://pubmed.ncbi.nlm.nih.gov/42891351/)
+
+**Abstract:** Genomic manipulation has advanced from stochastic nuclease-mediated disruption toward programmable, deterministic precision. Early clustered regularly interspaced short palindromic repeats (CRISPR) strategies enabled targeted mutagenesis through double-strand breaks; however, their therapeutic application is limited by genotoxicity, chromosomal instability, and dependence on endogenous repair pathways that are difficult to predict. In this review, we examined the transition from gene editing to genome writing, an approach that decouples genomic modification from host repair pathways to better balance efficiency, precision, and payload delivery. We also discussed the principles of precision technologies, including base and prime editors, and described emerging large-scale writers, such as CRISPR-associated transposases and recombinase-based bridge RNAs, which enable the integration of multi-kilobase synthetic modules. Beyond enzymatic mechanisms, we further considered the combined use of generative artificial intelligence, structural biology, and novel delivery architectures as potential strategies to overcome current biological limitations. Taken together, these developments point toward Generative Biology, in which computational design and high-throughput screening transform the genome from a static substrate into a more dynamic model for complex, synthetic functional design.
+
+---
+### Integrated transcriptomic, machine learning, and network pharmacology analyses reveal shared inflammatory biomarkers between intervertebral disc degeneration and osteoporosis.
+**PMID:** [42890622](https://pubmed.ncbi.nlm.nih.gov/42890622/)
+
+**Abstract:** Intervertebral disc degeneration (IDD) and osteoporosis (OP) frequently coexist, but their shared inflammatory molecular features remain unclear. We investigated whether the two disorders share an immune-extracellular matrix axis and sought candidate inflammation-associated biomarkers.
+
+---
+### Coordination-guided design of triazole-based Cu(ii) and Pt(iv) complexes: synthesis, characterization, theoretical studies, molecular docking and anticancer activity.
+**PMID:** [42891395](https://pubmed.ncbi.nlm.nih.gov/42891395/)
+
+**Abstract:** A new triazole-based ligand (L) was synthesized <i>via</i> a Schiff base condensation between 4-6-methoxy-2-naphthaldehyde and amino-5-(3,4,5-trimethoxyphenyl)-2<i>H</i>-1,2,4-triazole-3-thione, and its structure was confirmed using FT-IR, NMR, and UV-vis spectroscopy and mass spectrometry analysis. The ligand L was complexed with Cu(ii) and Pt(iv) ions to yield LCu and LPt complexes, respectively. The synthesized complexes were characterized by FT-IR spectroscopy, elemental analysis, UV-vis spectroscopy and magnetic susceptibility measurements. The spectroscopic and magnetic measurements indicated square planar and octahedral geometries for the LCu and LPt complexes, respectively, consistent with the results from DFT and TD-DFT calculations. Theoretical investigations confirmed the experimental UV-vis transitions and revealed pronounced metal-ligand charge transfer features. Cytotoxic evaluation against the SK-OV-3 ovarian cancer and HDFa normal cell lines demonstrated a marked improvement in the anticancer activity upon coordination, with LPt showing the lowest IC<sub>50</sub> value (24.85 µg mL<sup>-1</sup>) and the highest selectivity index (16.54). Molecular docking studies with tubulin (PDB: 8QEA) and estrogen receptor α (PDB: 3ERT) supported these findings, showing the strong binding affinity of LPt (-6.920 kcal mol<sup>-1</sup>) mediated by hydrogen bonding with ASN256 (2.97 Å, 1.4 kcal mol<sup>-1</sup>) and π-H interactions between its six-membered ring system and PRO259 (4.62 Å, -0.6 kcal mol<sup>-1</sup>). Overall, the designed triazole ligand represents an effective molecular scaffold, and its Pt(iv) complex (LPt) emerges as a promising anticancer agent targeting microtubule polymerization and estrogen receptor pathways.
+
+---
+### A Metabolic Cluster-Derived Risk Model for Prognostic Stratification, Immunometabolic Profiling, and Therapeutic Sensitivity Prediction in Prostate Cancer.
+**PMID:** [42891338](https://pubmed.ncbi.nlm.nih.gov/42891338/)
+
+**Abstract:** Metabolic reprogramming is a hallmark of prostate cancer; however, the clinical utility of metabolism-related genes for prognostic stratification remains limited.
+
+---
