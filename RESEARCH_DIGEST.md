@@ -7306,3 +7306,30 @@
 **Abstract:** Type 2 diabetes mellitus (T2DM) is associated with hepatic metabolic remodeling, but the coordinated changes in N6-methyladenosine (m6A) modification and mRNA expression in human T2DM liver remain insufficiently defined. Here, we integrated mRNA expression profiles extracted from Arraystar Human LncRNA Microarray V5.0 with newly generated m6A epitranscriptomic microarray profiles in liver specimens from first-onset T2DM patients and controls. We identified 1923 differentially expressed and 7389 differentially m6A-methylated mRNA transcripts. Integrated analysis identified 898 dual-significant transcripts, predominated by hypermethylated-upregulated transcripts (n = 864), which were mainly enriched in amino acid, lipid, carbon, and energy metabolic pathways. By integrating m6A regulator expression, module-level correlation, and regulator-gene network connectivity, METTL14 was prioritized as a candidate component of the m6A writer complex associated with metabolic pathway remodeling. Ten METTL14-associated candidate genes were further prioritized, and clinical validation confirmed increased expression of METTL14 and most candidate genes in an independent human liver cohort. METTL14 depletion in Huh7 cells using two selected independent siRNAs concordantly reduced EHHADH, ACAT2, ACADS, SDHA, C3, and DLD. Secondary analysis of GSE185109 further showed significant downregulation of eight corresponding mouse orthologs in Mettl14-deficient liver, together with descriptive alterations in m6A peak patterns. These findings identify a functionally supported METTL14-associated m6A-mRNA network linked to hepatic metabolic remodeling in human T2DM, while direct transcript-specific m6A regulation remains to be established.
 
 ---
+
+## PubMed Update: 2026-10-18 17:06:46
+
+### Integrated machine learning, pharmacophore screening, and structure-based computational approaches for the identification of novel JAK3 inhibitors.
+**PMID:** [42893385](https://pubmed.ncbi.nlm.nih.gov/42893385/)
+
+**Abstract:** Janus kinase 3 (JAK3) is a key therapeutic target in autoimmune and inflammatory diseases. This study aimed to identify novel JAK3 inhibitors using an integrated machine learning and structure-based computational approach.
+
+---
+### Integrated machine learning, pharmacophore screening, and structure-based computational approaches for the identification of novel JAK3 inhibitors.
+**PMID:** [42893385](https://pubmed.ncbi.nlm.nih.gov/42893385/)
+
+**Abstract:** Janus kinase 3 (JAK3) is a key therapeutic target in autoimmune and inflammatory diseases. This study aimed to identify novel JAK3 inhibitors using an integrated machine learning and structure-based computational approach.
+
+---
+### Clodronate and trehalose exhibit a paradoxical antagonistic interaction that suppresses proliferation of canine mammary tumour cells.
+**PMID:** [42893192](https://pubmed.ncbi.nlm.nih.gov/42893192/)
+
+**Abstract:** Clodronate and trehalose are known to modulate metabolic and autophagy-related pathways, respectively, yet their combined effects on tumour cell proliferation remain poorly understood. This study investigated the individual and combined effects of these compounds on the canine mammary tumour cell line CMT-U27 and explored underlying mechanisms using network pharmacology. Cell proliferation was assessed following treatment with clodronate, trehalose, and their combination across a range of concentrations. Growth rate analysis and Bliss independence modelling were used to evaluate drug interactions. Target prediction was performed using SwissTargetPrediction, followed by homology mapping to canine proteins and protein-protein interaction and enrichment analysis in STRING. Hybrid compounds (CT compounds) predicted to be derived from clodronate and trehalose were also analysed. Target expression relevance was validated using gene expression data, and molecular docking was conducted using AutoDock Vina. Clodronate and trehalose individually promoted proliferation in CMT-U27 cells, whereas their combination produced a dose-dependent suppression of proliferation. Network analysis revealed that clodronate targets were enriched in IGFR and Ras signalling pathways, while Trehalose targets were associated with proteostasis and metabolic regulation pathways. These findings supported their individual proliferative effects but did not explain the suppressive combination effect. CT compounds demonstrated distinct target profiles enriched in extracellular matrix remodelling and lipid metabolism pathways, consistent with anti-proliferative activity. Integration with gene expression data identified key targets associated with proliferation (clodronate and trehalose) and inhibition (CT compounds). Molecular docking suggested favourable binding interactions with these targets. The paradoxical suppression of tumour cell proliferation by the combined use of clodronate and trehalose, may be due to metabolic-autophagic incompatibility and the potential formation of novel bioactive compounds. These findings highlight the importance of pathway integration and suggest exploring therapeutic strategy based on simultaneous targeting of metabolic and proteostatic mechanisms.
+
+---
+### Long-term voluntary exercise partially reverses obesity-associated transcriptomic remodeling in brown adipose tissue.
+**PMID:** [42893232](https://pubmed.ncbi.nlm.nih.gov/42893232/)
+
+**Abstract:** Although exercise may counteract some changes caused by obesity-induced functional and molecular remodeling of brown adipose tissue (BAT), the extent to which long-term voluntary exercise reverses obesity-associated BAT transcriptional changes remains unclear.
+
+---
