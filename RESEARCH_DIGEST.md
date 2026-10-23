@@ -7696,3 +7696,42 @@
 **Abstract:** Plant uridine diphosphate glycosyltransferases (UGTs) catalyze glycosylation, a pivotal biochemical modification essential for diverse metabolic and physiological processes. Foxtail millet (<i>Setaria italica</i>), a drought-tolerant C4 cereal crop, serves as an emerging model for studying abiotic stress adaptation. Here, we identified 173 <i>UGT</i> genes (<i>SiUGT</i>s) in the foxtail millet genome, unevenly distributed across nine chromosomes and classified into 17 phylogenetically distinct subfamilies. Collinearity analysis revealed nine segmental duplicated duplication pairs under purifying selection, highlighting evolutionary conservation. Promoter analysis identified cis-acting elements associated with growth and development, biotic/abiotic stress responses, and hormonal regulation, suggesting functional versatility of <i>SiUGT</i>s. Transcriptome profiling under dark-induced leaf senescence (DIS) revealed 5 up-regulated and 27 down-regulated <i>SiUGT</i>s, implicating their roles in senescence regulation. Subsequently, RT-qPCR validated <i>SiUGT26</i> as a senescence-responsive gene. Heterologous overexpression of <i>SiUGT26</i> in Arabidopsis was associated with delayed leaf senescence and enlarged rosettes compared with wild-type plants. Co-expression analysis suggested that SiWRKY71 may be associated with the regulation of <i>SiUGT26</i>. Collectively, this study provides a genomic resource for the UGT gene family in foxtail millet and identifies SiUGT26 as a senescence-responsive candidate gene. These findings provide a basis for further investigation of UGT-mediated regulation of leaf senescence in foxtail millet.
 
 ---
+
+## PubMed Update: 2026-10-23 19:49:47
+
+### Computational identification of candidate biomarkers and compounds associated with skeletal muscle insulin sensitivity improvement mediated by physical activity: an integrative multi-omics and computational chemistry study.
+**PMID:** [42908988](https://pubmed.ncbi.nlm.nih.gov/42908988/)
+
+**Abstract:** Insulin resistance (IR) underlies many chronic diseases. While physical activity improves skeletal muscle insulin sensitivity (IS), the underlying molecular mechanisms and targeted drug strategies remain elusive. This hypothesis-generating study integrates bioinformatics and computational chemistry using public datasets; all findings are computational predictions requiring experimental validation.
+
+---
+### Computational identification of candidate biomarkers and compounds associated with skeletal muscle insulin sensitivity improvement mediated by physical activity: an integrative multi-omics and computational chemistry study.
+**PMID:** [42908988](https://pubmed.ncbi.nlm.nih.gov/42908988/)
+
+**Abstract:** Insulin resistance (IR) underlies many chronic diseases. While physical activity improves skeletal muscle insulin sensitivity (IS), the underlying molecular mechanisms and targeted drug strategies remain elusive. This hypothesis-generating study integrates bioinformatics and computational chemistry using public datasets; all findings are computational predictions requiring experimental validation.
+
+---
+### Computational identification of candidate biomarkers and compounds associated with skeletal muscle insulin sensitivity improvement mediated by physical activity: an integrative multi-omics and computational chemistry study.
+**PMID:** [42908988](https://pubmed.ncbi.nlm.nih.gov/42908988/)
+
+**Abstract:** Insulin resistance (IR) underlies many chronic diseases. While physical activity improves skeletal muscle insulin sensitivity (IS), the underlying molecular mechanisms and targeted drug strategies remain elusive. This hypothesis-generating study integrates bioinformatics and computational chemistry using public datasets; all findings are computational predictions requiring experimental validation.
+
+---
+### Integrated analyses identify MAN1B1 as a candidate regulator of chemotherapeutic tolerance and immunosuppression in bladder cancer.
+**PMID:** [42909123](https://pubmed.ncbi.nlm.nih.gov/42909123/)
+
+**Abstract:** Gemcitabine (GEM) resistance limits treatment efficacy in bladder cancer (BC). This study identified MAN1B1 as a key driving factor for chemotherapy resistance and malignant progression in BC.
+
+---
+### A predictive multiphysics framework for optimizing focused ultrasound-assisted immune checkpoint blockade.
+**PMID:** [42909101](https://pubmed.ncbi.nlm.nih.gov/42909101/)
+
+**Abstract:** The efficacy of immune checkpoint blockers in solid tumors remains limited by the physical and biological barriers posed by the tumor microenvironment, which restrict antibody transport and suppress anti-tumor immune responses. Focused ultrasound has emerged as a promising strategy to transiently enhance tumor perfusion, thereby improving the intratumoral delivery of immunotherapeutic agents. Despite encouraging experimental findings, a quantitative understanding of the coupled transport and immune mechanisms underlying focused ultrasound-enhanced immunotherapy remains incomplete. Here, we developed a multiphysics computational model to investigate how focused ultrasound modulates the tumor microenvironment, enhances the delivery of immune checkpoint blockers and influences innate and adaptive immune responses in solid tumors. Model predictions were validated against published <i>in vivo</i> experimental data, demonstrating good agreement with tumor growth and immune response measurements. Parametric analysis identified both tumor microenvironment and therapy-related parameters as key determinants of treatment efficacy. Stromal normalization and increased vessel wall pore radius enhanced antibody delivery, immune cell accumulation and tumor control, while focused ultrasound further amplified these effects. Moreover, increasing the anti-PD-1/PD-1 binding affinity and antibody administration dose enhanced immune checkpoint inhibition and tumor suppression, with focused ultrasound broadening the range of antibody characteristics associated with favorable therapeutic outcomes. Overall, the proposed computational framework provides a predictive platform for investigating and optimizing focused ultrasound-assisted immune checkpoint blockade, offering mechanistic insight into how focused ultrasound-induced modulation of the tumor microenvironment enhances antibody transport, promotes anti-tumor immune responses and improves therapeutic response.
+
+---
+### OBLX: building standardized reference resources for reproducible bioinformatics data analysis.
+**PMID:** [42909077](https://pubmed.ncbi.nlm.nih.gov/42909077/)
+
+**Abstract:** Reproducible next-generation sequencing (NGS) analyses in cancer research require standardized reference genome resources, yet these resources are often assembled inconsistently, limiting the comparability of results across pipelines and studies. While existing solutions support a range of workflows, they provide only limited documentation of the included data and processing steps. Furthermore, some of these resources are not version-matched or outdated, making them less suitable for integrated and reproducible cancer genomics analyses. To address this gap, we developed the Omics builder for Bioinformatics resource Libraries and indeXes (OBLX, https://github.com/TRON-Bioinformatics/oblx/), a fully documented, configurable and reproducible pipeline for building standardized NGS reference libraries. First, the pipeline retrieves genome and transcriptome reference sequences, their corresponding annotations, and population variant resources from public sources. Subsequently, OBLX processes these resources to ensure compatibility with commonly used NGS tools, which includes building several bioinformatic indices. The resulting OBLX library may then be directly used by downstream tools and pipelines. By documenting all resources, operations, and intended use-cases, OBLX improves transparency, reproducibility, and interoperability for NGS data analyses.
+
+---
