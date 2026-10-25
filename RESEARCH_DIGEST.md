@@ -7891,3 +7891,18 @@
 **Abstract:** Genome-wide association studies (GWAS) have identified numerous loci associated with substance use disorders (SUDs). To connect common genetic variation to cell type- and region-specific gene expression and chromatin accessibility, we examined the enrichment of genetic liability for several SUDs (alcohol, cannabis, tobacco, and opioid use disorders) and substance consumption phenotypes (drinks per week, cannabis ever-use, and cigarettes per day) in available single-nucleus RNAseq data spanning 10 brain regions and snATACseq data spanning 42 brain regions. Significant cell-type enrichment after multiple testing corrections was observed only for drinks per week and tobacco use disorder in the snRNAseq data and for cannabis use disorder and problematic alcohol use in snATACseq data. Across both transcriptomic and chromatin accessibility annotations, enrichment patterns were concentrated in excitatory neuronal populations, particularly upper layer intratelencephalic neurons, amygdala excitatory neurons, and regionally resolved striatal medium spiny neuron subtypes. Drinks per week, problematic alcohol use, and cannabis use disorder showed enrichment values that were significantly correlated within cell-type across snRNAseq and snATACseq, suggesting convergent biological signals across independent single-nucleus modalities. These findings implicate chromatin-mediated expression differences in specific excitatory neuronal populations as potential mediators of SUD genetic liability and highlight the value of integrating transcriptomic and chromatin accessibility data for characterising the neurobiology of addiction.
 
 ---
+
+## PubMed Update: 2026-10-25 17:27:27
+
+### Neuroprotective effects of <i>Entandrophragma cylindricum</i> (Meliaceae) extract against "Odontol''-induced cognitive and depressive disorders: An integrated HPLC, molecular docking and experimental validation.
+**PMID:** [42927214](https://pubmed.ncbi.nlm.nih.gov/42927214/)
+
+**Abstract:** The bark of <i>Entandrophragma cylindricum</i> (Meliaceae) is used in traditional Cameroonian medicine to treat jaundice, gastric ulcers, wounds, pain, and malaria. Chronic consumption of "Odontol," a traditional Cameroonian artisanal alcohol, is associated with hepatotoxicity and progressive neurological impairment. This study evaluated the neuroprotective, anti-amnesic, and antidepressive potentials of the aqueous bark extract of <i>E. cylindricum</i> in a rat model of "Odontol"-induced neurotoxicity.
+
+---
+### Multi-method Machine-Learning Identification of IL11 as a Key Gene in Kidney Stone Disease: Mechanistic Clues and Diagnostic Potential.
+**PMID:** [42927360](https://pubmed.ncbi.nlm.nih.gov/42927360/)
+
+**Abstract:** Randall's plaque (RP) is a key initiating lesion of idiopathic calcium stones at the renal papilla, and transcriptomic profiling of human RP has revealed inflammation- and matrix-remodeling-related changes, including upregulation of interleukin 11 (IL11). However, under a pure kidney-stone phenotype, a rigorous framework combining multi-algorithm consensus screening with fuller diagnostic appraisal (calibration, internal validation, and decision-curve analysis (DCA)) remains needed.
+
+---
