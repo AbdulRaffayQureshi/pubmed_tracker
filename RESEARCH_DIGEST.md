@@ -8167,3 +8167,36 @@
 **Abstract:** CD30+ T cell lymphoproliferative disorders (CD30+ T LPD) with cutaneous involvement comprise a diverse group of neoplasms with variable clinical outcomes. The molecular mechanisms underlying the prognostic differences in these diseases are poorly understood.
 
 ---
+
+## PubMed Update: 2026-10-28 15:01:30
+
+### PRInter: an inductive multimodal heterogeneous network embedding framework with contrastive learning for lncRNA-protein interaction prediction.
+**PMID:** [42947002](https://pubmed.ncbi.nlm.nih.gov/42947002/)
+
+**Abstract:** Long non-coding RNAs (lncRNAs) regulate diverse biological processes via protein interactions, and disruptions in these interactions are frequently associated with complex diseases. Network-based computational methods show promise in predicting such interactions, yet most cannot generalize to new, unseen molecules.
+
+---
+### PRInter: an inductive multimodal heterogeneous network embedding framework with contrastive learning for lncRNA-protein interaction prediction.
+**PMID:** [42947002](https://pubmed.ncbi.nlm.nih.gov/42947002/)
+
+**Abstract:** Long non-coding RNAs (lncRNAs) regulate diverse biological processes via protein interactions, and disruptions in these interactions are frequently associated with complex diseases. Network-based computational methods show promise in predicting such interactions, yet most cannot generalize to new, unseen molecules.
+
+---
+### Synthetic Strategy to Novel Highly Functionalized Furan Analogues Bearing Imidazole-Thiazole Hybrids: Structural Characterization, Nanoparticle Formulations, Antimicrobial Evaluation, Molecular Docking Studies, and Molecular Dynamic Simulations.
+**PMID:** [42947444](https://pubmed.ncbi.nlm.nih.gov/42947444/)
+
+**Abstract:** This study reports design and synthesis of novel highly functionalized furan analogues bearing imidazole-thiazole hybrids with potential antimicrobial activity. The synthesized compounds were prepared and characterized using spectroscopic tools and elemental analyses. The antimicrobial activity of all the synthesized compounds was evaluated against a panel of bacterial strains vs ciprofloxacin as the positive control. The results revealed a highly structure- and strain-dependent profile. However, compound 9b emerged as the most potent activity. To enhance the physicochemical and biological performance, selected bioactive compounds (6b, 8a,c; 9b,c; and 11a) were formulated into nanoparticles and characterized, performing acceptable sizes, stability and distribution profiles, while 9b exhibited the favorable parameters. The antimicrobial evaluation for the 6-nanoformulations was assessed and compared with their parent compounds. Nano-compounds 9b > 9c > 8c demonstrated the most potent activity, and lowest MIC values, comparable and even superior to ciprofloxacin in several cases. Molecular docking studies and molecular dynamic simulations were conducted to 9b to get a detailed view including its proposed binding behavior, interaction patterns, conformational rearrangements, and stability within the DNA gyrase B active site compared with that of novobiocin. The findings validate 9b as the most promising candidate for further development as a DNA gyrase B inhibitor.
+
+---
+### A structure-informed deep learning framework for modeling TCR-peptide-HLA interactions.
+**PMID:** [42946765](https://pubmed.ncbi.nlm.nih.gov/42946765/)
+
+**Abstract:** Interactions between T cell receptors (TCRs), peptides, and human leukocyte antigens (HLAs) underlie antigen-specific T cell immunity. Despite substantial advances in prediction methods, accurate modeling of coupled TCR-peptide-HLA recognition remains underdeveloped, limiting applications such as TCR and neoepitope prioritization in cancer and antigen identification in autoimmunity. Here we present StriMap, a unified framework for predicting TCR-peptide-HLA interactions by integrating physicochemical, sequence-context, and structural features at recognition interfaces. StriMap achieves state-of-the-art performance with improved generalizability and enables applications in cancer and autoimmunity. As a case study, we screened 13 million peptides from 43,241 bacterial proteins and identified candidate molecular mimics that were experimentally validated to activate T cells expressing an ankylosing spondylitis (AS)-associated TCR. A top validated peptide was enriched in patients with inflammatory bowel disease (IBD), suggesting potential shared microbial triggers. Overall, StriMap provides a framework for rational immunotherapy design and dissecting antigenic drivers of autoimmunity.
+
+---
+### The potential of PDHA1 as a cuproptosis-related prognostic and immune biomarker in lung squamous cell carcinoma.
+**PMID:** [42947483](https://pubmed.ncbi.nlm.nih.gov/42947483/)
+
+**Abstract:** Lung cancer is a leading cause of cancer death, with non-small cell lung cancer (NSCLC) being the most common type. Cuproptosis is poorly characterized in lung squamous cell carcinoma (LUSC). This study evaluated cuproptosis-related genes and the prognostic and biological roles of Pyruvate dehydrogenase E1 subunit alpha 1(PDHA1).
+
+---
