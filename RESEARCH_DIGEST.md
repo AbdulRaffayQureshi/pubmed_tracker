@@ -8200,3 +8200,36 @@
 **Abstract:** Lung cancer is a leading cause of cancer death, with non-small cell lung cancer (NSCLC) being the most common type. Cuproptosis is poorly characterized in lung squamous cell carcinoma (LUSC). This study evaluated cuproptosis-related genes and the prognostic and biological roles of Pyruvate dehydrogenase E1 subunit alpha 1(PDHA1).
 
 ---
+
+## PubMed Update: 2026-10-28 20:49:52
+
+### Application of computational methods in the drug discovery and development of Alzheimer's disease.
+**PMID:** [42948713](https://pubmed.ncbi.nlm.nih.gov/42948713/)
+
+**Abstract:** Alzheimer's disease (AD) is a prevalent neurodegenerative disorder marked by the accumulation of amyloid plaques and neurofibrillary tangles in the brain, leading to cognitive decline. As the most common dementia, AD affects over 50 million individuals worldwide, with 10 million new cases each year. Despite many significant progresses in AD research fields, there is still no effective treatment. Advances in molecular modelling and artificial intelligence (AI) algorithm have facilitated the application of computational methods in AD drug development, offering advantages in terms of efficiency, cost-effectiveness, and resource conservation. These strategies, including molecular docking, molecular dynamics simulation, protein structure prediction, virtual screening, and <i>de novo</i> drug design, have been widely employed in the past decades. Additionally, AI pharmaceutical companies have revolutionized the traditional drug development pipeline such as AD biomarker discovery, accurate diagnosis and precision medicine, etc. This review offers a thorough summary of recent progresses in computational-based methodologies in the study of AD drug development, including the elucidation the pathological mechanism at the molecular level, target identification, target 3D structure prediction, lead compound discovery, <i>de novo</i> molecular generation, multi-target directed ligands, drug repurposing, biomarker discovery, etc., showing promising applications of molecular modelling and AI in the development of AD therapy.
+
+---
+### Discovery of Q-Markers in traditional Chinese medicine based on machine learning: Application and verification in Xiaoyao Heji.
+**PMID:** [42948416](https://pubmed.ncbi.nlm.nih.gov/42948416/)
+
+**Abstract:** Identification of quality marker (Q-Marker) is central to the modernization and quality control of traditional Chinese medicine (TCM). Existing methods, though diverse, lack a unified and scalable strategy to address the chemical and pharmacological complexity of TCM prescriptions. This study established a machine learning-driven framework to integrate multi-source data and systematically prioritize Q-Marker, using Xiaoyao Heji (XYHJ), a modern antidepressant formulation derived from Xiaoyao San, as a case study.
+
+---
+### Cytochrome P450 inhibitors: friends or foes?
+**PMID:** [42948148](https://pubmed.ncbi.nlm.nih.gov/42948148/)
+
+**Abstract:** Cytochrome P450 (CYP450) enzymes play a central role in the metabolism of xenobiotics and endogenous compounds, influencing drug pharmacokinetics, efficacy, and safety. Inhibition of these enzymes has traditionally been viewed as a major liability in drug discovery due to its association with drug-drug interactions (DDIs), toxicity, and metabolic instability. However, inhibition of specific CYP450 isoforms has emerged as a powerful therapeutic strategy in multiple disease areas, including cancer and infectious diseases. This review presents a comprehensive analysis of data and regulatory guidance on CYP450 inhibitors to gain insights into whether CYP450 inhibition is a useful property ("a friend") or a liability ("a foe") for drug discovery scientists. Review of the literature shows that the design of novel CYP450 inhibitors requires an understanding of mechanisms of inhibition, whereas the clinical outcomes are mainly determined by isoform selectivity and effects of metabolism on drug action including reactive metabolite formation. The kinetic behaviour of representative inhibitor drugs is reassessed using variations in Michaels-Menten parameters <i>β</i> = <i>K</i> <sub>m</sub>/<i>K</i> <sub>i</sub>, and partitioning factor (<i>k</i> <sub>inact</sub>/<i>k</i> <sub>off</sub>). A modified classification of CYP450 inhibitors is proposed which consolidates the often-confusing classifications (mechanistic vs. spectroscopic) reported in the literature and FDA guidelines. The beneficial role of CYP450 inhibition in treatment and pharmacokinetic boosting is also discussed. Finally, advances utilising deep neural networks (DeepCYP) and machine learning methods (CYPlebrity, ML-augmented docking) in the last 5 years in inhibitor predictions are reviewed. This review provides a fresh perspective on classifying CYP450 inhibitors, existing guidelines for evaluation of <i>in-vitro</i> drug-drug interactions, and factors influencing clinical outcomes of CYP450 inhibition. This is expected to help researchers correctly identify CYP450 inhibitors as Friends or Foes in various discovery and clinical settings.
+
+---
+### Decoupled Adult and Larval Host Preferences in Tephritid Fruit Flies with a Conserved Oviposition Attractant.
+**PMID:** [42949353](https://pubmed.ncbi.nlm.nih.gov/42949353/)
+
+**Abstract:** Tephritid fruit flies exhibit considerable variability in host range, yet the chemosensory mechanisms underlying adult host selection and larval performance across species with contrasting dietary breadths remain unclear. Here, we investigated behavioral responses of adults and larvae of four species─Bactrocera dorsalis, B. correcta, Zeugodacus tau, and Z. cucurbitae─to seven fruit and vegetable cues. Adult preferences varied, with guava eliciting the strongest attraction in all species. Larval preferences were weaker and decoupled from adult choices. Comparative transcriptomics of guava-exposed antennae identified OBP19d as the most highly upregulated odorant-binding protein across species. RNAi knockdown of BdOBP19d in B. dorsalis reduced electrophysiological responses to guava volatiles and specifically abolished oviposition preference for 4-Ethylacetophenone. Molecular docking, electrophysiology, and behavioral assays collectively validated this interaction. These results reveal a conserved olfactory module for shared host attraction and identify 4-Ethylacetophenone as a candidate attractant for B. dorsalis females, with potential implications for pest management.
+
+---
+### Bioinformatics for Healthcare Quality Management: Clinical Outcomes, Implementation Barriers, and Care Improvement.
+**PMID:** [42949450](https://pubmed.ncbi.nlm.nih.gov/42949450/)
+
+**Abstract:** The bioinformatics-enabled workflows as quality-management tools have become central to modern healthcare, enabling genomic sequencing, transcriptomics, proteomics, and multiomics integration to support clinical decision-making. Despite expanding adoption, synthesized evidence on measurable clinical value and organizational, workforce, interoperability, governance, and equity barriers remains limited. To synthesize evidence on the contribution of bioinformatics-enabled workflows to healthcare quality improvement, care-process performance, clinical decision-making, patient outcomes, and implementation challenges from 2015 to 2025.
+
+---
