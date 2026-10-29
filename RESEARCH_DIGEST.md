@@ -8233,3 +8233,36 @@
 **Abstract:** The bioinformatics-enabled workflows as quality-management tools have become central to modern healthcare, enabling genomic sequencing, transcriptomics, proteomics, and multiomics integration to support clinical decision-making. Despite expanding adoption, synthesized evidence on measurable clinical value and organizational, workforce, interoperability, governance, and equity barriers remains limited. To synthesize evidence on the contribution of bioinformatics-enabled workflows to healthcare quality improvement, care-process performance, clinical decision-making, patient outcomes, and implementation challenges from 2015 to 2025.
 
 ---
+
+## PubMed Update: 2026-10-29 01:36:42
+
+### A Full-Spectrum Generative Lead Discovery (FSGLD) pipeline via DRUG-GAN: A multiscale method for drug-like/target-specific compound library generation.
+**PMID:** [42950041](https://pubmed.ncbi.nlm.nih.gov/42950041/)
+
+**Abstract:** We present the Full-Spectrum Generative Lead Discovery (FSGLD), a deep learning-driven pipeline for efficient drug lead identification. FSGLD integrates generative modeling with molecular docking, molecular dynamics simulations, ligand-residue interaction profile, MM-PBSA, thermodynamic integration (TI), and experimental validation to bridge theoretical design and practical application. The core multiscale DRUG-GAN models enable generative model-guided discovery of drug-like and target-specific compounds across three scenarios: (i) generation of random drug-like compounds, (ii) generation of target-specific compounds, and (iii) generation of target-specific compound series featuring shared chemical structures. In our assessment across three pharmacologically distinct target classes, FSGLD demonstrates encouraging performance in identifying target-specific candidate compounds. In addition, a computational protocol for TI calculations was established to reduce computation time by 80 to 90% while maintaining accuracy. By integrating generative models with in silico and in vitro evaluation techniques, FSGLD reduces the cost of identifying previously uncharacterized yet viable lead compounds, offering remarkable benefits to both academic and industry.
+
+---
+### A Full-Spectrum Generative Lead Discovery (FSGLD) pipeline via DRUG-GAN: A multiscale method for drug-like/target-specific compound library generation.
+**PMID:** [42950041](https://pubmed.ncbi.nlm.nih.gov/42950041/)
+
+**Abstract:** We present the Full-Spectrum Generative Lead Discovery (FSGLD), a deep learning-driven pipeline for efficient drug lead identification. FSGLD integrates generative modeling with molecular docking, molecular dynamics simulations, ligand-residue interaction profile, MM-PBSA, thermodynamic integration (TI), and experimental validation to bridge theoretical design and practical application. The core multiscale DRUG-GAN models enable generative model-guided discovery of drug-like and target-specific compounds across three scenarios: (i) generation of random drug-like compounds, (ii) generation of target-specific compounds, and (iii) generation of target-specific compound series featuring shared chemical structures. In our assessment across three pharmacologically distinct target classes, FSGLD demonstrates encouraging performance in identifying target-specific candidate compounds. In addition, a computational protocol for TI calculations was established to reduce computation time by 80 to 90% while maintaining accuracy. By integrating generative models with in silico and in vitro evaluation techniques, FSGLD reduces the cost of identifying previously uncharacterized yet viable lead compounds, offering remarkable benefits to both academic and industry.
+
+---
+### A Full-Spectrum Generative Lead Discovery (FSGLD) pipeline via DRUG-GAN: A multiscale method for drug-like/target-specific compound library generation.
+**PMID:** [42950041](https://pubmed.ncbi.nlm.nih.gov/42950041/)
+
+**Abstract:** We present the Full-Spectrum Generative Lead Discovery (FSGLD), a deep learning-driven pipeline for efficient drug lead identification. FSGLD integrates generative modeling with molecular docking, molecular dynamics simulations, ligand-residue interaction profile, MM-PBSA, thermodynamic integration (TI), and experimental validation to bridge theoretical design and practical application. The core multiscale DRUG-GAN models enable generative model-guided discovery of drug-like and target-specific compounds across three scenarios: (i) generation of random drug-like compounds, (ii) generation of target-specific compounds, and (iii) generation of target-specific compound series featuring shared chemical structures. In our assessment across three pharmacologically distinct target classes, FSGLD demonstrates encouraging performance in identifying target-specific candidate compounds. In addition, a computational protocol for TI calculations was established to reduce computation time by 80 to 90% while maintaining accuracy. By integrating generative models with in silico and in vitro evaluation techniques, FSGLD reduces the cost of identifying previously uncharacterized yet viable lead compounds, offering remarkable benefits to both academic and industry.
+
+---
+### Elucidating the toxicogenomic mechanisms of DBP exposure on Hepatocellular carcinoma through network toxicology and molecular docking analysis.
+**PMID:** [42949901](https://pubmed.ncbi.nlm.nih.gov/42949901/)
+
+**Abstract:** This study explored the molecular mechanisms by which dibutyl phthalate (DBP) contributes to hepatocellular carcinoma (HCC) pathogenesis using integrated network toxicology and bioinformatics.
+
+---
+### Sleep-dependent DNA methylation remodeling in basolateral amygdala fear engrams.
+**PMID:** [42949914](https://pubmed.ncbi.nlm.nih.gov/42949914/)
+
+**Abstract:** How sleep consolidates fear memories at the molecular level within individual engram neurons is unknown. Using activity-dependent tagging and sequencing, we profiled the DNA methylome and transcriptome of engram and non-engram nuclei from the basolateral amygdala (BLA) after contextual fear conditioning with and without post-learning sleep deprivation. Fear learning induces coordinated CpG and CpH DNA methylation remodeling specifically in engram neurons, with each showing unique temporal dynamics, revealing CpH methylation as a separate component of the engram's epigenetic signature. Interestingly, sleep deprivation partially reverses learning-induced methylation changes and impairs memory recall, indicating that sleep supports engram-specific epigenetic consolidation. Integrating the engram methylome with single-cell transcriptome profiling, we construct a multi-omic molecular atlas of the BLA fear engram and identify Mid1 as a learning- and sleep-regulated methylation target. BLA-wide and engram-specific Mid1 knockdown establishes its functional requirement for fear memory consolidation, providing an approach to identify behaviorally relevant epigenetic targets.
+
+---
