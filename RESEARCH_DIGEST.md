@@ -8557,3 +8557,42 @@
 **Abstract:** In colorectal cancer (CRC), dysregulated cyclin-dependent kinase inhibitor 2A (CDKN2A) contributes to disease progression. This investigation sought to explore the link between <i>CDKN2A</i> expression and the effectiveness of radiotherapy in CRC, and to investigate the underlying mechanisms.
 
 ---
+
+## PubMed Update: 2026-11-01 08:50:36
+
+### A multimodal digital NeuroMarker platform with composite and domain-level validity for identification of mild cognitive impairment: a cross-sectional study.
+**PMID:** [42964515](https://pubmed.ncbi.nlm.nih.gov/42964515/)
+
+**Abstract:** Mild cognitive impairment (MCI) is a clinically heterogeneous syndrome that can represent an early manifestation of neurodegenerative disease. Diagnosis relies on assessments that are difficult to scale, leaving many individuals unidentified.
+
+---
+### A multimodal digital NeuroMarker platform with composite and domain-level validity for identification of mild cognitive impairment: a cross-sectional study.
+**PMID:** [42964515](https://pubmed.ncbi.nlm.nih.gov/42964515/)
+
+**Abstract:** Mild cognitive impairment (MCI) is a clinically heterogeneous syndrome that can represent an early manifestation of neurodegenerative disease. Diagnosis relies on assessments that are difficult to scale, leaving many individuals unidentified.
+
+---
+### Single-cell transcriptomic profiling of human kidneys uncovers profound principal cell responses to diabetic conditions, enabling targeted drug discovery.
+**PMID:** [42964822](https://pubmed.ncbi.nlm.nih.gov/42964822/)
+
+**Abstract:** Ranked as the fifth leading global health burden in 2022, diabetes mellitus is the driver of diabetic kidney disease (DKD), a condition responsible for nearly half of end-stage kidney disease cases. Despite its significant impact, therapeutic progress in DKD is hindered by an incomplete understanding of the underlying cell-specific molecular mechanisms.
+
+---
+### Tributyl phosphate disrupts neuronal autophagy: potential involvement of TLR4 in cell and rat models.
+**PMID:** [42966556](https://pubmed.ncbi.nlm.nih.gov/42966556/)
+
+**Abstract:** Tributyl phosphate (TBP), a widely used organophosphate ester, exhibits lipophilic characteristics that enable it to cross the blood-brain barrier. Although its neurotoxicity has been confirmed, the underlying molecular pathways remain unclear. This study examined whether TLR4-associated autophagy disruption contributes to TBP-induced neuronal damage. Autophagy was activated with rapamycin (RAPA) and TLR4 was knocked down using siRNA. TBP exposure upregulated TLR4 expression and downregulated autophagy-related markers. Autophagic flux analysis assays using bafilomycin A1 further revealed that TBP impaired autophagosome biogenesis instead of lysosomal dysfunction. Autophagy activation and TLR4 knockdown each partially attenuated TBP-induced oxidative stress, inflammation, and alterations in neuroinjury markers. Moreover, inhibiting TLR4 partially reversed the decrease in autophagy levels caused by TBP. Molecular docking predicted TBP may bind to the TLR4 extracellular domain, providing a testable framework for future validation. These findings identify TLR4-regulated autophagy suppression as a candidate mechanism for TBP neurotoxicity.
+
+---
+### Upgrading the HIV vaccine paradigm: accounting for host-pathogen diversity through geotargeting-based vaccine design.
+**PMID:** [42964433](https://pubmed.ncbi.nlm.nih.gov/42964433/)
+
+**Abstract:** Effective HIV vaccine development, with satisfactory levels of response and coverage, remains an elusive goal in immunology. In this context, considerations of host-pathogen interactions from a geotargeting perspective could enhance disease control efforts. Current HIV vaccine strategies increasingly seek to address viral diversity, but the combined effects of regional viral variation and host HLA diversity on antigen processing and presentation remain insufficiently considered. Here, we evaluated whether integrating these host-pathogen variables could support geographically informed prioritization of HIV vaccine targets.
+
+---
+### Transcriptomic Features Associated With Kinase Inhibitor Sensitivity in <i>KMT2A</i>-Rearranged AML.
+**PMID:** [42966630](https://pubmed.ncbi.nlm.nih.gov/42966630/)
+
+**Abstract:** <i>KMT2A</i>-rearranged (<i>KMT2A</i>-r) acute myeloid leukemia (AML) has a transcriptional program, but its relationship to drug sensitivity remains incompletely characterized. This study investigated whether a <i>KMT2A</i>-r-like transcriptomic state is associated with <i>ex vivo</i> kinase inhibitor sensitivity.
+
+---
