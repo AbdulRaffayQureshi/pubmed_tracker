@@ -8686,3 +8686,30 @@
 **Abstract:** Background/AimMidkine (MDK), a heparin-binding growth factor, is frequently overexpressed in lung cancer (LC) cells. This study aims to investigate the role of MDK in both LC and lung cancer brain metastasis (LCBM) through proteomic, functional, and in vivo analyses.MethodsProteomic analysis was conducted on five paired LC and LCBM samples. Subsequently, we established MDK knockdown and overexpression models to perform in vitro functional studies. We also examined the potential interactions between MDK and various signaling pathways in lung cancer cells. In vivo experiments were carried out to determine whether MDK downregulation could inhibit LCBM. Finally, the correlation between MDK expression and clinical parameters in both LC and LCBM samples was analyzed.ResultsProteomic profiling of the five paired LC and LCBM samples identified 370 upregulated and 530 downregulated proteins in LCBM, with MDK showing significant overexpression in metastatic samples. MDK overexpression was associated with poor prognosis in lung adenocarcinoma (LUAD) patients and increased migration and invasion in lung cancer cell lines. MDK knockdown (si-MDK) in H1299 cells resulted in reduced proliferation, migration, and invasion, while MDK overexpression (OE-MDK) in H460 and A549 cells promoted these malignant behaviors. Mechanistically, MDK activated the NOTCH2/HES1/NF-κB and PI3K/AKT/CDC42 pathways, driving epithelial-to-mesenchymal transition (EMT) and cytoskeletal remodeling. In vivo, MDK knockdown in H1299 xenografts significantly inhibited brain metastasis and improved survival in nude mice. Clinical validation in 24 LC patients and 23 LCBM patients confirmed elevated MDK expression in metastases. Multivariate analysis identified MDK expression and tumor volume as independent predictors of LCBM.ConclusionThese findings position MDK as a critical driver of LCBM and a promising therapeutic target for preventing metastatic progression.
 
 ---
+
+## PubMed Update: 2026-11-03 02:11:44
+
+### Can AI Help Repurpose Drugs to Fight Against Antibiotic Resistance?
+**PMID:** [42970746](https://pubmed.ncbi.nlm.nih.gov/42970746/)
+
+**Abstract:** Drug repurposing and development to meet the threat of antimicrobial resistance can be costly and time-consuming, but AI models may be able to help. In this <i>News and Perspectives</i> article, JMIR Correspondent Sara Novak reports on recent research training models to identify candidate drugs to treat resistant infections.
+
+---
+### Can AI Help Repurpose Drugs to Fight Against Antibiotic Resistance?
+**PMID:** [42970746](https://pubmed.ncbi.nlm.nih.gov/42970746/)
+
+**Abstract:** Drug repurposing and development to meet the threat of antimicrobial resistance can be costly and time-consuming, but AI models may be able to help. In this <i>News and Perspectives</i> article, JMIR Correspondent Sara Novak reports on recent research training models to identify candidate drugs to treat resistant infections.
+
+---
+### Attenuation of Angiotensin II- Induced Cardiomyocyte Hypertrophy by <i>Moringa oleifera</i> Lam. extract, Fractions and Bioactive Constituents: Cell Size Analysis and Molecular Docking.
+**PMID:** [42970400](https://pubmed.ncbi.nlm.nih.gov/42970400/)
+
+**Abstract:** <i>Moringa oleifera</i> Lam. leaves are valued for their rich nutritional profile and traditional use in treating various ailments, including hypertension. However, research focusing on their mechanism of action, particularly their interactions with angiotensin (Ang) II receptors remains limited. This study aimed to evaluate the effects of <i>M. oleifera</i> leaves extract, fractions and bioactive compounds (kaempferol, chlorogenic acid, gallic acid, and vicenin-2) on Ang II induced H9c2 cells and their binding affinities toward Ang II receptors.
+
+---
+### Atmospheric Aging Modifies the Toxicological Profile of Biomass Burning Particles in Epithelial Lung Cells.
+**PMID:** [42970402](https://pubmed.ncbi.nlm.nih.gov/42970402/)
+
+**Abstract:** Wildfire activity and associated smoke emissions are increasing globally, leading to widespread exposure to biomass burning particulate matter (PM). Although people are mainly exposed to aged wildfire smoke rather than fresh emissions, the effects of atmospheric aging on wildfire particulate toxicity remain poorly understood. Here, we investigated how atmospheric processing ("aging") modifies biological effects of biomass burning particles (BBPs) generated under controlled flaming and smoldering combustion conditions. BB emissions were produced in the Photochemical Large Aerosol Chamber (PHOTO-LAC) and aged under alternating photochemical and dark conditions. Fresh and aged BBP extracts were subsequently sampled and tested in human bronchial epithelial cells (BEAS-2B). We assessed cytotoxicity, oxidative stress, oxidative DNA damage, genome-wide transcriptional responses, and inflammatory and extracellular matrix-related protein expression. Atmospheric aging substantially altered BBP toxicity in a combustion-dependent manner. Aged BBP enhanced intracellular reactive oxygen species formation and oxidative DNA damage, particularly for smoldering emissions, while cytotoxicity remained largely unchanged. In contrast, inflammatory and matrix-remodeling responses were attenuated with aging in smoldering particles but remained stable for flaming BBP. These findings demonstrate that atmospheric aging can simultaneously amplify oxidative and genotoxic stress while dampening inflammatory signaling, underscoring the need to incorporate aging state into health risk assessments of wildfire smoke exposure.
+
+---
