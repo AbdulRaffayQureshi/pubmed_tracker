@@ -8800,3 +8800,24 @@
 **Abstract:** Cisplatin-based neoadjuvant chemotherapy remains an important treatment for advanced bladder cancer (BLCA), yet approximately half of patients derive limited benefit because of chemoresistance. Although DNA damage repair (DDR) is a key determinant of this resistance, how DDR heterogeneity contributes to chemoresistance remains unclear. Single-cell transcriptomic analysis revealed DDR heterogeneity among BLCA epithelial cells, with epithelial cells exhibiting higher DDR activity showing greater malignant potential. Bulk transcriptomic and proteomic analyses identified two molecular subtypes of BLCA. Compared with the DDR-Base subtype, the DDR-Active subtype exhibited enhanced DDR function and worse clinical outcomes. Integrative machine-learning modeling and SHapley Additive exPlanations (SHAP) prioritized GALNT6 as a glycosylation-related regulator associated with the DDR-Active phenotype. GALNT6 was highly expressed in the DDR-Active subtype and progressively increased along the epithelial-cell trajectory toward the DDR-enhanced malignant state. Functionally, GALNT6 knockdown impaired DNA damage repair efficiency, thereby overcoming cisplatin resistance in BLCA. Mechanistically, GALNT6 stabilized SMAD2 through O-glycosylation, after which SMAD2 transcriptionally activated CDC7 to enhance repair capacity against exogenous DNA damage. Moreover, GALNT6 and SMAD2 co-expression was a hallmark of the DDR-Active subtype and was associated with advanced tumor stage. This study defines clinically relevant DDR subtypes in BLCA and identifies the GALNT6/SMAD2/CDC7 axis as a driver of cisplatin resistance. These findings provide a biological framework for understanding heterogeneity in cisplatin response and for future treatment stratification.
 
 ---
+
+## PubMed Update: 2026-11-04 08:43:17
+
+### Conversational Multi-Agentic Network-Driven Disease Module Identification and Drug Repurposing Prediction With ChatDRex: Platform Development Study.
+**PMID:** [42976355](https://pubmed.ncbi.nlm.nih.gov/42976355/)
+
+**Abstract:** Repurposing approved drugs offers a time- and cost-effective alternative to traditional drug development. However, in silico prediction of repurposing candidates is challenging and requires the effective collaboration of specialists in various fields, including pharmacology, medicine, biology, and bioinformatics. Fragmented, specialized algorithms and tools often address only narrow aspects of the overall problem. Heterogeneous, unstructured data landscapes require the expertise of specialized users. Hence, diverse data sources might not integrate smoothly across workflows.
+
+---
+### Improvement of water solubility and antioxidant efficacy of rebaudioside M via dimethyl-β-cyclodextrin inclusion modification: Molecular interaction, in vivo evaluation in Caenorhabditis elegans and regulatory mechanism elucidation using multiomics.
+**PMID:** [42977401](https://pubmed.ncbi.nlm.nih.gov/42977401/)
+
+**Abstract:** Rebaudioside M (RM) is a natural high-intensity diterpenoid glycoside sweetener with promising nutritional and bioactive properties, but its application in the food industry is severely hindered by poor water solubility. In this study, network pharmacology predicted that RM alleviates oxidative stress (OS)-related disorders by targeting core proteins, including HSP90AA1, ANXA5, CYCS and INS. Molecular docking and molecular dynamics simulations further provided computational evidence that the RM-DM-β-CD complex (RM-CD), formed by complexation of RM with dimethyl-β-cyclodextrin (DM-β-CD), exhibits superior anti-OS effects compared to free RM. Accordingly, a highly water-soluble RM-CD was prepared to overcome the solubility limitation, which significantly improved the aqueous solubility of RM from below 1 mg/mL to 2.6 mg/mL. In vivo assays in Caenorhabditis elegans under non-stressed conditions demonstrated that the antioxidant activity of RM-CD is primarily attributable to RM; moreover, encapsulation with DM-β-CD significantly enhanced this activity compared with free RM, as evidenced by reduced MDA (1.59 ± 0.22 nmol/mg prot) and elevated levels of T-SOD (35.36 ± 0.59 U/mg prot), CAT (8.86 ± 0.76 U/mg prot), and GSH-Px (324.12 ± 19.34 U/mg prot). Integrated transcriptomic and metabolomic profiling further revealed that RM-CD potentiates systemic antioxidant defense through coordinated regulation of autophagy, longevity-regulating pathways and cofactor biosynthesis. These results provide theoretical evidence supporting the future development and application of RM as a natural antioxidant in functional foods and high-potency sweetener products.
+
+---
+### Rare non-coding variant rs890306703 is genetically associated with early-onset severe retinal degeneration.
+**PMID:** [42977500](https://pubmed.ncbi.nlm.nih.gov/42977500/)
+
+**Abstract:** No abstract available.
+
+---
