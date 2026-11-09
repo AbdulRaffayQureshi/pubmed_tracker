@@ -9166,3 +9166,18 @@
 **Abstract:** Cuproptosis is a recently identified copper-dependent form of cell death with potential therapeutic applications. However, its activity in cancer-associated fibroblasts (CAFs) and its association with pancreatic cancer (PC) prognosis remain poorly understood. This study aimed to address this gap.
 
 ---
+
+## PubMed Update: 2026-11-09 05:01:40
+
+### Smart IR-hot air rotary drum dryer for lemongrass: Thermal kinetics, carbon footprint, oil quality, and In vitro/In silico antitumor activity.
+**PMID:** [43000009](https://pubmed.ncbi.nlm.nih.gov/43000009/)
+
+**Abstract:** Lemongrass, drying sensitively, is widely used in food and pharmaceuticals. Advancements in drying technology improve product quality and reduce the environmental impact of pharmaceutical processes. This study evaluated a novel Smart Infrared-Hot Air Rotary Drum Dryer (SIRHRDD) for lemongrass processing, focusing on energy efficiency, essential oil quality, and bioactivity. Operating across modes (IR, Heater, and Hybrid) at 30, 40, and 50 °C, the smart-controlled system achieved up to 71.3% energy savings. IR at 30 °C minimized carbon emissions, while Hybrid at 40 °C maximized oil yield. Notably, IR at 50 °C optimized key bioactives: Neral (38.35%) and Geranial (48.13%). Preliminary biological assays indicated promising modulatory potential against human skin carcinoma cells (A-431). Molecular docking simulation showed that Geranial and Neral have favorable theoretical binding affinities for EGFR and STAT3 proteins, comparable to standard drugs. These findings demonstrate that SIRHRDD is a sustainable, high-efficiency technology for producing therapeutic-grade essential oils, offering a scalable solution for the medicinal industry.
+
+---
+### Histone H3.3 subvariant H3mm15 is required for normal spermatogenesis by regulating gene expression.
+**PMID:** [43000050](https://pubmed.ncbi.nlm.nih.gov/43000050/)
+
+**Abstract:** Histone H3 variants play a fundamental role in chromatin regulation, contributing to gene expression. While the functional diversity of H3.3 subvariants remains largely unexplored, we identified H3mm15 as a testis-expressed H3.3 subvariant that regulates meiotic transcription. Using RNA sequencing and variant-specific reverse-transcription quantitative PCR, we demonstrate here that H3mm15 is expressed predominantly in the testis. Loss of H3mm15 leads to seminiferous tubule disorganization and altered expression of spermatogenesis-related genes. Chromatin profiling reveals that H3mm15 is relatively enriched at promoter-proximal regions compared with H3.3, despite its lower overall chromatin incorporation and lower nucleosomal stability. Functional assays show that H3mm15 has a more moderate impact on transcriptional responses to stimuli than H3.3. Although H3mm15 forms a less stable nucleosome, its reduced stability does not confer enhanced transcription by RNAPII in vitro. Our findings suggest the existence of an H3.3 sub-barcode mechanism, in which structurally distinct H3.3 subvariants differentially regulate chromatin states and contribute to gene regulation during spermatogenesis.
+
+---
