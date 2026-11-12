@@ -9373,3 +9373,36 @@
 **Abstract:** Interleukin-6 (IL-6) is a pleiotropic cytokine that drives macrophage functions ranging from tissue homeostasis to inflammation, yet how STAT3 specifies these divergent outcomes remains unclear. By integrating transcriptomic and epigenomic profiling with selective STAT3 degradation, we show that STAT3 controls IL-6-induced epigenomic remodeling and restrains a latent STAT1-associated interferon program in human macrophages. Graded STAT3 chromatin recruitment scales with locus-specific H3K27ac deposition and transcriptional output across homeostatic and inflammatory programs. STAT3 degradation permits STAT1 recruitment at a subset of regulatory regions and engages a delayed amplification loop that is partially dependent on STING and type I IFN signaling. In severe COVID-19, monocytes exhibit exaggerated STAT3-associated inflammatory signatures together with attenuated STAT1-associated interferon responses, consistent with a skewed STAT3-STAT1 balance. These findings define a framework in which STAT3 calibrates IL-6-induced chromatin output while maintaining pathway fidelity by limiting STAT1 cross-talk.
 
 ---
+
+## PubMed Update: 2026-11-12 12:16:50
+
+### Normalized membrane ratio of TROP2 as a predictor of clinical outcomes with datopotamab deruxtecan in non-small-cell lung cancer.
+**PMID:** [43015400](https://pubmed.ncbi.nlm.nih.gov/43015400/)
+
+**Abstract:** Datopotamab deruxtecan (Dato-DXd)-a trophoblast cell surface antigen 2 (TROP2)-directed antibody-drug conjugate-has demonstrated efficacy in patients with advanced nonsquamous non-small-cell lung cancer (NSCLC) ± actionable genomic alterations. However, TROP2 expression by pathologist assessment using conventional immunohistochemistry with visual scoring does not predict response to TROP2-directed antibody-drug conjugates in NSCLC. We developed TROP2 quantitative continuous scoring (QCS)-a fully supervised computational pathology approach that quantifies TROP2 expression in individual NSCLC cells and subcellular components from immunohistochemistry-stained slides. Using QCS to determine TROP2 expression at the tumor cell membrane and cytoplasm, normalized membrane ratio (NMR) was developed (ratio of membrane relative to membrane + cytoplasmic TROP2) in the biomarker-evaluable population of patients with advanced NSCLC in the TROPION-PanTumor01 study (n = 115). The TROP2 NMR cut-point was optimized and validated in patients with nonsquamous NSCLC without actionable genomic alterations (primary intended-use population, n = 221) in the biomarker-evaluable population (n = 352) of the TROPION-Lung01 trial. Association with clinical outcomes was assessed. Progression-free survival was longer in Dato-DXd-treated (median 7.2 versus 4.0 months; hazard ratio 0.40, 95% confidence interval 0.25-0.64) but not docetaxel-treated (median 4.1 versus 4.4 months; hazard ratio 0.94, 95% confidence interval 0.59-1.49) patients with TROP2 NMR-positive versus TROP2 NMR-negative samples (treatment by biomarker status interaction P = 0.0098), indicating that TROP2 NMR may be a predictive biomarker for Dato-DXd.
+
+---
+### Automated classification of Echinococcus multilocularis protoscolex viability using machine learning for high-throughput drug screening.
+**PMID:** [43014688](https://pubmed.ncbi.nlm.nih.gov/43014688/)
+
+**Abstract:** Alveolar echinococcosis, caused by the parasite Echinococcus multilocularis, is a potentially lethal disease that requires the development of new medical treatments. Current drug screening methods depend on manual microscopy to count stained and unstained protoscoleces to determine viability, a process that is often slow and subject to human error. This study developed machine learning models to automate the classification of protoscolex survival to accelerate drug discovery. A total of 111 images containing 1,302 protoscoleces stained with eosin or methylene blue were analyzed. Histogram-based image features were extracted and subjected to preprocessing, dimensionality reduction, and feature selection. Six classification algorithms were trained using five-fold cross-validation and evaluated on internal test sets and an external validation set via receiver operating characteristic curve analysis. Results indicated that several models were highly effective, with internal test scores ranging from 0.8905 to 0.9467 and external validation scores between 0.7772 and 0.8214. Models based on support vector machine, logistic regression, and linear discriminant analysis demonstrated promising discriminatory performance across both internal and external datasets. The study concludes that machine learning can accurately and objectively classify the viability of protoscoleces based on stained images. This automated approach offers significant potential for standardizing high-throughput drug screening and facilitating the discovery of new therapeutics against this neglected zoonotic disease.
+
+---
+### CYP3A4 Interaction with Green Tea Catechins: Insights from Molecular Docking Simulations.
+**PMID:** [43016103](https://pubmed.ncbi.nlm.nih.gov/43016103/)
+
+**Abstract:** Green tea contains abundant bioactive polyphenols recognized for their various pharmacological effects, including the regulation of drug-metabolizing enzymes. Cytochrome P450 3A4 (CYP3A4) is essential for the metabolism of a broad range of drugs. This study examines the binding interactions between prominent green tea polyphenols and CYP3A4 to assess their potential impact on drug metabolism and diet-medicine interactions.
+
+---
+### Neoepitope prediction integrated with DNA repair gene profiling for precision oncology.
+**PMID:** [43014196](https://pubmed.ncbi.nlm.nih.gov/43014196/)
+
+**Abstract:** Tumors with defective DNA-repair machinery accumulate somatic mutations at a high rate, and some of these mutations give rise to neoantigens, short peptide fragments that the immune system can recognize as foreign elements. While the connection between repair deficiency and tumor immunogenicity is well established, few analyses ask which missense neoepitopes encoded by mutations in the repair genes themselves are generated by more than one mutation, and where such shared peptides sit between fully personalized and off-the-shelf vaccine designs.
+
+---
+### Recombinant GDF15 prophylaxis attenuates cardiorenal toxicity and fibrosis induced by doxorubicin and angiotensin II.
+**PMID:** [43015850](https://pubmed.ncbi.nlm.nih.gov/43015850/)
+
+**Abstract:** Anthracycline chemotherapy induces cardiotoxicity through mitochondrial damage and cell apoptosis that are exacerbated in vivo by angiotensin II (Ang II). Growth differentiation factor 15 (GDF15) is a stress-responsive cytokine with protective functions but its capacity to mitigate doxorubicin (Dox)-induced cardiotoxicity and Ang II-associated cardiorenal stress remains unclear.
+
+---
