@@ -9712,3 +9712,30 @@
 **Abstract:** UDP-glucuronosyltransferases (UGTs) are essential phase II metabolic enzymes that catalyze the glucuronidation of both xenobiotics and critical endogenous metabolites, including bilirubin, bile acids, steroid hormones, and bioactive lipid mediators, thereby maintaining systemic and hepatic metabolic homeostasis. Dysregulated UGT expression and impaired glucuronidation capacity are widely documented in liver diseases and hepatocellular carcinoma (HCC). Beyond canonical endoplasmic reticulum (ER) localization, accumulating biochemical and immunological evidence suggests that selected UGT isoforms may also reside in noncanonical membrane-associated compartments, such as the nuclear envelope and plasma membrane, under specific cellular contexts. In this review, we comprehensively summarize the genomic architecture, isoform-specific functional diversification, and molecular regulation of the human UGT superfamily, while presenting updated quantitative kinetics for major endogenous substrates. We further critically evaluate the experimental evidence for canonical and extra-ER UGT localization, addressing fundamental topological constraints, cofactor (UDP-glucuronic acid) transport, and organelle-specific catalytic feasibility. Finally, we synthesize current quantitative transcriptomic, proteomic, and functional findings on UGT dysregulation in HCC, while delineating established clinical observations from hypothetical models regarding whether organellar redistribution influences cancer-associated metabolic reprogramming. Overall, this review provides a balanced, evidence-based synthesis of UGT spatial biology and outlines decisive research avenues for clarifying the role of compartmentalized glucuronidation in hepatic health and malignancy.
 
 ---
+
+## PubMed Update: 2026-11-17 00:00:09
+
+### ReMoD-Mol: Reliability-Aware Multimodal Learning with Descriptor-Guided Knowledge Distillation for Molecular Property Prediction.
+**PMID:** [43037076](https://pubmed.ncbi.nlm.nih.gov/43037076/)
+
+**Abstract:** Accurate molecular property prediction (MPP) remains a central challenge in drug discovery. Given the limited availability of labeled molecular data, multimodal molecular representation learning offers a promising means of integrating complementary structural information for MPP. Existing multimodal models still face two limitations: (i) common fusion strategies, particularly direct concatenation, can introduce redundant information or signals that are weakly relevant to the target property; and (ii) the effective incorporation of complementary physicochemical priors into multimodal representations remains insufficiently explored.
+
+---
+### Development of a diagnostic biomarker panel for early-stage lung adenocarcinoma using serum-derived small RNAs.
+**PMID:** [43038279](https://pubmed.ncbi.nlm.nih.gov/43038279/)
+
+**Abstract:** Circulating small RNAs, such as microRNAs (miRNAs) and transfer RNA fragments (tRFs), reportedly reflect the physiological and pathological conditions in various diseases. Herein, we aimed to identify circulating small RNAs for the early diagnosis of lung adenocarcinoma.
+
+---
+### Toddalolactone inhibits the activation of fibroblasts in skin fibrosis by regulating MAOA.
+**PMID:** [43038237](https://pubmed.ncbi.nlm.nih.gov/43038237/)
+
+**Abstract:** Skin fibrosis is characterized by excessive deposition of extracellular matrix driven by activated fibroblasts, leading to varying degrees of patient discomfort, deformity, disability, and even death. In vitro studies using mouse primary skin fibroblasts (PSFs) and patient-derived primary keloid fibroblasts (KFs) demonstrated that toddalolactone (Tod) significantly inhibited fibroblast proliferation, migration, and activation and suppressed the TGF-β1/Smad and TGF-β1/non-Smad pathways in these cells. In a bleomycin (BLM)-induced mouse model of skin fibrosis, Tod treatment significantly reduced dermal thickness and collagen deposition in mouse skin, decreased skin hydroxyproline content, and inhibited fibroblast activation as well as the TGF-β1/Smad and TGF-β1/non-Smad pathways in vivo. In a keloid xenograft mouse model, Tod treatment significantly reduced the relative weight of keloids in mice. Histopathological analysis revealed that Tod alleviated the degree of keloid fibrosis and collagen aggregation while inhibiting fibroblast activation in keloid tissue. Furthermore, molecular docking identified monoamine oxidase A (MAOA) as a potential target of Tod. Cellular thermal shift assays and MAOA knockdown using siRNA in PSFs and KFs demonstrated that Tod inhibits the TGF-β1 pathway and suppresses fibroblast activation by inhibiting MAOA. Collectively, the findings reveal that Tod regulates the TGF-β1/Smad and TGF-β1/non-Smad pathways through inhibiting MAOA, thereby affecting skin fibroblast activation and alleviating skin fibrosis.
+
+---
+### Chromosome Structure of Wild Wheat Relative Aegilops uniaristata.
+**PMID:** [43038361](https://pubmed.ncbi.nlm.nih.gov/43038361/)
+
+**Abstract:** Homoeologous chromosomes within the grass tribe Triticeae have largely retained their cross-species colinearity. However, prior studies suggest that the karyotype of Aegilops uniaristata, a diploid wild relative of wheat (genome NN, 2n = 2x = 14), is noticeably different from most of the Triticeae species.
+
+---
