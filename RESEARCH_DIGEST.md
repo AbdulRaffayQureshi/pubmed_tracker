@@ -9844,3 +9844,36 @@
 **Abstract:** Molecular subtyping may offer a promising path toward a unified framework for precision oncology. We sought to characterize the patterns of programmed cell death (PCD), a pivotal cellular process shaping both intrinsic tumor malignancy and the tumor microenvironment, to better understand tumor heterogeneity.
 
 ---
+
+## PubMed Update: 2026-11-18 09:49:34
+
+### Identifying Plasma Proteins for Hypertrophic Cardiomyopathy Penetrance and Severity in Pathogenic Variant Carriers and Noncarriers.
+**PMID:** [43044284](https://pubmed.ncbi.nlm.nih.gov/43044284/)
+
+**Abstract:** Hypertrophic cardiomyopathy (HCM) is a clinically variable disease in onset and progression. Pathogenic MYBPC3 variants account for a substantial proportion of HCM diagnoses.
+
+---
+### From static structures to conformational ensembles: Artificial intelligence for protein sampling and dynamics.
+**PMID:** [43044348](https://pubmed.ncbi.nlm.nih.gov/43044348/)
+
+**Abstract:** After sparking a revolution in protein structure prediction, machine learning (ML), and artificial intelligence (AI) are now reshaping the modeling of protein conformational ensembles and dynamics. A fast, scalable, and accurate representation of protein conformational ensembles could enable genome-scale studies of protein function, with broad applications in drug discovery and protein engineering. The challenges associated with this goal, however, are far greater than those involved in single structure prediction because of the broad timescales spanned by protein motion, the complex relationship between sequence and dynamics, and the scarcity of datasets with experimental measurements. Despite these difficulties, many promising solutions have emerged in recent years, ranging from accelerated molecular dynamics to direct sampling of the conformational distribution, as well as some hybrid methods. Here, we review recent AI-powered approaches to tackle protein dynamics and conformational sampling, and outline their current limitations.
+
+---
+### [Mechanism of Jiangxinwei Compound improving chronic obstructive pulmonary disease by regulating ferroptosis based on network pharmacology and experimental validation].
+**PMID:** [43045098](https://pubmed.ncbi.nlm.nih.gov/43045098/)
+
+**Abstract:** Based on network pharmacology and molecular docking, this study investigated the mechanism of action of Jiangxinwei Compound, which was composed of Zingiberis Rhizoma, Asari Radix et Rhizoma, and Schisandrae Chinensis Fructus. Through dually targeting the glycogen synthase kinase-3β(GSK-3β)/nuclear factor erythroid 2-related factor 2(NRF2)/glutathione peroxidase 4(GPX4) axis, and prostaglandin-endoperoxide synthase 2(PTGS2), the compound inhibited ferroptosis, enhanced antioxidant capacity, and alleviated chronic obstructive pulmonary disease(COPD). In this study, a COPD rat model was established by combining lipopolysaccharide(LPS) and cigarette smoke(CS). Forty-eight rats were randomly divided into a blank group, a model group, a dexamethasone group, and Jiangxinwei Compound groups with low, medium, and high doses, with eight rats per group. After intervention, body weights, lung function, histopathology, inflammatory markers, and ferroptosis markers were assessed. Western blot and immunofluorescence were used to detect the protein expressions of PTGS2, phosphorylated-GSK-3β(p-GSK-3β), NRF2, and GPX4 in lung tissue, while real-time quantitative polymerase chain reaction(RT-qPCR) was used to measure the corresponding mRNA levels. The results show that, compared with the model group, the Jiangxinwei Compound groups exhibit significantly improved lung function, alleviated pathological injury of lung tissue, reduced levels of the inflammatory cytokines, such as interleukin-6(IL-6) and tumor necrosis factor-alpha(TNF-α) in bronchoalveolar lavage fluid(BALF), decreased levels of ferroptosis markers including reactive oxygen species(ROS), malondialdehyde(MDA), and ferrous ion(Fe~(2+)) in lung tissue, and increased level of the antioxidant indicator reduced glutathione(GSH). Western blot and qPCR also reveal that the Jiangxinwei Compound downregulates PTGS2 expression and upregulates p-GSK-3β, NRF2, and GPX4 expression. The RT-qPCR results show that Jiangxinwei Compound downregulates the mRNA expression of PTGS2 and upregulates those of NRF2 and GPX4. In summary, the Jiangxinwei Compound effectively ameliorates lung dysfunction and inflammation in COPD rats, and its mechanism of action may involve dual targeting of the GSK-3β/NRF2/GPX4 axis and PTGS2, thereby inhibiting ferroptosis and enhancing antioxidant capacity in lung tissue.
+
+---
+### An Ii-Key-containing HPV16/18 E7 epitope peptide vaccine promotes dendritic cell activation and T-cell immunity in a murine HPV16 tumor model, with greater tumor control upon PD-1 blockade.
+**PMID:** [43044186](https://pubmed.ncbi.nlm.nih.gov/43044186/)
+
+**Abstract:** Therapeutic vaccines targeting human papillomavirus (HPV) E6/E7 oncoproteins represent a promising strategy for cervical cancer immunotherapy, yet most candidates remain constrained by insufficient antigen presentation efficiency and suboptimal T-cell responses. The Ii-Key strategy, which links the invariant chain (Ii) core motif to epitope peptides to facilitate MHC class II loading, may overcome this limitation by amplifying CD4<sup>+</sup> T helper responses.
+
+---
+### Transcriptomic prognostic modeling reveals limited incremental value of self-reported race and identifies GDPD2 as a candidate prognostic biomarker in lung adenocarcinoma.
+**PMID:** [43044441](https://pubmed.ncbi.nlm.nih.gov/43044441/)
+
+**Abstract:** Outcomes in lung adenocarcinoma (LUAD) differ between White and Black patients, but whether self-reported race carries prognostic information beyond tumor biology remains unclear.
+
+---
