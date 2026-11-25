@@ -10324,3 +10324,30 @@
 **Abstract:** Tertiary lymphoid structures (TLS) are ectopic lymphoid aggregates that arise in non-lymphoid tissues during chronic inflammation and in tumors. We aimed to develop a TLS-associated immune-activation transcriptomic score and evaluate its prognostic and immune correlates in breast cancer.
 
 ---
+
+## PubMed Update: 2026-11-25 00:25:11
+
+### MMC-DTA: A Multi-Modal Contrastive Learning-Based Drug-Target Affinity Prediction Model for Anti-Parasitic Drug Discovery.
+**PMID:** [43077018](https://pubmed.ncbi.nlm.nih.gov/43077018/)
+
+**Abstract:** Parasitic diseases affect hundreds of millions of people globally, significantly contributing to high morbidity and mortality rates worldwide. However, existing drug therapies for parasitic diseases still face challenges such as drug resistance and severe side effects. Accurate prediction of drug-target affinity is vital for advancing anti-parasitic drug development. Although numerous computational methods have been proposed to explore topological and semantic information of biomolecules and integrate multi-modal data, most of them still face challenges in cross-modal information interaction, limiting their generalization capability for anti-parasitic drug discovery. To address these issues, we propose a multi-modal contrastive learning-based drug-target affinity prediction model (MMC-DTA). MMC-DTA employs a pre-training model-based multi-scale feature extraction strategy to learn the sequence and topology features of drugs and proteins, which effectively capture abundant features from the sequence and topological graph of drugs and proteins. Further, a multi-modal contrastive learning-based fusion strategy is specifically designed to effectively balance and integrate the information of the two modalities, and thereby enhance the representation of drug-target interactions. Experimental results on two public datasets and a newly collected dataset related to parasites demonstrate that MMC-DTA outperforms state-of-the-art methods in drug-target affinity prediction. Furthermore, the generalization capability of the model is validated in several realistic scenarios. Specifically, the proposed MMC-DTA demonstrates better generalization under a zero-shot scenario, and exhibits the promise to compensate for a lack of drug-parasite proteins binding affinity data for identifying anti-parasitic drugs.
+
+---
+### Network pharmacology and bioinformatics analysis of the potential mechanism of morin against myocardial infarction.
+**PMID:** [43077428](https://pubmed.ncbi.nlm.nih.gov/43077428/)
+
+**Abstract:** As a typical natural flavonoid compound, morin exerts definite cardioprotective effects. Nevertheless, its specific molecular regulatory mechanisms in the treatment of myocardial infarction have not been fully elucidated.
+
+---
+### From Receptor to Reproduction: Molecular and Functional Characterization of NMDA Receptor Signaling in Bemisia tabaci Asia II-1.
+**PMID:** [43077411](https://pubmed.ncbi.nlm.nih.gov/43077411/)
+
+**Abstract:** N-methyl-d-aspartate receptors (NMDARs) are ionotropic glutamate receptors that regulate neuronal calcium signaling and intracellular secondary messenger pathways, playing pivotal roles in synaptic plasticity, neuronal development, and neurological disorders in vertebrates. Despite their evolutionary conservation, the molecular characteristics and physiological functions of NMDARs remain largely unexplored in insects. In the present study, we characterized and functionally validated two NMDAR subunits, Btab N1 and Btab N2, in the agricultural pest Bemisia tabaci using an integrated molecular, structural, pharmacological, genetic, and physiological approach. Spatial and temporal expression analyses revealed predominant expression in the head and thorax and elevated transcript abundance in pre-pupa and adults. Protein structural modeling predicted a conserved hetero-tetrameric receptor architecture, while molecular docking demonstrated favorable binding of the non-competitive antagonist MK-801 within the predicted channel pore. Pharmacological inhibition and RNA interference consistently suppressed NMDAR expression and disrupted downstream calcium signaling components, including calmodulin (CaM), calcium/calmodulin-dependent protein kinase II (CaMKII), cAMP response element-binding protein (CREB), protein kinase C (PKC), and nitric oxide synthase (NOS). This suppression was accompanied by significant downregulation of Juvenile Hormone Acid O-methyltransferase (JHAMT) and Vitellogenin genes, and a substantial ~32%-35% reduction of juvenile hormone titer in adults, pronounced as reduced oviposition, egg hatchability, and nymphal establishment in oviposition assay. Collectively, our findings establish NMDAR-mediated calcium signaling as a neuroendocrine regulator linking neuronal activity to juvenile hormone biosynthesis and reproductive fitness in B. tabaci, highlighting NMDARs as promising molecular targets for next-generation whitefly management.
+
+---
+### Protocol for quantifying locus-specific transposable element transcripts in single-cell RNA-seq data with Stellarscope.
+**PMID:** [43077291](https://pubmed.ncbi.nlm.nih.gov/43077291/)
+
+**Abstract:** While single-cell and single-nuclei RNA sequencing (sc/snRNA-seq) technologies provide high-resolution transcriptomic measurements, they typically ignore transposable element (TE) transcripts due to technical challenges. Here, we present a protocol for quantifying locus-specific TE transcripts in scRNA-seq data using Stellarscope. We describe steps for installing Stellarscope, obtaining references and data, and multimapping alignment. We then detail procedures for reassigning reads and merging canonical gene (CG) and TE matrices. Finally, we demonstrate joint CG-TE downstream analysis using an established single-cell preprocessing workflow.
+
+---
