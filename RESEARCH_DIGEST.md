@@ -10588,3 +10588,30 @@
 **Abstract:** Intratumoral heterogeneity (ITH) is a central feature of cancer biology and a major obstacle to effective long-term treatment; it encompasses the presence of diverse cellular subpopulations within a single tumor or across metastatic sites, differing at the genetic, epigenetic, transcriptional, metabolic and phenotypic levels. This diversity fuels tumor evolution, promotes immune evasion, facilitates metastasis and drives resistance to therapy. Recent technological advances, including next-generation sequencing, single-cell multi-omics, spatial transcriptomics and liquid biopsies, have revealed tumors as dynamic and adaptive ecosystems shaped by clonal competition and interactions with the tumor microenvironment. In addition to clonal evolution, tumor plasticity has emerged as a key mechanism, allowing cancer cells to reversibly shift between functional states (such as stem-like, proliferative, invasive, mesenchymal and drug-tolerant) without requiring new genetic mutations. This adaptability notably contributes to treatment failure and disease recurrence. The biological basis of ITH involves genomic instability, epigenetic alterations, cancer stem cells and microenvironmental influences. Both spatial and temporal heterogeneity further complicate diagnosis and treatment, as tumor composition evolves and varies across regions. Current evidence suggests that integrating comprehensive molecular profiling with longitudinal monitoring could enable adaptive, personalized therapeutic strategies.
 
 ---
+
+## PubMed Update: 2026-11-28 01:13:22
+
+### Interpretable Continuous Glucose Monitoring Patterns of Type 1 and Type 2 Diabetes Across Cohorts and Sensors: Development and External Validation Study.
+**PMID:** [43102906](https://pubmed.ncbi.nlm.nih.gov/43102906/)
+
+**Abstract:** Distinguishing type 1 diabetes (T1D) from type 2 diabetes (T2D) guides treatment, but adult presentations overlap. Continuous glucose monitoring (CGM) captures day-to-day glucose patterns, but CGM studies differ in recruitment, treatment, and sensor manufacturer, complicating classifier evaluation.
+
+---
+### Identification of calcium signaling-associated biomarkers in postmenopausal osteoporosis via multi-omics analysis and experimental validation.
+**PMID:** [43102664](https://pubmed.ncbi.nlm.nih.gov/43102664/)
+
+**Abstract:** Calcium signaling dysregulation is a core pathological process in postmenopausal osteoporosis (PMOP). However, no study has systematically explored calcium-related genes as biomarkers in PMOP.
+
+---
+### Identification of calcium signaling-associated biomarkers in postmenopausal osteoporosis via multi-omics analysis and experimental validation.
+**PMID:** [43102664](https://pubmed.ncbi.nlm.nih.gov/43102664/)
+
+**Abstract:** Calcium signaling dysregulation is a core pathological process in postmenopausal osteoporosis (PMOP). However, no study has systematically explored calcium-related genes as biomarkers in PMOP.
+
+---
+### From Data to Discovery: Downstream Interpretation of High-Dimensional Omics Data for Precision Medicine.
+**PMID:** [43102799](https://pubmed.ncbi.nlm.nih.gov/43102799/)
+
+**Abstract:** With growing technological advances over the last several years, an abundance of high-dimensional multi-omics data has been and continues to be generated across various spatial scales, tissues, and diseases. The volume and complexity of these data hold tremendous potential for biological insight that advances our understanding of cell types and states in both healthy and diseased tissue [1]. Integrating multiple data modalities within and across spatial scales enables us to gain a more comprehensive understanding of biological processes in the genome, epigenome, transcriptome, proteome, and metabolome. These insights are the foundation for identifying disease and treatment response biomarkers for diagnosis and prognosis and for advancing targeted therapeutics, precision oncology, and cancer immunotherapy [2].
+
+---
